@@ -1,0 +1,11 @@
+{
+  "data\\localization\\chapter2_loc_en_0.db": {
+    "pool_start": 7645,
+    "pool_size": 24010,
+    "file_size": 31655,
+    "string_count": 578,
+    "strings": [
+      { "index": 0, "pool_offset": 0, "original": "Red berries", "translation": "" }
+    ]
+  }
+}

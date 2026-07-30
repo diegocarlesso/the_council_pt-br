@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "source_language": "en",
+  "target_language": "pt-BR",
+  "entries": [
+    {
+      "source": "Red berries",
+      "target": "Frutas vermelhas",
+      "context": "Item inventário - chapter2",
+      "category": "Itens",
+      "status": "approved",
+      "usage_count": 1
+    }
+  ]
+}
