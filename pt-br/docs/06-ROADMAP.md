@@ -1,17 +1,22 @@
 # Roadmap Faseado
 
-## Fase 0 — Provar que a reinjeção funciona (bloqueador crítico)
-- Escrever `repack_db.py` (pool de strings → `.db`) e `repack_cpk.py`
-  (recalcular offsets/tamanhos → `.cpk`).
-- Teste round-trip sem alteração (extrair → reempacotar → comparar com o
-  original).
-- Teste com 1 string alterada (incluindo uma versão mais longa que a
-  original) → confirmar que o jogo carrega e exibe corretamente.
-- Investigar em paralelo como o jogo decide o idioma disponível
-  (`packagelist`, menu de opções) para saber se dá para adicionar
-  `Loca_pt_Main` ou se é preciso sobrescrever `Loca_en_Main`.
-- **Critério de saída da fase**: um `.cpk` modificado carrega no jogo com
-  pelo menos uma string visivelmente traduzida, sem quebrar nada.
+## Fase 0 — Provar que a reinjeção funciona (bloqueador crítico) ✅ concluída em 2026-08-03
+- ✅ `repack_db.py` e `repack_cpk.py` escritos e testados (round-trip
+  byte-idêntico sem alteração; ver `test_repack_roundtrip.py`).
+- ✅ Teste em jogo real com strings alteradas, incluindo versões mais
+  longas que o original: falas de missão/diálogo (85% do corpus)
+  carregam e exibem corretamente **sem restrição de tamanho**.
+- ⚠️ Achado importante: um pequeno cluster de strings de
+  `common_loc_en_0.db` ligado à tela de boot/menu (`PLAY`, `Savegame
+  1/2/3`) precisa manter o mesmo tamanho em bytes do original — mitigação
+  validada (preencher/cortar a tradução). Ver
+  [04-RISCOS_TECNICOS.md](04-RISCOS_TECNICOS.md#1-reinjeção--resolvida-para-diálogomissão-com-uma-exceção-confirmada-em-common_loc_en_0db)
+  para o detalhe completo.
+- ✅ Idioma: caminho definido é sobrescrever `Loca_en_Main` (não existe
+  `Loca_pt_Main`, ver [04-RISCOS_TECNICOS.md](04-RISCOS_TECNICOS.md#2-como-o-jogo-carrega-idioma--investigado-caminho-definido)).
+- **Critério de saída da fase**: ✅ atingido — `.cpk` modificado carrega no
+  jogo com strings visivelmente traduzidas (menu e diálogo), sem quebrar
+  nada, restaurado ao original ao final do teste.
 
 ## Fase 1 — Tooling de produção
 - `preprocess.py`: dedup, detecção de não-traduzível, categorização,

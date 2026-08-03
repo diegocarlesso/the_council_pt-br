@@ -4,4 +4,8 @@
 # Big Bad Wolf/Focus Entertainment) — nunca versionar aqui.
 *.cpk
 *.cpkh
+*.orig_backup
 Extracted_Loc_En/
+
+# Artefatos de execução Python
+__pycache__/
