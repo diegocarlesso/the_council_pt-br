@@ -11,13 +11,16 @@ Brasil. Este ciclo é só planejamento — nenhuma string foi traduzida ainda.
 - [docs/02-FERRAMENTAS_E_TOOLING.md](docs/02-FERRAMENTAS_E_TOOLING.md) —
   ferramentas por etapa, lição aprendida sobre o aider
 - [docs/03-MODELOS_IA_E_CUSTOS.md](docs/03-MODELOS_IA_E_CUSTOS.md) —
-  estratégia de modelos de IA e economia de créditos/limites
+  estratégia de modelos de IA e economia de créditos/limites (raciocínio
+  original; ver 07 para a decisão final)
 - [docs/04-RISCOS_TECNICOS.md](docs/04-RISCOS_TECNICOS.md) — riscos que
   podem inviabilizar o projeto se não forem resolvidos cedo (reinjeção no
   jogo é o principal)
 - [docs/05-GLOSSARIO_E_MEMORIA.md](docs/05-GLOSSARIO_E_MEMORIA.md) —
   convenções de glossário/TM
 - [docs/06-ROADMAP.md](docs/06-ROADMAP.md) — fases do projeto
+- [docs/07-EQUIPE_E_MODELOS_ANTHROPIC.md](docs/07-EQUIPE_E_MODELOS_ANTHROPIC.md) —
+  papéis da equipe, cascata Haiku/Sonnet/Opus, revezamento aider ↔ Claude Code
 
 ## Dados de trabalho
 - `glossary.json` — termos travados

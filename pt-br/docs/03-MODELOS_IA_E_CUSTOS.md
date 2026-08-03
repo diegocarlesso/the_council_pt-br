@@ -1,5 +1,18 @@
 # Modelos de IA e Estratégia de Custo
 
+> **Atualização 2026-08-03 — decisão: cascata 100% Anthropic.** A estratégia
+> original abaixo (Tier 0 grátis via OpenRouter `:free`) foi **substituída**.
+> Motivo: os próprios incidentes registrados em
+> [02-FERRAMENTAS_E_TOOLING.md](02-FERRAMENTAS_E_TOOLING.md#lição-aprendida-fragmentação-de-saída)
+> (`deepseek-r1:free` sumindo, `qwen3-coder:free`/`nemotron` fragmentando
+> arquivos) já mostravam que modelo grátis rotativo não é confiável como
+> dependência de um pipeline de meses. Ver
+> [07-EQUIPE_E_MODELOS_ANTHROPIC.md](07-EQUIPE_E_MODELOS_ANTHROPIC.md) para a
+> cascata Haiku 4.5 → Sonnet 5 → Opus 5, papéis da equipe e como aider/Claude
+> Code se revezam. O restante deste documento fica como registro do raciocínio
+> original (a lógica de cascata TM → barato → premium continua válida, só
+> mudou quem ocupa cada degrau).
+
 ## Números que definem o orçamento
 
 Medidos direto em `localization_dump.json` (ver
