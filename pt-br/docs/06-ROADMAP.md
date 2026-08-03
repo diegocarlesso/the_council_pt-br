@@ -18,14 +18,39 @@
   jogo com strings visivelmente traduzidas (menu e diálogo), sem quebrar
   nada, restaurado ao original ao final do teste.
 
-## Fase 1 — Tooling de produção
-- `preprocess.py`: dedup, detecção de não-traduzível, categorização,
-  extração de candidatos a glossário.
-- `translate_batch.py`: chamada de API com saída estruturada, cascata de
-  modelos (TM → Tier 0 → Tier 1 → Tier 2 conforme
-  [03-MODELOS_IA_E_CUSTOS.md](03-MODELOS_IA_E_CUSTOS.md)).
-- `validate_batch.py`: QA automática por lote.
-- Consolidar prompt de sistema em `pt-br/prompts/translation_system_prompt.md`.
+## Fase 1 — Tooling de produção ✅ construída e testada em 2026-08-03 (tradução real ainda não rodou)
+- ✅ `preprocess.py`: dedup, detecção de não-traduzível, categorização,
+  extração de candidatos a glossário. Rodado sobre o corpus real: 40.347 →
+  21.836 únicas (bate com [00-VISAO_GERAL.md](00-VISAO_GERAL.md)); 21.806
+  traduzíveis, 30 não-traduzíveis (2 comando, 26 suspeita de puzzle — foram
+  além do baú já documentado em `puzzle_codes.md`, achou letras soltas em
+  mais lugares —, 2 termo de glossário exato); 11 strings sinalizadas como
+  `menu_boot_suspect` (cluster de tamanho fixo da Fase 0); 200 candidatos a
+  glossário gerados em `glossary_candidates.json` para revisão manual.
+- ✅ `translate_batch.py`: monta lotes por categoria (300–500, nunca mistura
+  UI com diálogo), cascata Haiku 4.5 (Sistema/Teste) → Sonnet 5
+  (Diálogo/Item), saída estruturada via `output_config.format`
+  (JSON garantido), prompt cacheado (regras+glossário fixos). Testado com
+  `--dry-run` (monta os 438 lotes do corpus real sem chamar API) e
+  verificação manual da montagem do prompt de sistema (glossário injetado,
+  seção de lote removida do prompt fixo para não invalidar o cache). Ainda
+  **não rodou de verdade** — falta `pip install anthropic` +
+  `ANTHROPIC_API_KEY`.
+- ✅ `validate_batch.py`: QA automática por lote (placeholders, tags,
+  comandos, quebras de linha, termos travados, ajuste automático do
+  cluster de menu de boot, aviso de crescimento de tamanho). Testado com
+  lote sintético cobrindo os 7 casos (aprovação normal, placeholder
+  divergente, termo travado violado, ajuste de tamanho de menu, aviso de
+  crescimento, tradução vazia, canonical_id inexistente) — todos os 7
+  resultados bateram com o esperado.
+- ✅ Prompt de sistema já estava consolidado em
+  `pt-br/prompts/translation_system_prompt.md` desde o planejamento
+  inicial — `translate_batch.py` extrai e usa o bloco "Tradutor de lote"
+  direto do arquivo (nunca redigitado no script).
+- **Próximo passo real**: configurar `ANTHROPIC_API_KEY` e rodar
+  `translate_batch.py` sem `--dry-run` num lote pequeno (ex.
+  `--max-batches 1 --batch-size 20`) para validar o loop de ponta a ponta
+  antes de liberar tradução em massa (Fase 3).
 
 ## Fase 2 — Glossário e fundação
 - Rodar extração de candidatos sobre o corpus completo, você revisa e

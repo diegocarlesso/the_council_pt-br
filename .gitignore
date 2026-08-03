@@ -9,3 +9,11 @@ Extracted_Loc_En/
 
 # Artefatos de execução Python
 __pycache__/
+
+# Gerado por preprocess.py a partir de localization_dump.json + glossary.json
+# (100% regenerável rodando `python preprocess.py`, não precisa versionar)
+preprocessed.json
+
+# Saída de translate_batch.py — lotes brutos da IA antes de validate_batch.py
+# revisar; o que passa vai para translation_memory.json (isso sim versionado)
+pt-br/batches/

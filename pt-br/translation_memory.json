@@ -4,12 +4,2173 @@
   "target_language": "pt-BR",
   "entries": [
     {
+      "canonical_id": "c_d0122bd254ce",
       "source": "Red berries",
       "target": "Frutas vermelhas",
       "context": "Item inventário - chapter2",
       "category": "Itens",
       "status": "approved",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_3f568b42fc8f",
+      "source": "Looks like I've found a box containing...  some kind of white crystals.",
+      "target": "Parece que encontrei uma caixa contendo... algum tipo de cristais brancos.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bc95a35ac89e",
+      "source": "Consume the crystals",
+      "target": "Consumir os cristais",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_805afc0cc1f5",
+      "source": "Well, let's see what it tastes like.",
+      "target": "Bem, vamos ver que gosto isso tem.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e75acb1fac6a",
+      "source": "I really need to stop tasting everything I find.",
+      "target": "Eu realmente preciso parar de provar tudo o que encontro.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0a83ccf38fa1",
+      "source": "Examine the crystals",
+      "target": "Examinar os cristais",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9ca81f9c189b",
+      "source": "These are magnesium crystals.",
+      "target": "Estes são cristais de magnésio.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3d408d52f7ea",
+      "source": "A fairly effective remedy for easing anxiety.",
+      "target": "Um remédio bastante eficaz para aliviar a ansiedade.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7cfc3b5ec72d",
+      "source": "Move aside",
+      "target": "Afaste-se",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9a551163aa4f",
+      "source": "These documents were burned recently.",
+      "target": "Estes documentos foram queimados recentemente.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4167a5127582",
+      "source": "Judging from what's left, it looks like a medical file.",
+      "target": "A julgar pelo que restou, parece ser um prontuário médico.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_48d5f291b585",
+      "source": "Too bad. Pretty much unreadable now.",
+      "target": "Uma pena. Está praticamente ilegível agora.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_35b265224bfa",
+      "source": "\"The ladies Waldegrave\" by Reynolds, painted upon the request of the Waldegrave family in an effort to find them a husband.",
+      "target": "\"As Damas Waldegrave\", de Reynolds, pintado a pedido da família Waldegrave numa tentativa de arranjar maridos para elas.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_79b295313e9a",
+      "source": "Displayed like meat. It's disgusting.",
+      "target": "Exibidas como carne no açougue. Que nojo.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cd8f0268f301",
+      "source": "\"King George III in coronation robes\".",
+      "target": "\"O Rei Jorge III em trajes de coroação\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bab49670c1db",
+      "source": "Nice touch for the room of an English Duchess.",
+      "target": "Belo detalhe para o quarto de uma duquesa inglesa.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_75a92bac2e6b",
+      "source": "\"William Pitt, the elder, Earl of Chatham\"",
+      "target": "\"William Pitt, o Velho, Conde de Chatham\"",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a71b450617b6",
+      "source": "Emily works with his son.",
+      "target": "Emily trabalha com o filho dele.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_441287b61000",
+      "source": "\"Queen Charlotte\". All the royal family of England is there, from what I can tell.",
+      "target": "\"Rainha Charlotte\". Pelo visto, toda a família real da Inglaterra está representada aqui.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e459e7630a6e",
+      "source": "\"Tending Children at the Orphanage in Haarlem\".",
+      "target": "\"Cuidando de Crianças no Orfanato de Haarlem\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6dc725d66b4d",
+      "source": "I find it a little hard to understand this choice of painting.",
+      "target": "Acho um pouco difícil entender essa escolha de pintura.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_108539e1ff1a",
+      "source": "Crucifixion of St. Peter. He was crucified upside down out of humility.",
+      "target": "Crucificação de São Pedro. Ele foi crucificado de cabeça para baixo por humildade.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_eb39bef86bad",
+      "source": "Surprising for an entrance hall.",
+      "target": "Surpreendente, para um saguão de entrada.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8c89514953a4",
+      "source": "\"Saturn devouring his son\". Good God, how awful!",
+      "target": "\"Saturno Devorando Seu Filho\". Meu Deus, que horror!",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c97883cf648f",
+      "source": "Everything in this painting is disturbing. It's the first time I've seen brush strokes like this.",
+      "target": "Tudo nesta pintura é perturbador. É a primeira vez que vejo pinceladas assim.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_598d1a57ed33",
+      "source": "\"The Blind Oedipus\" Blinded himself, what a tragic destiny.",
+      "target": "\"Édipo Cego\". Ele mesmo se cegou, que destino trágico.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a7cae9867cf6",
+      "source": "\"Fall of the Damned\" by Rubens.",
+      "target": "\"A Queda dos Condenados\", de Rubens.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7ddc19dc582e",
+      "source": "The man who cannot achieve the salvation of God the Father is offered a fall into the depths of the abyss.",
+      "target": "Ao homem que não alcança a salvação de Deus Pai, resta a queda nas profundezas do abismo.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3dae35b7378d",
+      "source": "The Incredulity of Saint Thomas. Why has Caravaggio represented Saint Thomas putting his finger in the wound?",
+      "target": "A Incredulidade de São Tomé. Por que Caravaggio representou São Tomé enfiando o dedo na ferida?",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_155899d63a87",
+      "source": "Thomas looks on but doesn't touch.",
+      "target": "Tomé observa, mas não toca.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_db300cea9a85",
+      "source": "\"Judith Beheading Holofernes\". Ironic in a way, when you know that the artist represented herself as Judith beheading her mentor, who had raped her.",
+      "target": "\"Judite Decapitando Holofernes\". Irônico, quando se sabe que a artista se retratou como Judite decapitando seu mentor, que a havia estuprado.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_55b973eaf2be",
+      "source": "\"Last Judgment\"...",
+      "target": "\"Juízo Final\"...",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9e95c1c778a6",
+      "source": "Why do I always get the most terrifying room?",
+      "target": "Por que eu sempre fico com o quarto mais aterrorizante?",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3b8801e3f4d9",
+      "source": "\"The Conversion of Saint Paul\" by Caravaggio.",
+      "target": "\"A Conversão de São Paulo\", de Caravaggio.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3021538709ef",
+      "source": "It's incredible, it doesn't look like a copy, but I was sure the original was in Rome.",
+      "target": "Incrível, não parece uma cópia, mas eu tinha certeza de que o original estava em Roma.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c4e7b49530f1",
+      "source": "\"Saint Francis of Assisi in Ecstasy\", before superior voices.",
+      "target": "\"São Francisco de Assis em Êxtase\", diante de vozes superiores.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e122910aa6e0",
+      "source": "It always amuses me to see how art gets used for propaganda purposes.",
+      "target": "Sempre me diverte ver como a arte é usada para fins de propaganda.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ad37b9b0409d",
+      "source": "\"The Torture of Ixion\", condemned by the Gods to lose his mind because of his arrogance.",
+      "target": "\"O Suplício de Íxion\", condenado pelos deuses a perder a razão por causa de sua arrogância.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_808e60a7598e",
+      "source": "\"Saint Jerome and the Angel\"",
+      "target": "\"São Jerônimo e o Anjo\"",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_07dfa693cad1",
+      "source": "Yet again, art with political undertones, and an image of a saint hearing voices.",
+      "target": "Mais uma vez, arte com tons políticos, e a imagem de um santo ouvindo vozes.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_32c9cc7b9b6f",
+      "source": "\"Saturn Devouring His Son\". Again. I saw the same theme in the hall.",
+      "target": "\"Saturno Devorando Seu Filho\". De novo. Já vi o mesmo tema no saguão.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9b8c9fd3743d",
+      "source": "I wouldn't like to be his son.",
+      "target": "Eu não gostaria de ser filho dele.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5a060201cb79",
+      "source": "\"The Inspiration of Saint Matthew\" or Mathew writing his gospel, dictated to him by voices.",
+      "target": "\"A Inspiração de São Mateus\", ou Mateus escrevendo seu evangelho, ditado por vozes.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_56880dfac23a",
+      "source": "\"Vercingetorix throws down his weapons at the feet of Julius Caesar,\" by Royer.",
+      "target": "\"Vercingetorix Depõe as Armas aos Pés de Júlio César\", de Royer.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b446f00c946e",
+      "source": "Two great warlords.",
+      "target": "Dois grandes senhores da guerra.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b629abe727ff",
+      "source": "Nero painted by Delacroix, in the guise of French actor Talma, in Britannicus",
+      "target": "Nero, pintado por Delacroix, com o rosto do ator francês Talma, em Britannicus",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_49ac21d2fbd1",
+      "source": "The last emperor of Caesar's dynasty.",
+      "target": "O último imperador da dinastia de César.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_58d133b9a5e3",
+      "source": "\"The battle of Alexander at Issus\" or how Alexander the Great triumphed over King Darius.",
+      "target": "\"A Batalha de Alexandre em Issos\", ou como Alexandre, o Grande, triunfou sobre o rei Dario.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f36e17680e48",
+      "source": "Issou!",
+      "target": "Issou!",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f420deb8d822",
+      "source": "Yet another one with delusions of grandeur!",
+      "target": "Mais um com delírios de grandeza!",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7e5d18d62cdd",
+      "source": "\"Hannibal crossing the Alps\". Another military success.",
+      "target": "\"Aníbal Atravessando os Alpes\". Mais um sucesso militar.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c1de1d41ec49",
+      "source": "Why do I get nothing but visions of horror all over my room, and he gets victory after victory?",
+      "target": "Por que só tenho visões de horror em todo o meu quarto, e ele só tem vitória atrás de vitória?",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6b29392281a3",
+      "source": "The Massacre of the innocents by Rubens. A bit gloomy. Guess my room...  is not that bad.",
+      "target": "O Massacre dos Inocentes, de Rubens. Um tanto sombrio. Acho que meu quarto... não está tão ruim assim.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_57fb7c7e1c14",
+      "source": "Nice decoration for the room of a revolutionary tribunal's judge.",
+      "target": "Bela decoração para o quarto de um juiz do tribunal revolucionário.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8d4c14977614",
+      "source": "The Massacre of the Innocents, but by Van Haarlem. I think that Mortimer likes to play mind games with his guests.",
+      "target": "O Massacre dos Inocentes, mas de Van Haarlem. Acho que Mortimer gosta de brincar com a cabeça dos convidados.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6ba5923ee8c4",
+      "source": "Another painting on \"The Massacre of the Innocents\"",
+      "target": "Outra pintura sobre \"O Massacre dos Inocentes\"",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_447ed11d79d7",
+      "source": "\"Yselia\".",
+      "target": "\"Yselia\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9b6a177a2439",
+      "source": "That name means nothing to me.",
+      "target": "Esse nome não significa nada para mim.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_106be7a4e6f4",
+      "source": "The \"Company\" by Rembrandt",
+      "target": "A \"Companhia\", de Rembrandt",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8117936a2117",
+      "source": "\"The Fall of Phaeton\", another painting by Rubens.",
+      "target": "\"A Queda de Faetonte\", outra pintura de Rubens.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c57516c67333",
+      "source": "Poor Phaeton, struck by lightening for borrowing his father's chariot and losing control of it. Moral : don't steal Dad's chariot !",
+      "target": "Pobre Faetonte, atingido por um raio por pegar emprestada a carruagem do pai e perder o controle dela. Moral da história: não roube a carruagem do papai!",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_192a8fa98c5a",
+      "source": "Poor Phaeton, struck by a lightning bolt from his father Apollo for having borrowed, and lost control of, his chariot. Moral: don't steal father's chariot!",
+      "target": "Pobre Faetonte, atingido por um raio lançado pelo próprio pai, Apolo, por ter pego emprestada a carruagem e perdido o controle dela. Moral da história: não roube a carruagem do papai!",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_6269006152f4",
+      "source": "\"Francois I receiving The Holy Family\", a painting by Raphael.",
+      "target": "\"Francisco I Recebendo a Sagrada Família\", uma pintura de Rafael.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0a66aa4e6e51",
+      "source": "Look, that's funny, one of the men at the back looks like Lord Mortimer.",
+      "target": "Olha, que engraçado, um dos homens ao fundo se parece com Lord Mortimer.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f6e8fe8e9d2f",
+      "source": "Ah, a painting by Ingres: \"Moliere dining with Louis XIV\".",
+      "target": "Ah, uma pintura de Ingres: \"Molière Jantando com Luís XIV\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4a0352abf6a0",
+      "source": "The King's posture is surprising. It's almost as if he's addressing someone in the assembly.",
+      "target": "A postura do rei é surpreendente. Quase como se ele estivesse se dirigindo a alguém na plateia.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_874d9d3be8da",
+      "source": "Uh, a painting with no name.",
+      "target": "Uma pintura sem nome, hein.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8276d56546a6",
+      "source": "\"Allegory of the Declaration of the Rights of Man\".",
+      "target": "\"Alegoria da Declaração dos Direitos do Homem\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0b6aa7e3443b",
+      "source": "That's the least you could say.",
+      "target": "Isso é o mínimo que se pode dizer.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5df405c1c411",
+      "source": "\"Liberty or Death\" by Régnault. Yeah, I'll take liberty, please.",
+      "target": "\"Liberdade ou Morte\", de Régnault. É, eu fico com a liberdade, por favor.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f372bf16ef5b",
+      "source": "But I do understand his choice, even though it seems radical.",
+      "target": "Mas eu entendo a escolha dele, mesmo que pareça radical.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_17e36f17660a",
+      "source": "\"The Last Supper\" by Leonardo da Vinci.",
+      "target": "\"A Última Ceia\", de Leonardo da Vinci.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_23664f28e2e4",
+      "source": "The last day before his crucifixion, Jesus announces that he will be betrayed by one of his disciples.",
+      "target": "No último dia antes de sua crucificação, Jesus anuncia que será traído por um de seus discípulos.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_039aaca44617",
+      "source": "\"Christ Crucified\" by Velazquez.",
+      "target": "\"Cristo Crucificado\", de Velázquez.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_109118baa8a3",
+      "source": "Interesting! Someone's left a note here, \"Reserved for the Duke of Alcudia\".",
+      "target": "Interessante! Alguém deixou um bilhete aqui: \"Reservado para o Duque de Alcudia\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_771f7ff72f3e",
+      "source": "\"Meeting between Louis XIV and Philip V\".",
+      "target": "\"Encontro entre Luís XIV e Filipe V\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d2f4c417de78",
+      "source": "I wonder why Mortimer is particularly fond of this painting?",
+      "target": "Por que será que Mortimer gosta tanto dessa pintura?",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_dd34b97a2df1",
+      "source": "\"Circe preparing wine\". What better trap for Ulysses?",
+      "target": "\"Circe Preparando o Vinho\". Que armadilha perfeita para Ulisses.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6ad94eeb8e4b",
+      "source": "This painting has caused some debate. Who did Dossi paint? Alcina the fairy or Circe the magician?",
+      "target": "Essa pintura já causou certa polêmica. Quem Dossi pintou? A fada Alcina ou a feiticeira Circe?",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_47ffee6daa4c",
+      "source": "Swine...  in a salon?...  that's an odd choice of decoration.",
+      "target": "Porcos... num salão?... que escolha estranha de decoração.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bdcf478ee689",
+      "source": "Romney painted Lady Hamilton as Circe.",
+      "target": "Romney pintou Lady Hamilton como Circe.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8bd559d7dd5c",
+      "source": "Circe turning Ulysses' companions back into humans.",
+      "target": "Circe transformando os companheiros de Ulisses de volta em humanos.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b05063ce7441",
+      "source": "Dining on ham. Hmm. How very appetizing.",
+      "target": "Jantando presunto. Hmm. Que apetitoso.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7fcb8c8a68e4",
+      "source": "\"The Conversion of Ulysses\" by Gourse. Circe changing Ulysses' companions into swine.",
+      "target": "\"A Conversão de Ulisses\", de Gourse. Circe transformando os companheiros de Ulisses em porcos.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6aa5b6dd3c89",
+      "source": "Ulysses and Circe at table. If I were you, Ulysses, I wouldn't drink the wine.",
+      "target": "Ulisses e Circe à mesa. Se eu fosse você, Ulisses, não beberia esse vinho.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b85cf2edaf5f",
+      "source": "Circe.",
+      "target": "Circe.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6df937e54783",
+      "source": "Old Europe",
+      "target": "Velha Europa",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8ca68baf38bb",
+      "source": "A map of Vermont",
+      "target": "Um mapa de Vermont",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_589e659fa950",
+      "source": "A map of Massachusetts",
+      "target": "Um mapa de Massachusetts",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_00959120ec1b",
+      "source": "A map of Connecticut",
+      "target": "Um mapa de Connecticut",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e3f468954a74",
+      "source": "Portrait of George Washington",
+      "target": "Retrato de George Washington",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8cdee19c045d",
+      "source": "The signs of obscurantism",
+      "target": "Os sinais do obscurantismo",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_aa9747b3280d",
+      "source": "The alchemist as a young man",
+      "target": "O alquimista quando jovem",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fab809cd9ac6",
+      "source": "The signs of the zodiac",
+      "target": "Os signos do zodíaco",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_02b4b7909ecb",
+      "source": "A table of alchemical symbols.",
+      "target": "Uma tabela de símbolos alquímicos.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3aae4734c9ff",
+      "source": "Someone circled the \"Zinc\" symbol.",
+      "target": "Alguém circulou o símbolo do \"Zinco\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ac3693e5c084",
+      "source": "The alchemist as an old man",
+      "target": "O alquimista quando velho",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_049ac07cd64a",
+      "source": "Atrus, by the Miller brothers.",
+      "target": "Atrus, dos irmãos Miller.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5f795ebcbf06",
+      "source": "Mother expressly forbade me from reading it.",
+      "target": "Minha mãe proibiu terminantemente que eu lesse isso.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_47ef300f145e",
+      "source": "Don Quichotte, \"Talking without thinking is like shooting without taking aim\".",
+      "target": "Dom Quixote: \"Falar sem pensar é como atirar sem mirar\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_38b1b387859c",
+      "source": "I'm gonna have to think about that one...",
+      "target": "Vou ter que pensar sobre isso...",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2b881897ff66",
+      "source": "The Chronicles of Amber...",
+      "target": "As Crônicas de Âmbar...",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c1feae07194a",
+      "source": "As I recall, Dworkin was my favorite character.",
+      "target": "Se bem me lembro, Dworkin era meu personagem favorito.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2f176b568610",
+      "source": "Dante's Paradise.",
+      "target": "O Paraíso de Dante.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_681df90a0b05",
+      "source": "\"Raise your head and be reassured, for what comes up here from the mortal world must ripen in our rays.\"",
+      "target": "\"Ergue a cabeça e tranquiliza-te, pois o que sobe até aqui vindo do mundo mortal deve amadurecer sob os nossos raios.\"",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_97842b3be66f",
+      "source": "Dante's Purgatory.",
+      "target": "O Purgatório de Dante.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2281ab4d1758",
+      "source": "\"Why does your mind presume to flight when you are still like the imperfect grub, the worm before it's attained its final form?\"",
+      "target": "\"Por que tua mente se atreve a voar, se ainda és como a larva imperfeita, o verme antes de atingir sua forma final?\"",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e61a5d409a7d",
+      "source": "Charming...",
+      "target": "Encantador...",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_441e3587bb3c",
+      "source": "« The Song of Roland. Roland feeleth his death is near. His brain is oozing by either ear. »",
+      "target": "« A Canção de Rolando. Rolando sente que sua morte está próxima. Seu cérebro escorre por ambos os ouvidos. »",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b7118d120fbf",
+      "source": "With his brain oozing, it's already remarkable that he can still FEEL something...",
+      "target": "Com o cérebro escorrendo, já é surpreendente que ele ainda consiga SENTIR alguma coisa...",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1442de7228fd",
+      "source": "Fragments of Amber.",
+      "target": "Fragmentos de Âmbar.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_59dfcb97f3f5",
+      "source": "A fragment of Amber.",
+      "target": "Um fragmento de Âmbar.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_27a01d477203",
+      "source": "Amber",
+      "target": "Âmbar",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bd3ae83f683c",
+      "source": "Golden Elixir",
+      "target": "Elixir Dourado",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_6c7bb08dcf5c",
+      "source": "Golden Elixir. Be careful not to overindulge.",
+      "target": "Elixir Dourado. Cuidado para não exagerar.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f94e4f492d48",
+      "source": "Golden Elixir. Hmm, I'll keep this for later.",
+      "target": "Elixir Dourado. Hmm, vou guardar isso para depois.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_647b74f66942",
+      "source": "A Chinese coin. Recognizable by the hole in the middle. If I remember rightly, that's called a \"cash\".",
+      "target": "Uma moeda chinesa. Reconhecível pelo furo no meio. Se bem me lembro, isso se chama \"sapeca\".",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1fadbce3cbe2",
+      "source": "A Bezant",
+      "target": "Um bizante",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e7253d2342f4",
+      "source": "A Drachma",
+      "target": "Uma dracma",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d5e0576c83e7",
+      "source": "A Rouble",
+      "target": "Um rublo",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c15cdffc3adc",
+      "source": "An old sesterce from Roman Gaul.",
+      "target": "Um antigo sestércio da Gália Romana.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b4f7f679395a",
+      "source": "A Bezant from the Byzantine empire. A coin much used at the time of Saint Louis.",
+      "target": "Um bizante do Império Bizantino. Uma moeda muito usada na época de São Luís.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_000f9825a137",
+      "source": "A Greek Drachma. One of the rare ancient coins to be mentioned both in the Bible and in the Koran.",
+      "target": "Uma dracma grega. Uma das raras moedas antigas mencionadas tanto na Bíblia quanto no Alcorão.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b7d5e6a6f419",
+      "source": "Hey, a Russian rouble...  I wonder what it would be worth today",
+      "target": "Ei, um rublo russo... será que vale alguma coisa hoje em dia?",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4dd474e75dc1",
+      "source": "A pound.",
+      "target": "Uma libra.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c42063fc8048",
+      "source": "A Chinese coin.",
+      "target": "Uma moeda chinesa.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a4950bf91e50",
+      "source": "A cash.",
+      "target": "Uma sapeca.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b641d4275566",
+      "source": "A sesterce.",
+      "target": "Um sestércio.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_84b0a7afce69",
+      "source": "Honey. I couldn't have hoped for better.",
+      "target": "Mel. Não podia esperar por algo melhor.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_93dac7b74984",
+      "source": "Great, honey.",
+      "target": "Ótimo, mel.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_686928b4daa6",
+      "source": "Honey. The remedy of the gods.",
+      "target": "Mel. O remédio dos deuses.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f395912d271f",
+      "source": "Devil's thorn.",
+      "target": "Espinho-do-diabo.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_411be454139c",
+      "source": "Devil's thorn. I'll keep it.",
+      "target": "Espinho-do-diabo. Vou guardar.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_eee3580b0deb",
+      "source": "Devil's thorn...  To be used to uncover the best-disguised traits.",
+      "target": "Espinho-do-diabo... usado para revelar os traços mais bem disfarçados.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5d6aa334b84f",
+      "source": "Carmelite water.",
+      "target": "Água dos Carmelitas.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c0fa68935fb9",
+      "source": "Carmelite water. They say that if you drink this, it gives you a real boost.",
+      "target": "Água dos Carmelitas. Dizem que, se você beber isso, ganha um baita ânimo.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5ed41a02327d",
+      "source": "Carmelite water will offer me a short respite.",
+      "target": "A água dos Carmelitas vai me dar um breve alívio.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_338f52baadf8",
+      "source": "CREDITS",
+      "target": "CRÉDIT",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 5
+    },
+    {
+      "canonical_id": "c_c70f6682612b",
+      "source": "THE COUNCIL",
+      "target": "THE COUNCIL",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 3
+    },
+    {
+      "canonical_id": "c_d989be059a54",
+      "source": "A BIG BAD WOLF GAME",
+      "target": "A BIG BAD WOLF GAME",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f63334460003",
+      "source": "Executive Producer",
+      "target": "Produtor Executivo",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_92e918a7831f",
+      "source": "Project Manager",
+      "target": "Gerente de Projeto",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_e464baaf4c5d",
+      "source": "Game Director",
+      "target": "Diretor de Jogo",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_ce4c2d006e66",
+      "source": "Creative Director",
+      "target": "Diretor Criativo",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_83d24c8e6356",
+      "source": "Technical Director",
+      "target": "Diretor Técnico",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_86b4ba2ff945",
+      "source": "Story",
+      "target": "Roteiro",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_4890e4419af3",
+      "source": "Additional Story",
+      "target": "Roteiro Adicional",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_6bea6d50922e",
+      "source": "Lead Writer",
+      "target": "Roteirista-Chefe",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_b85eaee3a66b",
+      "source": "Additional Writer",
+      "target": "Roteirista Adicional",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_e5b58724b6da",
+      "source": "Lead Game Designer",
+      "target": "Game Designer Principal",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_679a84e33bd8",
+      "source": "Game and Quest Designer",
+      "target": "Designer de Jogo e Missões",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_1c9979ca0fbc",
+      "source": "Additional Game and Quest Designer",
+      "target": "Designer Adicional de Jogo e Missões",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_4d56f8a6b9bb",
+      "source": "Cinematic Designer",
+      "target": "Designer de Cinemáticas",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a930aa4509d2",
+      "source": "Additional Cinematic Designer",
+      "target": "Designer Adicional de Cinemáticas",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f43c84018d0f",
+      "source": "Gameplay Programmer",
+      "target": "Programador de Jogabilidade",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_02dfe2f54ba9",
+      "source": "UI Programmer",
+      "target": "Programador de Interface",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_c659ed6a8732",
+      "source": "Tools Programmer",
+      "target": "Programador de Ferramentas",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_df89a195550b",
+      "source": "3D Programmer",
+      "target": "Programador 3D",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_676a51d5de53",
+      "source": "Console Programmer",
+      "target": "Programador de Console",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_9e685fe57e6d",
+      "source": "Engine Programmer",
+      "target": "Programador de Engine",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_fccc22e30d2c",
+      "source": "Additional Programmers",
+      "target": "Programadores Adicionais",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f6cf557d45f6",
+      "source": "Art Director",
+      "target": "Diretor de Arte",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_71813cf0128f",
+      "source": "Lead Artist",
+      "target": "Artista Principal",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f7f2497e087e",
+      "source": "3D Artist",
+      "target": "Artista 3D",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_90f65ba2ad1f",
+      "source": "UI Designer and Artist",
+      "target": "Designer e Artista de Interface",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_85a92cfa9e82",
+      "source": "Concept Artist",
+      "target": "Artista Conceitual",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_0d135b39aace",
+      "source": "3D Character Artist",
+      "target": "Artista de Personagens 3D",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_17d632679a89",
+      "source": "Lead Animator",
+      "target": "Animador Principal",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_ee3ebc457c5a",
+      "source": "Technical Animator",
+      "target": "Animador Técnico",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_52d55422c193",
+      "source": "Animator",
+      "target": "Animador",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_37beeb0f7314",
+      "source": "Additional Animator",
+      "target": "Animador Adicional",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_743fd364d9fc",
+      "source": "Cinematic Consulting",
+      "target": "Consultoria de Cinemáticas",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_ed996467d6ba",
+      "source": "QA Department",
+      "target": "Departamento de QA",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_07c8b8184a02",
+      "source": "English Localization",
+      "target": "Localização em Inglês",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_192f5a2d169a",
+      "source": "Additional Producer",
+      "target": "Produtor Adicional",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_7dc8ba285ae6",
+      "source": "Additional Beer Programmer",
+      "target": "Programador Adicional de Cerveja",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_c75115a5bd23",
+      "source": "Additional Lead Tech Artist",
+      "target": "Artista Técnico Principal Adicional",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_330859c339a0",
+      "source": "Jack-of-all-trades",
+      "target": "Faz-tudo",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_e42a72ad9c4c",
+      "source": "Art Producer",
+      "target": "Produtor de Arte",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_0d6744500afe",
+      "source": "Team leader",
+      "target": "Líder de Equipe",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_dcff36cae327",
+      "source": "Main artist",
+      "target": "Artista Principal",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_47ee869aaf33",
+      "source": "Account Manager",
+      "target": "Gerente de Contas",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_ae30def99523",
+      "source": "3D Assets",
+      "target": "Assets 3D",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_10c35d71ded7",
+      "source": "Composer",
+      "target": "Compositor",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_dffd37e15c71",
+      "source": "Music Editor",
+      "target": "Editor de Música",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_7a9fec601954",
+      "source": "CEO",
+      "target": "CEO",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_3789be3d4be2",
+      "source": "COO",
+      "target": "COO",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f3f1496ddec9",
+      "source": "CFO",
+      "target": "CFO",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_8fb0adf608c3",
+      "source": "Lead Sound Designer",
+      "target": "Sound Designer Principal",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_cda5472dadee",
+      "source": "Sound Designers",
+      "target": "Sound Designers",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_6b800f185101",
+      "source": "Additional Sound Design",
+      "target": "Sound Design Adicional",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_2f3854bf6868",
+      "source": "Foley Artists",
+      "target": "Artistas de Foley",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_4edb2757e02b",
+      "source": "Music Integration",
+      "target": "Integração de Música",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_cd25d096dc6d",
+      "source": "Voice Director",
+      "target": "Diretor de Dublagem",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_10941ad8b845",
+      "source": "Voice Actors",
+      "target": "Dubladores",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_e319293c4490",
+      "source": "Voice Recording",
+      "target": "Gravação de Voz",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_fe009c5a795c",
+      "source": "Voice Editing",
+      "target": "Edição de Voz",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f704a30b842f",
+      "source": "Programmer",
+      "target": "Programador",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_fae2980ed623",
+      "source": "Mocap Director",
+      "target": "Diretor de Motion Capture",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_c9aae9302c9f",
+      "source": "Mocap Operator",
+      "target": "Operador de Motion Capture",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_832b7e8e8bc9",
+      "source": "Propsman",
+      "target": "Responsável por Adereços",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_fb36f0b83241",
+      "source": "Make-up",
+      "target": "Maquiagem",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_9a305083e20e",
+      "source": "Production Manager",
+      "target": "Gerente de Produção",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_dbeff32b3322",
+      "source": "Game Engine",
+      "target": "Game Engine",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_1e13913c685f",
+      "source": "Special Thanks",
+      "target": "Agradecimentos Especiais",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_97cba4858411",
+      "source": "Thanks",
+      "target": "Agradecimentos",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_739cae103df4",
+      "source": "All Alpha and Beta testers",
+      "target": "Todos os testadores de Alpha e Beta",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_af1755263748",
+      "source": "Our families and friends",
+      "target": "Nossas famílias e amigos",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_b43da4d40f4f",
+      "source": "Powered by Wwise © 2006 – 2017 Audiokinetic Inc. All rights reserved.",
+      "target": "Desenvolvido com Wwise © 2006 – 2017 Audiokinetic Inc. Todos os direitos reservados.",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a8b38279dc7c",
+      "source": "with the participation of the FAJV- Centre National du Cinéma et de l'Image Animée and the Ministère du Redressement Productif",
+      "target": "com a participação do FAJV - Centre National du Cinéma et de l'Image Animée e do Ministère du Redressement Productif",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_16d5aa6586a8",
+      "source": "President",
+      "target": "Presidente",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_38b0886faa72",
+      "source": "Production Director",
+      "target": "Diretor de Produção",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_2f84f6d7f2fc",
+      "source": "Associate Line Producer",
+      "target": "Produtor de Linha Associado",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_bdc96590e7e1",
+      "source": "Additional Production",
+      "target": "Produção Adicional",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_af6279a9ddb2",
+      "source": "Senior Release Manager",
+      "target": "Gerente de Lançamento Sênior",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_cbb07c30126d",
+      "source": "Release Managers",
+      "target": "Gerentes de Lançamento",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_68c0c8549057",
+      "source": "QA Managers",
+      "target": "Gerentes de QA",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a26531489fe4",
+      "source": "EPISODE 1: THE MAD ONES",
+      "target": "EPISÓDIO 1: OS LOUCOS",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_3ec7544b8fb6",
+      "source": "EPISODE 2: HIDE AND SEEK",
+      "target": "EPISÓDIO 2: ESCONDE-ESCONDE",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_6613391e29f4",
+      "source": "EPISODE 3: RIPPLES",
+      "target": "EPISÓDIO 3: REPERCUSSÕES",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_e55c0448e39f",
+      "source": "EPISODE 4: BURNING BRIDGES",
+      "target": "EPISÓDIO 4: PONTES QUEIMADAS",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_84258f40eb67",
+      "source": "EPISODE 5: CHECKMATE",
+      "target": "EPISÓDIO 5: XEQUE-MATE",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_753f0e2c42ab",
+      "source": "QA Analysts",
+      "target": "Analistas de QA",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_41e86f2e108b",
+      "source": "Lead QA",
+      "target": "QA Principal",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_0d880b74f6f9",
+      "source": "Runer silhouette running fast free icon made by Freepik from www.flaticon.com A",
+      "target": "Runer silhouette running fast free icon made by Freepik from www.flaticon.com A",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_0c6ea047f5d4",
+      "source": "Psychologist",
+      "target": "Psicólogo",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_5f435830a7c0",
+      "source": "Writer",
+      "target": "Roteirista",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_2d27e077d8ca",
+      "source": "Additional QA Analysts",
+      "target": "Analistas de QA Adicionais",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_ed91d5273577",
+      "source": "Go up to the second floor",
+      "target": "Subir para o segundo andar",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_fc0d35467039",
+      "source": "Go down to the first floor",
+      "target": "Descer para o primeiro andar",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a484429c205f",
+      "source": "Go up to the third floor",
+      "target": "Subir para o terceiro andar",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_eb6552c6dbe4",
+      "source": "Go down to the second floor",
+      "target": "Descer para o segundo andar",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_d37fdf0ac84a",
+      "source": "Go to the Manor",
+      "target": "Ir para a Mansão",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_fb7b9d7e650b",
+      "source": "Leave the Manor",
+      "target": "Sair da Mansão",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_80082135d943",
+      "source": "Go towards the Garden",
+      "target": "Ir em direção ao Jardim",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_ebfa263eb945",
+      "source": "Go towards the Cemetery",
+      "target": "Ir em direção ao Cemitério",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_0a8c7eb4191e",
+      "source": "Go towards the Manor",
+      "target": "Ir em direção à Mansão",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_152bee55c18c",
+      "source": "Go towards the Landing Stage",
+      "target": "Ir em direção ao Cais",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_3b0576e2ff5f",
+      "source": "Duchess Emily Hillsborrow",
+      "target": "Duquesa Emily Hillsborrow",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_ed28c86e63b8",
+      "source": "Duke Manuel Godoy",
+      "target": "Duque Manuel Godoy",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_84bc4cbabe02",
+      "source": "Monsieur Louis de Richet",
+      "target": "Monsieur Louis de Richet",
+      "context": "Sistema",
+      "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
     }
   ]
 }
