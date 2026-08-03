@@ -1,0 +1,7 @@
+.aider*
+
+# Assets originais do jogo (binários grandes, direitos autorais da Cyanide/
+# Big Bad Wolf/Focus Entertainment) — nunca versionar aqui.
+*.cpk
+*.cpkh
+Extracted_Loc_En/
