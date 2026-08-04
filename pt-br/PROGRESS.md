@@ -1,6 +1,6 @@
 # Checkpoint de Progresso — Tradução PT-BR
 
-> Gerado automaticamente por `progress_report.py` em 2026-08-03 14:06. Não edite à mão — rode o script de novo depois de cada lote validado.
+> Gerado automaticamente por `progress_report.py` em 2026-08-04 11:11. Não edite à mão — rode o script de novo depois de cada lote validado.
 
 ## Leia isto primeiro se você é uma sessão nova
 
@@ -13,7 +13,7 @@ Contexto completo em `pt-br/docs/` (comece por `00-VISAO_GERAL.md` e `06-ROADMAP
 
 ```bash
 # 1. Monta o próximo lote ainda não traduzido desta categoria
-python translate_batch.py --category "Sistema" --batch-size 60 --max-batches 1 --dry-run
+python translate_batch.py --category "Diálogo" --batch-size 60 --max-batches 1 --dry-run
 # -> escreve pt-br/batches/batch_<timestamp>_000_<categoria>.json
 # com translation:"" para cada item — a sessão de Claude Code
 # lê esse arquivo e PREENCHE o campo translation de cada item
@@ -33,9 +33,9 @@ Batch size recomendado: 50–100 quando a tradução é feita por uma sessão de
 ## Números gerais
 
 - Strings únicas traduzíveis: **21806**
-- Já resolvidas (draft ou approved na TM): **241** (1.1%)
-- Restam: **21565**
-- Por status: {'approved': 1, 'draft': 240}
+- Já resolvidas (draft ou approved na TM): **2482** (11.4%)
+- Restam: **19324**
+- Por status: {'approved': 13, 'draft': 2469}
 - Não-traduzíveis (fora desta conta, resolvidos automaticamente no merge final — placeholder/comando/puzzle/glossário exato): 30
 
 ## Progresso por categoria
@@ -43,14 +43,14 @@ Batch size recomendado: 50–100 quando a tradução é feita por uma sessão de
 | Categoria | Traduzíveis | Resolvidas | Restam | % |
 |---|---|---|---|---|
 | Diálogo | 19293 | 0 | 19293 | 0.0% |
-| Sistema | 1789 | 240 | 1549 | 13.4% |
-| Item | 693 | 1 | 692 | 0.1% |
+| Sistema | 1789 | 1789 | 0 | 100.0% |
+| Item | 693 | 693 | 0 | 100.0% |
 | Teste | 23 | 0 | 23 | 0.0% |
 | Descontinuado | 8 | 0 | 8 | 0.0% |
 
 ## Próximo lote sugerido
 
-**Sistema** — 1549 strings pendentes nesta categoria. Comando:
+**Diálogo** — 19293 strings pendentes nesta categoria. Comando:
 ```bash
-python translate_batch.py --category "Sistema" --batch-size 60 --max-batches 1 --dry-run
+python translate_batch.py --category "Diálogo" --batch-size 60 --max-batches 1 --dry-run
 ```

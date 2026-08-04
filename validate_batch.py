@@ -95,13 +95,22 @@ def check_item(original: str, translation: str, glossary_terms: list, menu_boot_
                 f"tradução={translation.count(ch)}"
             )
 
-    original_lower = original.lower()
-    translation_lower = translation.lower()
     for term in glossary_terms:
         source = term["source"]
         target = term["target"]
-        if source.lower() in original_lower and target.lower() not in translation_lower:
-            errors.append(f"termo travado '{source}' não respeitado (esperado '{target}' na tradução)")
+        # \b word-boundary evita falso positivo de substring dentro de outra
+        # palavra (ex.: "Ether" dentro de "ethereal"/"together") - visto na
+        # prática ao validar lotes de Sistema. Também deixa de sinalizar
+        # quando o original usa o plural do termo (ex.: "Effort Points"),
+        # já que o plural em português normalmente muda a primeira palavra
+        # da frase ("Pontos de Esforço"), não bate com o singular travado -
+        # nesse caso preferimos não checar a deixar reprovando traduções
+        # corretas.
+        source_re = re.compile(r"\b" + re.escape(source) + r"\b", re.IGNORECASE)
+        if source_re.search(original):
+            target_re = re.compile(r"\b" + re.escape(target) + r"\b", re.IGNORECASE)
+            if not target_re.search(translation):
+                errors.append(f"termo travado '{source}' não respeitado (esperado '{target}' na tradução)")
 
     if menu_boot_suspect:
         orig_len = len(original.encode("utf-8"))

@@ -69,6 +69,16 @@ Mortimer, Sarah, Emily, Elizabeth Adams, George Washington, John Adams,
 Thomas Jefferson, Bonaparte, Paoli, Golden Order, e qualquer outro nome
 próprio relevante que aparecer no lote.
 
+REGISTRO/TRATAMENTO
+Mesmo em cartas formais de época (séc. XVIII), NUNCA use a conjugação
+arcaica de "vós" (tendes, sereis, convido-vos, vosso/vossa etc.) — soa
+estranho e europeu para o público brasileiro. Use sempre o tratamento
+formal moderno do português do Brasil: "você"/"o senhor"/"a senhora" e
+as formas de terceira pessoa correspondentes (seu/sua, -o/-a/-lhe). Isso
+já aconteceu uma vez num lote de cartas e teve que ser corrigido
+manualmente — mantenha o registro formal moderno consistente em todo o
+corpus.
+
 GLOSSÁRIO (obrigatório, travado — nunca traduza esses termos de forma
 diferente da indicada)
 {GLOSSARIO}

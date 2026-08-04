@@ -48,6 +48,167 @@
       "category": "Conceito",
       "definition": "Plano espiritual/mental",
       "locked": true
+    },
+    {
+      "source": "Grand Hall",
+      "target": "Grande Salão",
+      "category": "Local",
+      "definition": "Cômodo principal da mansão de Lord Mortimer",
+      "locked": true
+    },
+    {
+      "source": "Small Salon",
+      "target": "Pequeno Salão",
+      "category": "Local",
+      "definition": "Sala de estar/leitura da mansão",
+      "locked": true
+    },
+    {
+      "source": "Conference Room",
+      "target": "Sala de Conferências",
+      "category": "Local",
+      "definition": "Sala de reuniões da mansão",
+      "locked": true
+    },
+    {
+      "source": "Dining Room",
+      "target": "Sala de Jantar",
+      "category": "Local",
+      "definition": "Sala de refeições da mansão",
+      "locked": true
+    },
+    {
+      "source": "Portrait Gallery",
+      "target": "Galeria de Retratos",
+      "category": "Local",
+      "definition": "Galeria com as obras de Lord Mortimer",
+      "locked": true
+    },
+    {
+      "source": "Agility",
+      "target": "Agilidade",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem (árvore Detetive/Diplomata/Ocultista)",
+      "locked": true
+    },
+    {
+      "source": "Erudition",
+      "target": "Erudição",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Etiquette",
+      "target": "Etiqueta",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Linguistics",
+      "target": "Linguística",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Manipulation",
+      "target": "Manipulação",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Occultism",
+      "target": "Ocultismo",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Psychology",
+      "target": "Psicologia",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Logic",
+      "target": "Lógica",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Science",
+      "target": "Ciência",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Diversion",
+      "target": "Distração",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem (não confundir com 'diversão' = fun, falso cognato)",
+      "locked": true
+    },
+    {
+      "source": "Questioning",
+      "target": "Questionamento",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem - estava dividida 6x6 entre 'Interrogatório'/'Questionamento' na TM antes de ser travada; padronizado em 'Questionamento' por consistência com o padrão de cognato direto usado nas outras perícias",
+      "locked": true
+    },
+    {
+      "source": "Sir Gregory Holm",
+      "target": "Sir Gregory Holm",
+      "category": "Personagem",
+      "definition": "Título de nobreza britânico + nome próprio - NÃO traduzir 'Sir' para 'Senhor' aqui (diferente do 'sir' genérico de tratamento em diálogo)",
+      "locked": true
+    },
+    {
+      "source": "Lord Mortimer",
+      "target": "Lord Mortimer",
+      "category": "Personagem",
+      "definition": "Título de nobreza britânico + nome próprio - NÃO traduzir 'Lord' para 'Lorde' (personagem central, aparece centenas de vezes)",
+      "locked": true
+    },
+    {
+      "source": "Vigilance",
+      "target": "Vigilância",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "Subterfuges",
+      "target": "Subterfúgios",
+      "category": "Habilidade",
+      "definition": "Perícia do personagem",
+      "locked": true
+    },
+    {
+      "source": "DETECTIVE",
+      "target": "DETETIVE",
+      "category": "Classe",
+      "definition": "Classe/árvore de talentos do protagonista",
+      "locked": true
+    },
+    {
+      "source": "DIPLOMAT",
+      "target": "DIPLOMATA",
+      "category": "Classe",
+      "definition": "Classe/árvore de talentos do protagonista",
+      "locked": true
+    },
+    {
+      "source": "OCCULTIST",
+      "target": "OCULTISTA",
+      "category": "Classe",
+      "definition": "Classe/árvore de talentos do protagonista",
+      "locked": true
     }
   ]
 }
