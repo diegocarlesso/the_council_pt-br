@@ -25040,6 +25040,2166 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a6a85048c0c6",
+      "source": "I am only telling you what people are saying, Louis.",
+      "target": "Estou apenas lhe dizendo o que as pessoas estão falando, Louis.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f470a18dcf17",
+      "source": "I never said I believed it.",
+      "target": "Nunca disse que acreditava nisso.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1bc88588fd50",
+      "source": "What a story, all the same...  twins.",
+      "target": "Que história, mesmo assim... gêmeos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b68060d81c91",
+      "source": "I was always wary of the Duchess anyway.",
+      "target": "Sempre desconfiei da Duquesa de qualquer forma.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2927153181fa",
+      "source": "I did not appreciate the facility with which she would flaunt her assets.",
+      "target": "Não apreciei a facilidade com que ela exibia seus bens.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ce28ca53d25e",
+      "source": "You know, Louis, I don't want to put you on the spot but I sense you are worried and that you are not telling me everything.",
+      "target": "Sabe, Louis, não quero lhe pôr em apuros, mas sinto que está preocupado e que não está me contando tudo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6bd0aeba1cdf",
+      "source": "But what exactly did you come looking for in my room?",
+      "target": "Mas o que exatamente veio procurar no meu quarto?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7de9e241aa19",
+      "source": "Louis, I was not born yesterday, you know...",
+      "target": "Louis, não nasci ontem, sabe...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7a6f16494ade",
+      "source": "When you came in, I saw in your face a hint of disappointment at finding me here.",
+      "target": "Quando entrou, vi no seu rosto um traço de decepção ao me encontrar aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5a3609c94737",
+      "source": "I concluded that you were hoping you wouldn't run into me.",
+      "target": "Concluí que esperava não me encontrar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_753e456c29ce",
+      "source": "You came here for something else.",
+      "target": "Veio aqui procurar por algo mais.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2d985197555e",
+      "source": "No, no, you are mistaken. I was just passing by.",
+      "target": "Não, não, está enganado. Eu apenas passava por aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9304ce4c51f1",
+      "source": "I shall leave you, your Eminence, I wouldn't want to take up your time.",
+      "target": "Vou deixá-lo, Sua Eminência, não gostaria de tomar o seu tempo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4d22b12d5b48",
+      "source": "As you wish, Louis. See you later.",
+      "target": "Como desejar, Louis. Até mais.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_eb8727398ade",
+      "source": "I'm looking for a cross, your Eminence.",
+      "target": "Estou procurando por uma cruz, Sua Eminência.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_054526d3f716",
+      "source": "So I thought you might be able to help me.",
+      "target": "Então pensei que poderia me ajudar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5b77c5f2de02",
+      "source": "You are asking me for a crucifix?",
+      "target": "Está me pedindo um crucifixo?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5f4ec2e6116c",
+      "source": "You wouldn't want Saint Benedict's, would you?",
+      "target": "Não quereria a de São Bento, pois não?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f2563499d738",
+      "source": "It's the cross that's commonly used in exorcisms, isn't it?",
+      "target": "É a cruz comumente usada em exorcismos, não é?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4a1ff6aad05b",
+      "source": "What does he imagine I am preparing, for crying out loud?",
+      "target": "O que ele imagina que estou preparando, pelo amor de Deus?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_11e51da80e63",
+      "source": "No...  no, I'm looking for one of the crosses of Clement III.",
+      "target": "Não... não, estou procurando por uma das cruzes de Clemente III.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_12b7a487c634",
+      "source": "Ah...  very well.",
+      "target": "Ah... muito bem.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_001dd60a372c",
+      "source": "Well, you are in luck, I do indeed have one.",
+      "target": "Bem, tem sorte, de fato tenho uma.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d4df6f015a0f",
+      "source": "Do you think you could lend it to me for a few hours, please?",
+      "target": "Poderia me emprestá-la por algumas horas, por favor?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d8f355a01f25",
+      "source": "First though, you'll have to answer a few questions, my dear fellow.",
+      "target": "Primeiro, porém, terá que responder algumas perguntas, meu caro.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e752bf2ae1e3",
+      "source": "It's win-win.",
+      "target": "É ganho-ganho.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bb8fd484d183",
+      "source": "I thought you were more charitable, Father.",
+      "target": "Pensei que fosse mais caridoso, Padre.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c03379e83ffd",
+      "source": "\"Charity begins at home,\" Louis.",
+      "target": "\"Caridade começa em casa,\" Louis.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e41b7b03c3d1",
+      "source": "Actually, it's quite simple. You want my cross and I want some answers. I think we ought to get on fine, don't you?",
+      "target": "Na verdade, é bastante simples. O senhor quer a minha cruz e eu quero algumas respostas. Acho que devemos nos dar bem, não acha?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_239b04693116",
+      "source": "I need that cross, but I must not speak to him about my mother at all costs!",
+      "target": "Preciso dessa cruz, mas não devo falar com ele sobre minha mãe a qualquer custo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a7da820902a3",
+      "source": "What exactly are you involved in, Louis?",
+      "target": "Em que exatamente está envolvido, Louis?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4481948392a8",
+      "source": "Nothing",
+      "target": "Nada",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 8
+    },
+    {
+      "canonical_id": "c_57f72c1d6edd",
+      "source": "Nothing, nothing at all. Why are you going...",
+      "target": "Nada, absolutamente nada. Por que está indo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_714010b3c925",
+      "source": "Louis, if you expect anything from me at all, I advise you to tell me the truth failing which you may as well leave right now.",
+      "target": "Louis, se espera algo de mim, aconselho-o a me dizer a verdade, caso contrário é melhor sair agora mesmo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d7c623d0a09c",
+      "source": "I don't know anything either",
+      "target": "Também não sei de nada",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_00ccf9df598c",
+      "source": "If only you knew. That's what I've been asking myself everyday since I came to this island.",
+      "target": "Se ao menos soubesse. É isso que tenho me perguntado todos os dias desde que cheguei a esta ilha.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_13d1a540b0f5",
+      "source": "And, well, most of the time, I haven't the faintest idea.",
+      "target": "E, bem, na maioria das vezes, não tenho a menor ideia.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3a57bae7c536",
+      "source": "Louis, I understand that all this may seem unsettling to you but be patient my son.",
+      "target": "Louis, compreendo que tudo isso possa parecer perturbador, mas seja paciente, meu filho.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_45c7377674a9",
+      "source": "I am sure that once you've learned the ropes, you will be like a fish in water.",
+      "target": "Tenho certeza de que assim que aprender o caminho, será como peixe em água.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7e2a4e0c93df",
+      "source": "Where was I now?...  Ah, yes...",
+      "target": "Onde eu estava agora?... Ah, sim...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_929862945b9c",
+      "source": "String him along",
+      "target": "Ganhar tempo",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_79ee2db5971d",
+      "source": "Your Eminence, I'm hardly going to teach you the rules.",
+      "target": "Sua Eminência, dificilmente vou ensinar as regras.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5859f704d102",
+      "source": "If you were supposed to know how I spend my days, you would already know, don't you think?",
+      "target": "Se fosse supostamente saber como passo meus dias, já saberia, não acha?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_efcc17935c16",
+      "source": "Someone would have let you in on the secret.",
+      "target": "Alguém teria revelado o segredo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3bf6c4966ff2",
+      "source": "Yes, I know but...",
+      "target": "Sim, sei, mas...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5f616714bf16",
+      "source": "You know what it means?...",
+      "target": "Sabe o que isso significa?...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a923455ece35",
+      "source": "That I am not supposed to know.",
+      "target": "Que não devo saber.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1618d10ebd1d",
+      "source": "Ever since your arrival, I've seen you rushing about all over the place, apparently trying to find Sarah.",
+      "target": "Desde sua chegada, tenho o visto correndo para lá e para cá, aparentemente tentando encontrar Sarah.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_709b2bbd818c",
+      "source": "We both know how big this island is.",
+      "target": "Ambos sabemos o tamanho desta ilha.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ab76715f09f7",
+      "source": "Even if Sarah was disguised as a bush, she would not be able to escape our vigilance for long.",
+      "target": "Mesmo que Sarah estivesse disfarçada de arbusto, ela não conseguiria escapar da nossa vigilância por muito tempo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_781be0c78bff",
+      "source": "You must have already found her.",
+      "target": "Deve tê-la encontrado.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f05259ecdda4",
+      "source": "She needs help, Louis. We are friends, she and I.",
+      "target": "Ela precisa de ajuda, Louis. Somos amigos, ela e eu.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_95ed93a626d5",
+      "source": "Won't you just tell me where she is?",
+      "target": "Não poderia simplesmente me dizer onde ela está?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_89ea16783e7c",
+      "source": "I really don't know.",
+      "target": "Realmente não sei.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d67de6e9c6a8",
+      "source": "How do you expect me to know? I mean…",
+      "target": "Como espera que eu saiba? Quer dizer...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fe19f3dd6cd8",
+      "source": "If you had been observing me, as you say you have, you would have realized that I have not found her!",
+      "target": "Se tivesse me observado, como diz ter feito, teria percebido que não a encontrei!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_68c894b7d2f6",
+      "source": "Despite the size of the island!",
+      "target": "Apesar do tamanho da ilha!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b3edb23c9428",
+      "source": "And that makes me worry even more! I can tell you that!",
+      "target": "E isso me preocupa ainda mais! Posso lhe garantir!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8f1363dec508",
+      "source": "Ah, well, whichever way you want to look at it, the fact is, I sincerely regret that you no longer trust me.",
+      "target": "Ah, bem, de qualquer forma que queira ver, o fato é que lamento sinceramente que não confie mais em mim.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f94080b702ca",
+      "source": "But that being the case, why would I do you a favor?",
+      "target": "Mas sendo esse o caso, por que eu faria um favor?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_74b24a6ae516",
+      "source": "Never will I tell him!",
+      "target": "Jamais contarei a ele!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_59e85f0a0b06",
+      "source": "Your Eminence, I wouldn't tell you anything about my mother.",
+      "target": "Sua Eminência, não lhe contaria nada sobre minha mãe.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_88d3a0532994",
+      "source": "Even if you tortured me I wouldn't say anything!",
+      "target": "Mesmo que me torturasse, não diria nada!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6a7069a0b1cf",
+      "source": "Listen to yourself, for heaven's sake...",
+      "target": "Ouça a si mesmo, pelo amor de Deus...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4f9e5accd8ac",
+      "source": "You are out of your mind. I offer you my help and you accuse me of wanting to torture you...",
+      "target": "Você perdeu a razão. Ofereço minha ajuda e você me acusa de querer torturá-lo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2ec134105f8b",
+      "source": "Certainly not",
+      "target": "Absolutamente não.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 5
+    },
+    {
+      "canonical_id": "c_91449db1e5b1",
+      "source": "Your Eminence, I am obliged not to answer you.",
+      "target": "Sua Eminência, sou obrigado a não lhe responder.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c0a2049b5357",
+      "source": "If even by mistake, I revealed to you all the trouble my mother had gotten herself into, I would by the same token be putting you in grave danger.",
+      "target": "Se por acaso revelasse a você todos os problemas em que minha mãe se meteu, estaria colocando você em grave perigo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5cf59131e1d1",
+      "source": "And I just wouldn't want anything to happen to you.",
+      "target": "E simplesmente não quero que nada aconteça com você.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4c07d002599c",
+      "source": "To me? I appreciate your concern, my son.",
+      "target": "Comigo? Aprecio sua preocupação, meu filho.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c3697ac30f80",
+      "source": "But you only give me all the more cause for concern.",
+      "target": "Mas você me dá ainda mais razão para estar preocupado.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_682f9c92c4ca",
+      "source": "Is he working for anyone?",
+      "target": "Ele trabalha para alguém?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_44d281e29c8b",
+      "source": "Your Eminence, if I were sure that you were not asking me all these questions with the sole intention of passing on my answers to the others,",
+      "target": "Sua Eminência, se eu tivesse certeza de que não estava me fazendo todas essas perguntas com a única intenção de passar minhas respostas para os outros,",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6356ec290d63",
+      "source": "then I would be able to answer you.",
+      "target": "então eu seria capaz de lhe responder.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f6d131a19529",
+      "source": "Oh, Louis. How can you doubt my integrity?",
+      "target": "Oh, Louis. Como você pode duvidar da minha integridade?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a21a95a93deb",
+      "source": "Can you swear to God that you will not reveal to Lord Mortimer or Sir Gregory where my mother is located?",
+      "target": "Pode jurar a Deus que não revelará a Lord Mortimer ou Sir Gregory onde minha mãe está localizada?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6198a4d78469",
+      "source": "Well that all depends on your revelations, Louis.",
+      "target": "Bem, isso depende totalmente de suas revelações, Louis.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0f432eaa13ec",
+      "source": "You see, Sir Gregory and myself are...",
+      "target": "Veja, Sir Gregory e eu somos...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_62686f0ed3f9",
+      "source": "Promise me before God.",
+      "target": "Prometa-me diante de Deus.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_df354b1496ba",
+      "source": "Wait, no, I...",
+      "target": "Espere, não, eu...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4e5be127495b",
+      "source": "Promise before God or I will tell you nothing.",
+      "target": "Prometa diante de Deus ou não lhe contarei nada.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_81421498e98f",
+      "source": "Louis, don't be...",
+      "target": "Louis, não seja...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_63df546e540d",
+      "source": "Drop it, your Eminence.",
+      "target": "Deixe disso, Sua Eminência.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5bdcecbd6b32",
+      "source": "We are unable to reach an understanding. Just... never mind.",
+      "target": "Não conseguimos chegar a um entendimento. Apenas... deixa para lá.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f23e10941726",
+      "source": "Louis, tell me at least why you want the Clement III cross.",
+      "target": "Louis, me diga pelo menos por que você quer a cruz de Clement III.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a49446560a8c",
+      "source": "I am sure that you are aware that this is the cross that Lord Mortimer gave to me when we first met.",
+      "target": "Tenho certeza de que você está ciente de que esta é a cruz que Lord Mortimer me deu quando nos conhecemos pela primeira vez.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cf61439231d7",
+      "source": "That was the day I decided to take the cloth.",
+      "target": "Esse foi o dia em que decidi me ordenar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e1254570c559",
+      "source": "It cannot be a coincidence.",
+      "target": "Não pode ser uma coincidência.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_530320a29f10",
+      "source": "Please, I beg you...  why the cross of Pope Clement?",
+      "target": "Por favor, eu imploro... por que a cruz do Papa Clement?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_58c85dd199e6",
+      "source": "For no reason",
+      "target": "Sem razão nenhuma.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_00da14ac223e",
+      "source": "Why not?",
+      "target": "Por que não?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_f27ee1ba47be",
+      "source": "Believe me, I have no particular reason.",
+      "target": "Acredite em mim, não tenho nenhuma razão particular.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e069b1ba872b",
+      "source": "You are lying, Louis.",
+      "target": "Você está mentindo, Louis.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_10efb91c59cf",
+      "source": "How do you expect me to trust you?",
+      "target": "Como você espera que eu confie em você?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9ffe98745e82",
+      "source": "No, I'm sorry, try something else! Like the truth, perhaps!",
+      "target": "Não, desculpe, tente algo diferente! Como a verdade, talvez!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8eedb9209925",
+      "source": "To open a gigantic door",
+      "target": "Para abrir uma porta gigantesca.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8c3d4a61d0de",
+      "source": "If I told you, you wouldn't believe me...",
+      "target": "Se eu lhe contasse, você não acreditaria em mim...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_36140fbf0f72",
+      "source": "Come, please try, my son.",
+      "target": "Vá, por favor tente, meu filho.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1db243437a54",
+      "source": "The cross can help me activate a mechanism that will open a gigantic door hidden in the crypt of the manor...",
+      "target": "A cruz pode me ajudar a ativar um mecanismo que abrirá uma porta gigantesca escondida na cripta da mansão...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5eb303eb8cef",
+      "source": "... with the help of the Exegesis of Judas, the Gutenberg Bible, and some nails.",
+      "target": "... com a ajuda da Exegese de Judas, da Bíblia de Gutenberg e alguns pregos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c8b181dec79c",
+      "source": "Indeed...",
+      "target": "Realmente...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5e3ab0ea9916",
+      "source": "I trusted you, but enough is enough, Louis!",
+      "target": "Confiei em você, mas chega, Louis!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8997a9395d1b",
+      "source": "I do not appreciate being taken for a fool!",
+      "target": "Não gosto de ser tratado como tolo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f3990af9930a",
+      "source": "I would therefore appreciate it if you would change your tune this very instant!",
+      "target": "Portanto, gostaria que você mudasse de tom neste exato momento!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7f86fed031f4",
+      "source": "To stave off evil.",
+      "target": "Para afastar o mal.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_36c65fdea449",
+      "source": "Your Eminence, I sense that evil is rampant in these parts.",
+      "target": "Sua Eminência, sinto que o mal está em expansão nestes lugares.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_df096b31c2af",
+      "source": "Help me, I need protection. Please, let me have the cross.",
+      "target": "Me ajude, preciso de proteção. Por favor, deixe-me ter a cruz.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_20f1d9b1873f",
+      "source": "I beseech you!",
+      "target": "Eu lhe imploro!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 3
+    },
+    {
+      "canonical_id": "c_dc816b414d47",
+      "source": "Of course, my son. Do not fear, it will give you protection.",
+      "target": "Claro, meu filho. Não tenha medo, isso lhe dará proteção.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_71f4a2560f5f",
+      "source": "Never will I leave a true believer in such depravity.",
+      "target": "Nunca deixarei um verdadeiro crente em tal depravação.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5aebf8311de4",
+      "source": "To pray for my mother",
+      "target": "Para rezar pela minha mãe.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d0bccddc9cd3",
+      "source": "I would like to pray for my mother.",
+      "target": "Gostaria de rezar pela minha mãe.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0871ae523321",
+      "source": "She seems more than ever to need prayers from those who love her.",
+      "target": "Ela parece mais do que nunca precisar de orações daqueles que a amam.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bc4043657544",
+      "source": "I am afraid of losing her to her demons, your Eminence.",
+      "target": "Tenho medo de perdê-la para seus demônios, Sua Eminência.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3535d4ee96b3",
+      "source": "I won't hide the fact that I am not reassured about her either.",
+      "target": "Não vou esconder que também não estou tranquilo sobre ela.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bd841a09685f",
+      "source": "Of course I shall let you have my cross.",
+      "target": "Claro que vou deixar você ter minha cruz.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2af0cf465cfa",
+      "source": "Good Outcome",
+      "target": "Bom Resultado",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 27
+    },
+    {
+      "canonical_id": "c_b90c3a750847",
+      "source": "Louis, thank you for trusting me. I shall not forget it.",
+      "target": "Louis, obrigado por confiar em mim. Não vou esquecer disso.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_88fd4fe2dc8b",
+      "source": "You can take my cross, here.",
+      "target": "Você pode pegar minha cruz, aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_025d7ce6a6c4",
+      "source": "But please return it to me once you have finished with it.",
+      "target": "Mas por favor devolva-a quando tiver terminado com ela.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f7d06a94ce62",
+      "source": "Thank you, thank you, your Eminence.",
+      "target": "Obrigado, obrigado, Sua Eminência.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ab2ae6091169",
+      "source": "You are a lifesaver.",
+      "target": "Você é um anjo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0f2fb872afc0",
+      "source": "Bad Outcome",
+      "target": "Desfecho Ruim",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 25
+    },
+    {
+      "canonical_id": "c_f9f60ca8d368",
+      "source": "I regret to tell you that I am unable to grant your request. The answer is no.",
+      "target": "Lamento informar que não posso conceder seu pedido. A resposta é não.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cd0195fc26d3",
+      "source": "But fear not, I shall not abandon you.",
+      "target": "Mas não tema, não o abandonarei.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_24ed73b3026d",
+      "source": "You seem to be taking the same dark path as Sarah took here. And I know what the outcome will be.",
+      "target": "Você parece estar seguindo o mesmo caminho sombrio que Sarah seguiu aqui. E eu sei qual será o resultado.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_88160cc28216",
+      "source": "You must leave me now, but remember that I am not abandoning you. I just need a little more time.",
+      "target": "Você deve me deixar agora, mas lembre-se que não o estou abandonando. Preciso apenas de um pouco mais de tempo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_03876628a2da",
+      "source": "Trust me. I will get you out of there.",
+      "target": "Confie em mim. Vou tirá-lo de lá.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a225477b2409",
+      "source": "Just be strong, Louis!",
+      "target": "Apenas seja forte, Louis!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0bed7c333647",
+      "source": "\"Weaknesses of the Human Psyche\" by Guihem Trimmoer.",
+      "target": "\"Fraquezas da Psique Humana\" de Guihem Trimmoer.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8d3f13603d86",
+      "source": "\"It is possible to drill an idea into someone by constant daily repetition, until the mind gives in\".",
+      "target": "\"É possível introjetar uma ideia em alguém através da repetição diária constante, até que a mente ceda\".",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4bb6afd528df",
+      "source": "\"Guilhem Trimmoer\"... ",
+      "target": "\"Guilhem Trimmoer\"... ",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fe2bb9f01d0d",
+      "source": " Trimmoer...  an anagram of Mortimer.",
+      "target": " Trimmoer... um anagrama de Mortimer.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0cea603a1133",
+      "source": "Wow... arrogant enough to publish writings on mental control in full view of everyone.",
+      "target": "Que arrogância... publicar escritos sobre controle mental à vista de todos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2378abe30a18",
+      "source": "I wonder who he is writing for?",
+      "target": "Me pergunto para quem ele está escrevendo?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5be388f68b16",
+      "source": "Themes and Towns in the Exegesis",
+      "target": "Temas e Cidades na Exegese",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f10c71bb1180",
+      "source": "The lexicon refers to different chapters and verses from the exegesis of Judas.",
+      "target": "O léxico se refere a diferentes capítulos e versículos da exegese de Judas.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_94d5186ba3ec",
+      "source": "Themes",
+      "target": "Temas",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d30d052ce036",
+      "source": "Part 1",
+      "target": "Parte 1",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_f71b265d0d5c",
+      "source": "Baptism",
+      "target": "Batismo",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2b689adc28f8",
+      "source": "Crucifixion",
+      "target": "Crucificação",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_166d7a8ac823",
+      "source": "Supper",
+      "target": "Ceia",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c6f21307e57f",
+      "source": "Judgment",
+      "target": "Julgamento",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1e6b3e3c9449",
+      "source": "Next Thematics",
+      "target": "Próximos Temas",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5a01db6f2d60",
+      "source": "Part 2",
+      "target": "Parte 2",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_11478e9fce1d",
+      "source": "Miracles",
+      "target": "Milagres",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7d79ee81a983",
+      "source": "Birth",
+      "target": "Nascimento",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a19b05f05155",
+      "source": "Resurrection",
+      "target": "Ressurreição",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fe1f3f0432df",
+      "source": "Trinity",
+      "target": "Trindade",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0316437d66fc",
+      "source": "Previous Thematics",
+      "target": "Temas Anteriores",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ec4adf8a85ba",
+      "source": "Towns",
+      "target": "Cidades",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_71a37e3149ff",
+      "source": "Abu Ghosh",
+      "target": "Abu Ghosh",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_abe0c9024ade",
+      "source": "Bethesda",
+      "target": "Betesda",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4c40cf387301",
+      "source": "Bethlehem",
+      "target": "Belém",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_674027e17b0e",
+      "source": "Jordan",
+      "target": "Jordão",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_459623a4839a",
+      "source": "Next Towns",
+      "target": "Próximas Cidades",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e135a067fc09",
+      "source": "Jerusalem",
+      "target": "Jerusalém",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_560f05348035",
+      "source": "On Saint Mark, Chapter XIV Verse 22",
+      "target": "Sobre São Marcos, Capítulo XIV Versículo 22",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ce47b5a85287",
+      "source": "On Saint Jean, Chapter V Verse 2",
+      "target": "Sobre São João, Capítulo V Versículo 2",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6d5a10cc77bd",
+      "source": "Lanuvium",
+      "target": "Lanúvio",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_70bb813787b6",
+      "source": "Nein",
+      "target": "Não",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d9f1c75b773e",
+      "source": "Nazareth",
+      "target": "Nazaré",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_df8d94050cd3",
+      "source": "Previous Towns",
+      "target": "Cidades Anteriores",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_400ce2aca17e",
+      "source": "Read the Exegesis of Judas",
+      "target": "Ler a Exegese de Judas",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d533ea048c73",
+      "source": "This exegesis contains comments from Judas on the different gospels.",
+      "target": "Esta exegese contém comentários de Judas sobre os diferentes evangelhos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9adee09c7976",
+      "source": "It only contains certain chapters and verses.",
+      "target": "Ela contém apenas certos capítulos e versículos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_252a9dd7a841",
+      "source": "And the chapters are indicated by Roman numerals.",
+      "target": "E os capítulos são indicados por algarismos romanos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_65f408b959e7",
+      "source": "The exegesis of Saint Mark",
+      "target": "A exegese de São Marcos",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_57b06b0b461f",
+      "source": "Chapter I Verse 9",
+      "target": "Capítulo I Versículo 9",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_77a271b30c15",
+      "source": "Jesus was baptized by John in Jordan, on the 9th of Hesvan 3852.",
+      "target": "Jesus foi batizado por João no Jordão, no 9º dia de Hesvan de 3852.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f491bbba9e16",
+      "source": "Find the equivalent in the Gutenberg Bible",
+      "target": "Encontre o equivalente na Bíblia de Gutenberg",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 32
+    },
+    {
+      "canonical_id": "c_ff18fa50a081",
+      "source": "Go back to the lexicon of the exegesis",
+      "target": "Voltar ao léxico da exegese",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 72
+    },
+    {
+      "canonical_id": "c_36c4d8dbda86",
+      "source": "Chapter XIV Verse 22",
+      "target": "Capítulo XIV Versículo 22",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_a07fc7d977ed",
+      "source": "On the 7th of Nisan 3793, Jesus shared his last supper in the Cenacle in Jerusalem,",
+      "target": "No 7º dia de Nisã de 3793, Jesus compartilhou sua última ceia no Cenáculo em Jerusalém,",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a12b95efbca2",
+      "source": "Chapter V Verse 22",
+      "target": "Capítulo V Versículo 22",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_2e1861c03df1",
+      "source": "\"As he went to meet the suffering, a great crowd followed him.\"",
+      "target": "\"Quando ele foi ao encontro do sofrimento, uma grande multidão o seguiu.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8b527cb39bc4",
+      "source": "Chapter VII Verse 1",
+      "target": "Capítulo VII Versículo 1",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_3be2f3c7529f",
+      "source": "\"He was not surrounded only by the poorest.\"",
+      "target": "\"Ele não era cercado apenas pelos mais pobres.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_33a9103edd2a",
+      "source": "The exegesis of Saint John",
+      "target": "A exegese de São João",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_97bbd0c3fe15",
+      "source": "Chapter III Verse 18",
+      "target": "Capítulo III Versículo 18",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_c1a9150c6780",
+      "source": "\"Words truly pronounced in Abu Ghosh.\"",
+      "target": "\"Palavras verdadeiramente pronunciadas em Abu Ghosh.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9883e39bf61e",
+      "source": "Chapter XIX Verse 17",
+      "target": "Capítulo XIX Versículo 17",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_4693799a4d6f",
+      "source": "\"Jesus was crucified on the 8th of Nisan 3793 in a place near Jerusalem, the Romans put a crown of thorns on his head.\"",
+      "target": "\"Jesus foi crucificado no 8º de Nisã 3793 em um lugar próximo a Jerusalém, os romanos colocaram uma coroa de espinhos em sua cabeça.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bc0d4428c0ab",
+      "source": "Chapter X Verse 30",
+      "target": "Capítulo X Versículo 30",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_7c05ae88f6ad",
+      "source": "\"I and the Father are one.\"",
+      "target": "\"Eu e o Pai somos um.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a546223816e6",
+      "source": "Chapter V Verse 2",
+      "target": "Capítulo V Versículo 2",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_6f9907b291e3",
+      "source": "\"Jesus cures the sick and lame on the 8th of Adar 3791 in Jerusalem, at the pool of Bethesda. All stand and fling away their canes.\"",
+      "target": "\"Jesus cura os doentes e aleijados no 8º de Adar 3791 em Jerusalém, na piscina de Betesda. Todos se levantam e lançam longe suas muletas.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1c906527225f",
+      "source": "The exegesis of Saint Luke",
+      "target": "A exegese de São Lucas",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6e2da8110766",
+      "source": "Chapter VII Verse 11",
+      "target": "Capítulo VII Versículo 11",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_4b05dbf48855",
+      "source": "\"Jesus never went to Naïn\"",
+      "target": "\"Jesus nunca foi a Naim\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_dccfdd551af4",
+      "source": "Chapter XXIV Verse 3",
+      "target": "Capítulo XXIV Versículo 3",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_4a1f5b9ee0ef",
+      "source": "\"Jesus rose from the dead, on the 14th of Nisan 3793 in Nazareth, he appeared with a halo above his head.\"",
+      "target": "\"Jesus ressuscitou dos mortos, no 14º de Nisã 3793 em Nazaré, apareceu com uma auréola acima de sua cabeça.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_47f88bb14060",
+      "source": "Chapter II Verse 6",
+      "target": "Capítulo II Versículo 6",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_a45a3e181899",
+      "source": "\"Jesus was born of Mary and Joseph, on the 22th of Teveth at midnight 3762, in the village of Bethlehem.\"",
+      "target": "\"Jesus nasceu de Maria e José, no 22º de Tevete à meia-noite 3762, na aldeia de Belém.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_19d3c4b74d5f",
+      "source": "Chapter II Verse 2",
+      "target": "Capítulo II Versículo 2",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_e410abdd9137",
+      "source": "\"Publius Sulpicius Quirinius was born in Lanuvium.\"",
+      "target": "\"Públio Sulpício Quirínio nasceu em Lânuvio.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_20370a5ab021",
+      "source": "The exegesis of Saint Mathew",
+      "target": "A exegese de São Mateus",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a5164b908e70",
+      "source": "Chapter VI Verse 1",
+      "target": "Capítulo VI Versículo 1",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_22bbda99669f",
+      "source": "\"And so came his warning, in the interest of all\"",
+      "target": "\"E assim veio seu aviso, no interesse de todos\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0953e400a581",
+      "source": "Chapter XIX Verse 22",
+      "target": "Capítulo XIX Versículo 22",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_ef299f36939f",
+      "source": "\"It never happened\"",
+      "target": "\"Nunca aconteceu\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0aab6ad51ed3",
+      "source": "Chapter XIII Verse 2",
+      "target": "Capítulo XIII Versículo 2",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_f274c0708eca",
+      "source": "\"Only Jesus was present, and two of his apostles.\"",
+      "target": "\"Apenas Jesus estava presente, e dois de seus apóstolos.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9ee51d98f43b",
+      "source": "Chapter XIX Verse 5",
+      "target": "Capítulo XIX Versículo 5",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_36e51cd0805a",
+      "source": "\"So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.\"",
+      "target": "\"Então eles já não são dois, mas uma só carne. Portanto, o que Deus uniu, ninguém separe.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2b62b256f827",
+      "source": "Read the Gutenberg Bible",
+      "target": "Ler a Bíblia de Gutenberg",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_99c6ee3d1bb1",
+      "source": "The Gospel according to Saint Matthew",
+      "target": "O Evangelho segundo São Mateus",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_0f2b2444cc7e",
+      "source": "Chapter VI verse 1",
+      "target": "Capítulo VI versículo 1",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_ad5ae5b8263e",
+      "source": "\"Take heed that ye practice your justice before men, to be seen differently by them:\"",
+      "target": "\"Cuidem para não praticar sua justiça diante dos homens, para serem vistos por eles:\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_3eb1ccb3ca0f",
+      "source": "\"Otherwise ye shall have no reward from your Father which is in heaven.\"",
+      "target": "\"Caso contrário, vocês não terão recompensa de seu Pai que está no céu.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d14c368bd0a8",
+      "source": "Find the equivalent in the exegesis of Judas",
+      "target": "Encontrar o equivalente na exegese de Judas",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 32
+    },
+    {
+      "canonical_id": "c_15795f576b25",
+      "source": "Chapter IX verse 22",
+      "target": "Capítulo IX versículo 22",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_48d343d3df60",
+      "source": " \"But Jesus turned him about, and when he saw her, he said: Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.\"",
+      "target": " \"Mas Jesus se virou e, quando a viu, disse: Filha, tenha coragem; tua fé te fez ficar curada. E a mulher ficou curada desde aquela hora.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b25843f474ef",
+      "source": "Chapter XIII verse 2",
+      "target": "Capítulo XIII versículo 2",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_52e7e7879a67",
+      "source": "\"And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.\"",
+      "target": "\"E grandes multidões se juntaram a ele, de modo que ele entrou em um barco e se sentou; e toda a multidão permaneceu na margem.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_3e1ccefc82a3",
+      "source": "Chapter XIX verse 5",
+      "target": "Capítulo XIX versículo 5",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_a991f74630a9",
+      "source": "\"And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh.\"",
+      "target": "\"E disse: Por esta razão, um homem deixará seu pai e sua mãe e se unirá à sua esposa, e os dois se tornarão uma só carne.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_ae6d2f316ce4",
+      "source": "The Gospel according to Saint Luke",
+      "target": "O Evangelho segundo São Lucas",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_2233d982aeeb",
+      "source": "Chapter VII verse 11",
+      "target": "Capítulo VII versículo 11",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_08a111c6a193",
+      "source": "\"And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and many people.\"",
+      "target": "\"E aconteceu que no dia seguinte ele entrou em uma cidade chamada Naim; e muitos dos seus discípulos foram com ele, e muita gente também.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_821914542797",
+      "source": "Chapter XXIV verse 3",
+      "target": "Capítulo XXIV versículo 3",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_feac1e13ff5b",
+      "source": "\"But when they entered, they did not find the body of the Lord Jesus.\"",
+      "target": "\"Mas quando entraram, não encontraram o corpo do Senhor Jesus.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e38a82b05cbb",
+      "source": "\"While they were wondering about this, suddenly two men in clothes that gleamed like lightning stood beside them.\"",
+      "target": "\"Enquanto pensavam nisso, de repente dois homens em vestes que brilhavam como raio apareceram ao seu lado.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9fd40ada08b9",
+      "source": "\"In their fright the women bowed down with their faces to the ground, but the men said to them, \"Why do you look for the living among the dead?\"",
+      "target": "\"Apavoradas, as mulheres baixaram o rosto até o chão, mas os homens lhes disseram: \"Por que vocês procuram o vivo entre os mortos?\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a675657d9a0c",
+      "source": "\"He is not here; he has risen! Remember how he told you, while he was still with you in Galilee.\"",
+      "target": "\"Ele não está aqui; ele ressuscitou! Lembrem-se de como ele lhes disse, enquanto ainda estava com vocês na Galileia.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b7484c0d1770",
+      "source": "Chapter II verse 6",
+      "target": "Capítulo II versículo 6",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_4e693318f661",
+      "source": "\"And so it was, that, while they were there, the days were accomplished that she should be delivered of a child.\"",
+      "target": "\"E assim foi que, enquanto estavam lá, se cumpriram os dias para que ela desse à luz a um filho.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f61efa36b9d8",
+      "source": "\"And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.\"",
+      "target": "\"E ela deu à luz seu filho primogênito, o envolveu em panos e o colocou em uma manjedoura, porque não havia lugar para eles na pousada.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_479f539b1253",
+      "source": "\"And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.\"",
+      "target": "\"E havia no mesmo país pastores que permaneciam no campo, vigiando seu rebanho à noite.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7b3d4a6fd19e",
+      "source": "\"And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid. \"",
+      "target": "\"E eis que o anjo do Senhor veio sobre eles, e a glória do Senhor brilhou ao seu redor, e tiveram muito medo. \"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f96f408589e5",
+      "source": "Chapter II verse 2",
+      "target": "Capítulo II versículo 2",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_77e5bc001cbb",
+      "source": "\"And this taxing was first made when Cyrenius was governor of Syria.\"",
+      "target": "\"E este recenseamento foi feito quando Cirênio era governador da Síria.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_668042376598",
+      "source": "The Gospel according to Saint John",
+      "target": "O Evangelho segundo São João",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_313aab17a0e0",
+      "source": "Chapter III verse 18",
+      "target": "Capítulo III versículo 18",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_dbca6c6c054a",
+      "source": "\"He that believeth in him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.\"",
+      "target": "\"Aquele que crê nele não é condenado; mas quem não crê já está condenado, porque não crê no nome do filho unigênito de Deus.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7ff716218780",
+      "source": "Chapter XIX verse 17",
+      "target": "Capítulo XIX versículo 17",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_48b6dfa46ad7",
+      "source": "\"And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha.\"",
+      "target": "\"E ele, carregando sua cruz, saiu para um lugar chamado lugar da caveira, que em hebraico se chama Gólgota.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_12688dd79261",
+      "source": "\"Where they crucified him, and two others with him, on either side, and Jesus in the midst.\"",
+      "target": "\"Onde o crucificaram, e dois outros com ele, em cada lado, e Jesus no meio.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c87b322f49cb",
+      "source": "Chapter X verse 30",
+      "target": "Capítulo X versículo 30",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_f74e3a11ed19",
+      "source": "\"I and my Father are one.\"",
+      "target": "\"Eu e meu Pai somos um.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
     }
   ]
 }
