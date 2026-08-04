@@ -29360,6 +29360,2166 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0dff3ae9c235",
+      "source": "When I lost my hand I went dashing out and it must have fallen from my pocket.",
+      "target": "Quando perdi minha mão, saí correndo e ela deve ter caído de meu bolso.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f7fd088a4b2b",
+      "source": "She ought to make an effort to remember",
+      "target": "Ela deveria fazer um esforço para lembrar",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_71decb54f0b2",
+      "source": "Remember, Mother, I'm certain you can remember.",
+      "target": "Lembre-se, Mãe, tenho certeza de que você consegue lembrar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4d32109afedc",
+      "source": "Let me think...",
+      "target": "Deixe-me pensar...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_bd1aaa9a1585",
+      "source": "You were running...",
+      "target": "Você estava correndo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_827c23c0b1da",
+      "source": "I was bleeding to death...",
+      "target": "Eu estava sangrando até a morte...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c275328ceb30",
+      "source": "You remember the pain...",
+      "target": "Você se lembra da dor...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e36ae9bd2dc5",
+      "source": "I thought I was going to faint.",
+      "target": "Pensei que fosse desmaiar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c4a10537c093",
+      "source": "Yes, I remember.",
+      "target": "Sim, eu me lembro.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cfa99b868543",
+      "source": "I don't think it can be far, can it?",
+      "target": "Não acho que possa estar longe, não é?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7b382317b75a",
+      "source": "Would you have lost it outside?",
+      "target": "Você teria perdido isto lá fora?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6531c8499203",
+      "source": "No, I don't think so. It must be in the area. I don't remember going up with it.",
+      "target": "Não, não acho. Deve estar por aqui. Não me lembro de ter subido com isso.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3f44d91b88b5",
+      "source": "Perfect, I'll search the crypt before leaving.",
+      "target": "Perfeito, vou procurar na cripta antes de partir.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f6c29403625d",
+      "source": "Well, otherwise I can... I can always go and see Piaggi. He's... he's a cardinal after all.",
+      "target": "Bem, caso contrário eu posso... Posso sempre ir ver Piaggi. Ele é... ele é um cardeal, afinal.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cbec9143e718",
+      "source": "But you lost it.",
+      "target": "Mas você a perdeu.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1ab1c41a3e7d",
+      "source": "How do you know that?",
+      "target": "Como você sabe disso?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_81affa164662",
+      "source": "Because I found it, would you believe that?",
+      "target": "Porque eu a encontrei, você acreditaria nisso?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d6ceb8cbd64e",
+      "source": "Well done, my son, so you've already got one of the keys.",
+      "target": "Bem feito, meu filho, então você já tem uma das chaves.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_56d57492089f",
+      "source": "Some nails?",
+      "target": "Alguns pregos?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_57ff40d4f7ec",
+      "source": "Don't ask me, I'm not the one who made the mechanism, you know.",
+      "target": "Não me pergunte, não fui eu quem fez o mecanismo, sabe.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_307aee5f7ba7",
+      "source": "When I arrived, there were already a few of them inserted, so I didn't have to worry about those...",
+      "target": "Quando cheguei, já havia alguns inseridos, então não precisei me preocupar com aqueles...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3721c6c244a1",
+      "source": "On the other hand, I remember seeing some in Mortimer's secret study, behind his nightmare.",
+      "target": "Por outro lado, lembro de ver alguns no estúdio secreto de Mortimer, atrás d'O Pesadelo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c1bf371110aa",
+      "source": "They were in a golden cup, beside some chicken legs.",
+      "target": "Estavam em uma taça dourada, ao lado de algumas pernas de frango.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e996c897dd75",
+      "source": "In a Golden cup, yes... Yes, I saw them too.",
+      "target": "Em uma taça dourada, sim... Sim, eu também os vi.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0e2621aa31bb",
+      "source": "Perfect. It will be easy for you to find them, then.",
+      "target": "Perfeito. Será fácil para você encontrá-los, então.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0ba8fccc091c",
+      "source": "You need three of them.",
+      "target": "Você precisa de três deles.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_57a73507416c",
+      "source": "You remember what to do about the rollers?",
+      "target": "Você se lembra do que fazer com os rolos?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0f264b1404f6",
+      "source": "1191 to enter and 6466 to exit.",
+      "target": "1191 para entrar e 6466 para sair.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2d22251dceb9",
+      "source": "Of course...",
+      "target": "Claro que sim...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 10
+    },
+    {
+      "canonical_id": "c_9ba87f2c12c1",
+      "source": "The Exegesis of Judas.",
+      "target": "A Exegese de Judas.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e87b14fba38b",
+      "source": "An Exegesis...  Anything else?",
+      "target": "Uma Exegese...  Mais alguma coisa?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5f525a6ebd76",
+      "source": "Mmm...  You...",
+      "target": "Mmm...  Você...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b523ba2e690f",
+      "source": "Did you manage to vanquish the Medusa?",
+      "target": "Você conseguiu vencer a Medusa?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bcef4f4e5c90",
+      "source": "To open the chimney? Yes, absolutely.",
+      "target": "Para abrir a chaminé? Sim, absolutamente.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b9edea4e9d6e",
+      "source": "So you've already come across it. It's the Bible of Judas that is exposed in the secret room, behind the chimney.",
+      "target": "Então você já a encontrou. É a Bíblia de Judas que fica exposta na sala secreta, atrás da chaminé.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_00f6b46b2172",
+      "source": "Why do they call it an Exegesis?",
+      "target": "Por que chamam de Exegese?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_da95267610c9",
+      "source": "Because that's what it is, and not an Apocryphal Bible strictly speaking...",
+      "target": "Porque é isso que é, e não uma Bíblia Apócrifa, falando estritamente...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_dea9cd182524",
+      "source": "It's the study of a text, with a summary, not an actual Bible.",
+      "target": "É o estudo de um texto, com um resumo, não uma Bíblia de verdade.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_40583a7c6424",
+      "source": "Anyway, well done for the Gorgon. You did well, you didn't get tricked by the light bouncing back!",
+      "target": "De qualquer forma, parabéns pela Górgona. Você se saiu bem, não caiu no truque da luz refletida!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fac5db6622f8",
+      "source": "Thanks...",
+      "target": "Obrigado...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_90182e8e5519",
+      "source": "Do you think I can take it safely?",
+      "target": "Você acha que posso pegá-la com segurança?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e822db95dda0",
+      "source": "We haven't got a choice, Louis. Without it, we won't be able to work out this cursed mechanism.",
+      "target": "Não temos escolha, Louis. Sem isso, não conseguiremos desvendar este maldito mecanismo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_609f39a6919e",
+      "source": "Others?",
+      "target": "Outros?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f09bc86a8e98",
+      "source": "The Gutenberg Bible?",
+      "target": "A Bíblia de Gutenberg?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cabf859e013e",
+      "source": "This is the book in which you left your correspondence with Duchess Hillsborrow, isn't it?",
+      "target": "Este é o livro em que você deixou sua correspondência com Duchess Hillsborrow, não é?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4b5ef422a60c",
+      "source": "That's right.",
+      "target": "Isso mesmo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 10
+    },
+    {
+      "canonical_id": "c_be8c1705be68",
+      "source": "You still believe it's in the Tower room, don't you?",
+      "target": "Você ainda acredita que está na sala da Torre, não é?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_12ad12d002db",
+      "source": "I don't know, there is only one way to find out, though.",
+      "target": "Não sei, mas há apenas uma maneira de descobrir.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3e76617e0ca5",
+      "source": "Right, I shall go and see.",
+      "target": "Certo, vou ver.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2859a874cecd",
+      "source": "An armillary sphere?",
+      "target": "Uma esfera armilar?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8d78f966f814",
+      "source": "There's one in the portrait gallery.",
+      "target": "Há uma na Galeria de Retratos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7d6c5c1f886a",
+      "source": "Yes, but it's enormous.",
+      "target": "Sim, mas é enorme.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cc0f43258e5f",
+      "source": "If you don't want to have to go back and forth several times, then I suggest you get a smaller one.",
+      "target": "Se você não quer ter que ir e vir várias vezes, então sugiro que você pegue uma menor.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_deb74a74d98c",
+      "source": "I didn't think I'd need one...  I started without one and I lost my hand before I did need one!",
+      "target": "Não pensei que precisaria de uma...  Comecei sem uma e perdi minha mão antes de precisar de uma!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_133904fe0c76",
+      "source": "And you can see the result...",
+      "target": "E você pode ver o resultado...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3df07508eb0b",
+      "source": "Dates?",
+      "target": "Datas?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_025a747319da",
+      "source": "What do you mean by: the concordance of dates, exactly?",
+      "target": "O que você quer dizer com: a concordância de datas, exatamente?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3439117b4a83",
+      "source": "Don't worry about that, we already have them.",
+      "target": "Não se preocupe com isso, já temos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3c68f289a07e",
+      "source": "They are written on the back of the message I just gave you.",
+      "target": "Estão escritas no verso da mensagem que acabei de lhe dar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b637067461b0",
+      "source": "That's it for my questions",
+      "target": "Essas são todas as perguntas que tenho.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a4971d21ac06",
+      "source": "So, you have the architect's note. Behind, you will find the correspondences for the dates.",
+      "target": "Assim, você tem a nota do arquiteto. Atrás, encontrará a correspondência sobre as datas.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7dc51b66aa2e",
+      "source": "Look, these are the nails we'll be needing.",
+      "target": "Olhe, estes são os pregos que vamos precisar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3a31636dbf21",
+      "source": "As for the exegesis, that's behind the chimney, in the portrait gallery.",
+      "target": "Quanto à exegese, está atrás da chaminé, na Galeria de Retratos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_aded9b91156d",
+      "source": "You'll find the Gutenberg Bible in the Tower room. It's an unoccupied room on the guest floor.",
+      "target": "Você encontrará a Bíblia de Gutenberg na sala da Torre. É uma sala desocupada no andar de hóspedes.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6755ff6754f0",
+      "source": "As for the armillary sphere, there's one in the portrait gallery.",
+      "target": "Quanto à esfera armilar, há uma na Galeria de Retratos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8ec4cb9de13e",
+      "source": "Have you seen the size of it? You'll have to find a smaller one that you can carry with you.",
+      "target": "Você viu o tamanho disso? Terá que encontrar uma menor que possa carregar com você.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_180f2983e11c",
+      "source": "Mr von Wöllner is there, I think, isn't he?",
+      "target": "Sr. von Wöllner está lá, eu acho, não está?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7363eca8bc29",
+      "source": "Indeed, he is. Do you think he might have one?",
+      "target": "De fato, está. Você acha que ele poderia ter um?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_eaf2c26bcba6",
+      "source": "Yes, it's highly possible. He is known to have a keen interest in the occult and astronomy.",
+      "target": "Sim, é altamente possível. É conhecido por ter grande interesse no ocultismo e astronomia.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e61de9159baf",
+      "source": "Go and see if he's got one in his baggage, you never know.",
+      "target": "Vá e veja se ele tem um na sua bagagem, nunca se sabe.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_06cd8547beda",
+      "source": "One last thing before you go.",
+      "target": "Uma última coisa antes de você ir.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_73b1ab5f6795",
+      "source": "Be very careful, if you come across anyone...",
+      "target": "Tenha muito cuidado, se encontrar alguém...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fe1ace434fe0",
+      "source": "They can all potentially be spies of Mortimer or Holm.",
+      "target": "Todos podem potencialmente ser espiões de Mortimer ou Holm.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_22a53e0f7e1b",
+      "source": "Don't ever confide in anyone because a Demon can slip inside them at any moment.",
+      "target": "Nunca confie em ninguém porque um Daemon pode se infiltrar neles a qualquer momento.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_95018d67b3f6",
+      "source": "Wait, not all of them, though. Take Washington...",
+      "target": "Espere, nem todos eles, porém. Tome Washington...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bfba778551c5",
+      "source": "Especially Washington! He's been conditioned by Mortimer for years.",
+      "target": "Especialmente Washington! Ele foi condicionado por Mortimer por anos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_07c7dadab945",
+      "source": "Look at them, for crying out loud!",
+      "target": "Olhe para eles, pelo amor de Deus!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_932be22e23af",
+      "source": "How do you explain their behavior otherwise?",
+      "target": "Como você explica o comportamento deles de outra forma?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2ff61fa6caf5",
+      "source": "The most influential politicians in the western world gather together, without the least protection...",
+      "target": "Os políticos mais influentes do mundo ocidental se reúnem, sem nenhuma proteção...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_19c11fbcd34e",
+      "source": "...  without a single aide to assist them, to participate in a conference during which the guests start dropping like flies!",
+      "target": "... sem um único assistente para ajudá-los, para participar de uma conferência durante a qual os convidados começam a cair como moscas!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_23497dd8d89e",
+      "source": "Me! Adams! Péru! Hillsborrow! Look at the number of calamities that have happened over the past few days.",
+      "target": "Eu! Adams! Péru! Hillsborrow! Olhe para o número de calamidades que aconteceram nos últimos dias.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_010ab1d4427b",
+      "source": "And not ONE of them has asked to leave the island! Do you find that normal?",
+      "target": "E nenhum deles pediu para sair da ilha! Você acha isso normal?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e3544cb103e2",
+      "source": "You'll see! Go up to the manor to look for the keys and I wager not ONE of them will speak to you about my being in Emily's room!",
+      "target": "Você verá! Suba até o solar para procurar as chaves e aposto que nenhum deles falará com você sobre eu estar no quarto de Emily!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_25932e35881b",
+      "source": "Do you think so?",
+      "target": "Você acha?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_50f230458e4e",
+      "source": "Go on, you'll see.",
+      "target": "Vá em frente, você verá.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9f4c396959e0",
+      "source": "And come back with all the objects in one go! Time is against us.",
+      "target": "E volte com todos os objetos de uma vez! O tempo está contra nós.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e1bafb994706",
+      "source": "And remember, the code to get out of the secret office is 6466!",
+      "target": "E lembre-se, o código para sair do escritório secreto é 6466!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d2891888104d",
+      "source": "Louis, I already told you.",
+      "target": "Louis, eu já lhe disse.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_35d6fc1453d7",
+      "source": "Quickly go and find the cross, the nails, the Bible, the Exegesis and an armillary sphere.",
+      "target": "Vá rapidamente e encontre a cruz, os pregos, a Bíblia, a Exegese e uma esfera armilar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a56e0e659765",
+      "source": "The lantern is already in the right position, turned toward the shield... ",
+      "target": "A lanterna já está na posição correta, apontada para o escudo... ",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2d5e758aa7c0",
+      "source": "That statue is not positioned correctly.",
+      "target": "Essa estátua não está posicionada corretamente.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_294ac98eb28a",
+      "source": "Swivel the statue round",
+      "target": "Gire a estátua",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b9479e645c8d",
+      "source": "Toward the hero with the Shield",
+      "target": "Em direção ao herói com o Escudo",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8da51087f52e",
+      "source": "Toward the hero with the Sword",
+      "target": "Em direção ao herói com a Espada",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_18c2c7153b16",
+      "source": "The Gorgon always attacks the best protected.",
+      "target": "A Górgo sempre ataca o melhor protegido.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1af7b18dcf28",
+      "source": "Toward the hero with the Lantern",
+      "target": "Em direção ao herói com a Lanterna",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_301e9b9c9873",
+      "source": "Shield toward the sword.",
+      "target": "Escudo em direção à espada.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_b2aeafda76d7",
+      "source": "That's good, the statue is already in the right place.",
+      "target": "Está bom, a estátua já está no lugar certo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c867bdb5f330",
+      "source": "Sword toward the Gorgon, that's good, it's in the right place.",
+      "target": "Espada em direção à Górgo, está bom, está no lugar certo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_87e8935de261",
+      "source": "Given all the relics preserved here, it wouldn't surprise me if Mortimer claimed it is Excalibur.",
+      "target": "Dados todos os relicários preservados aqui, não me surpreenderia se Mortimer afirmasse que é a Excalibur.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_229db9214c6b",
+      "source": "The Bible is still there!",
+      "target": "A Bíblia ainda está lá!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_baeb6086671f",
+      "source": "A hand of tarot cards.",
+      "target": "Uma mão de cartas de tarô.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_87d8895060be",
+      "source": "Read the hand.",
+      "target": "Leia a mão.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9617b3ead51e",
+      "source": "The Emperor, symbol of power and stability.",
+      "target": "O Imperador, símbolo de poder e estabilidade.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5c698cc2b6b6",
+      "source": "Temperance which expresses a reward.",
+      "target": "A Temperança que expressa uma recompensa.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_94640e2a47dc",
+      "source": "And the Chariot... that evokes triumph.",
+      "target": "E a Carruagem... que evoca triunfo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9c013bfa3758",
+      "source": "If this hand is anything to go by, Mortimer's destiny promises to be glorious..",
+      "target": "Se essa mão for algo pelo qual julgar, o destino de Mortimer promete ser glorioso..",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_66ed80c03117",
+      "source": "I should have learned my lessons in card reading a little better.",
+      "target": "Deveria ter aprendido minhas lições em leitura de cartas um pouco melhor.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_956d1e7ed07a",
+      "source": "Ah, Louis! Glad you are here!",
+      "target": "Ah, Louis! Fico feliz que você esteja aqui!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b3f4efdff975",
+      "source": "Blast it, he's going to talk about my mother...",
+      "target": "Maldição, ele vai falar sobre minha mãe...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1a04f8ddaa5e",
+      "source": "Come and see what I've found!",
+      "target": "Venha e veja o que encontrei!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1202a06a526b",
+      "source": "There are pieces of paper in the ashes of the chimney. Someone's been burning something here...",
+      "target": "Há pedaços de papel nas cinzas da chaminé. Alguém esteve queimando algo aqui...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_485de51bc864",
+      "source": "Incredible... he doesn't seem to want to speak to me about what happened between my mother and the Hillsborrow sisters...",
+      "target": "Incrível... ele não parece querer falar sobre o que aconteceu entre minha mãe e as irmãs Hillsborrow...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_60dcedbda134",
+      "source": "Show me a little...",
+      "target": "Mostre-me um pouco...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_15fba952918f",
+      "source": "Look! It's possible to distinguish two different writing styles!",
+      "target": "Olhe! É possível distinguir dois estilos de escrita diferentes!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7aa80f249bda",
+      "source": "The rest of the correspondence between my mother and Emma...",
+      "target": "O resto da correspondência entre minha mãe e Emma...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_687dcac2a061",
+      "source": "Someone tried to burn an exchange of messages! I am certain!",
+      "target": "Alguém tentou queimar uma troca de mensagens! Tenho certeza!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4066779b6a12",
+      "source": "There must be more...",
+      "target": "Deve haver mais...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_17b48a5b4cac",
+      "source": "Shit... what on earth is he doing?...",
+      "target": "Merda... o que diabos ele está fazendo?...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_864ee9f0b3d0",
+      "source": "Ah, I see...",
+      "target": "Ah, entendo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e8c2a30b4ee5",
+      "source": "Do you know who was doing their communicating in this room?",
+      "target": "Você sabe quem estava se comunicando neste cômodo?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_dd0c6c3d549a",
+      "source": "Yes... But of course we must keep it to ourselves, because it is still a sensitive matter...",
+      "target": "Sim... Mas é claro que devemos manter isto entre nós, porque ainda é um assunto delicado...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_933a8d481b33",
+      "source": "Wöllner and Elizabeth had an affair...",
+      "target": "Wöllner e Elizabeth tiveram um caso...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7b1651cd514e",
+      "source": "Wöllner hinted that he'd found a way to remain discreet about it.",
+      "target": "Wöllner sugeriu que encontrou uma forma de manter discrição a respeito.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_45a682db8ec8",
+      "source": "I admit, it is ingenious...",
+      "target": "Admito, é engenhoso...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_01f5148776ef",
+      "source": "Well, I would never have guessed...",
+      "target": "Bem, nunca teria adivinhado...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5781ea596c77",
+      "source": "Delighted to have helped, but I still have to find my mother...",
+      "target": "Encantado em ter ajudado, mas ainda preciso encontrar minha mãe...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f6d6fd5a7eb0",
+      "source": "Of course... We shall see each other later in that case...",
+      "target": "Claro... Nos veremos mais tarde, então...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1b1d65df63e1",
+      "source": "Manipulate",
+      "target": "Manipular",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e84d8929b9ad",
+      "source": "If you want my opinion, a servant must have burnt some old papers, that's all...",
+      "target": "Se quiser minha opinião, um criado deve ter queimado alguns papéis antigos, é tudo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3c9ca53993ae",
+      "source": "Why, of course!",
+      "target": "Mas é claro!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_48a61ca1e3e1",
+      "source": "You very nearly made me think that you were trying to hide something, Louis...",
+      "target": "Você quase me fez pensar que estava tentando esconder algo, Louis...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3460644d02f1",
+      "source": "No, I'm sure there must be other hidden messages!",
+      "target": "Não, tenho certeza de que deve haver outras mensagens ocultas!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ea31e230c514",
+      "source": "Tell the truth",
+      "target": "Contar a verdade",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e51c607f1cd1",
+      "source": "There were...",
+      "target": "Havia...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d2f5a6a7c3d5",
+      "source": "Pardon?",
+      "target": "Perdão?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 9
+    },
+    {
+      "canonical_id": "c_41153b00474b",
+      "source": "There were more... Emma and my mother communicated through messages in this room.",
+      "target": "Havia mais... Emma e minha mãe se comunicavam através de mensagens neste cômodo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_59b491716f37",
+      "source": "I found their correspondence and I preferred to burn it all so as not to leave any traces.",
+      "target": "Encontrei a correspondência deles e preferi queimar tudo para não deixar rastros.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_82fa6d57ae6f",
+      "source": "But, why didn't you say so?",
+      "target": "Mas, por que não disse nada?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9a95a30d4ba7",
+      "source": "That's what I'm doing now, Mr President.",
+      "target": "É o que estou fazendo agora, Senhor Presidente.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cee142562cbb",
+      "source": "Before, well, it all seemed unimportant compared to everything that had happened.",
+      "target": "Antes, bem, tudo parecia sem importância comparado a tudo o que tinha acontecido.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f85973b0c615",
+      "source": "I... yes, you are right.",
+      "target": "Eu... sim, você tem razão.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3bac7dbc2acd",
+      "source": "Moreover, we ought to lend a helping hand...",
+      "target": "Além disso, deveríamos oferecer nossa ajuda...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c3d24686873d",
+      "source": "I shall have a word with Lord Mortimer, because the conference must not make us forget about Sarah.",
+      "target": "Vou conversar com Lord Mortimer, porque a conferência não deve nos fazer esquecer de Sarah.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0e8e259c3d34",
+      "source": "No! No, thank you, no, I certainly don't want Mortimer giving me any more attention than he is at the moment...",
+      "target": "Não! Não, obrigada, não, definitivamente não quero que Mortimer me dê mais atenção do que já está dando...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2b4d57340613",
+      "source": "Thank you. Thank you, Mr President.",
+      "target": "Obrigado. Obrigado, Senhor Presidente.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c82b17b13626",
+      "source": "If you don't mind, I'll take care of it.",
+      "target": "Se não se importa, vou cuidar disso.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4be7fac6f713",
+      "source": "Keep persevering. I shall see you later.",
+      "target": "Continue perseverando. Vou vê-lo mais tarde.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5f4c2590d3d3",
+      "source": "Wasted enough time, the Bible!",
+      "target": "Perdi tempo demais com a Bíblia!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e7a15f23be63",
+      "source": "He won't let go! He's going to work his way back to the Bible if he continues...",
+      "target": "Ele não vai largar! Ele vai voltar para a Bíblia se continuar...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a43bf4b47801",
+      "source": "Hey! Look! There...",
+      "target": "Ei! Olha! Lá...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b85f82a90ff9",
+      "source": "Mmm... no... I don't see anything...",
+      "target": "Hmm... não... Não vejo nada...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fd2baa35069b",
+      "source": "Come, Louis! Look! Someone's clearly drawn a 4 in the dust....",
+      "target": "Vamos, Louis! Olha! Alguém desenhou claramente um 4 na poeira....",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fb38fd2605d3",
+      "source": "I have a clue!",
+      "target": "Tenho uma pista!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_869c7f774f45",
+      "source": "I'd better take the Bible before he works his way back to it!",
+      "target": "É melhor eu pegar a Bíblia antes que ele volte para ela!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d1c44d32224c",
+      "source": "He's going to be disappointed when he sees the Bible has disappeared!",
+      "target": "Ele vai ficar decepcionado quando perceber que a Bíblia desapareceu!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_818902063ff7",
+      "source": "An armillary sphere!",
+      "target": "Uma esfera armilar!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_61a0c87ff550",
+      "source": "Perfect, that will save me some time!",
+      "target": "Perfeito, isso vai me poupar um tempo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3f6f2129c972",
+      "source": "I only hope that he isn't going to realize it right away!",
+      "target": "Só espero que ele não perceba isso imediatamente!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e25105ba7fcf",
+      "source": "Examine",
+      "target": "Examinar",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 97
+    },
+    {
+      "canonical_id": "c_90ccc9aa84ef",
+      "source": "Cube",
+      "target": "Cubo",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 42
+    },
+    {
+      "canonical_id": "c_66dcefbb0754",
+      "source": "Tarot",
+      "target": "Tarô",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 3
+    },
+    {
+      "canonical_id": "c_4a9225cfab07",
+      "source": "The exegesis is extremely detailed, with a lot of information about the life of Jesus.",
+      "target": "A exegese é extremamente detalhada, com muitas informações sobre a vida de Jesus.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cf95f609aded",
+      "source": "I'm bound to find something about the Holy Lance!",
+      "target": "Devo encontrar algo sobre a Lança Sagrada!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c7754068d031",
+      "source": "Let's see if I'm right...",
+      "target": "Vamos ver se estou certo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_13f1ff44a359",
+      "source": "Flip through",
+      "target": "Folhear",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1114014062cb",
+      "source": "This book is much too dense, I need to be more specific...",
+      "target": "Este livro é muito denso, preciso ser mais específico...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f6a99c08ee69",
+      "source": "What elements of the death of Jesus could I use?",
+      "target": "Que elementos da morte de Jesus eu poderia usar?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_620a39c2b706",
+      "source": "The last supper",
+      "target": "A última ceia",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bb5322e04f87",
+      "source": "No, there can't be anything to do with the lance there...",
+      "target": "Não, não pode haver nada relacionado à lança lá...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c05759bfba7d",
+      "source": "It's much too early...",
+      "target": "É muito cedo demais...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_08ef28b6e03f",
+      "source": "The trial",
+      "target": "O julgamento",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8ea99ab133ad",
+      "source": "There's no mention of the lance during the trial of Jesus.",
+      "target": "Não há menção à lança durante o julgamento de Jesus.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6ffe63710267",
+      "source": "The resurrection",
+      "target": "A ressurreição",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e2c9cf8f4b29",
+      "source": "Not quite specific enough but we're almost there: \"the Lord was pierced on his right side by the lance of a centurion...\"",
+      "target": "Não é específico o suficiente, mas estamos perto: \"o Senhor foi perfurado no lado direito pela lança de um centurião...\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0ef59b168d3d",
+      "source": "Golgotha",
+      "target": "Gólgota",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e6b429dc2975",
+      "source": "Look, it's mentioned here! Of course, the place of the crucifixion!",
+      "target": "Olha, está mencionado aqui! Claro, o local da crucificação!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c2fc01bc9faa",
+      "source": "\"The ordeal of Christ ends when Longinus pierces his right side with his shimmering lance\"...",
+      "target": "\"O sofrimento de Cristo termina quando Longinus perfura seu lado direito com sua lança cintilante\"...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a3ea7cef67f0",
+      "source": "A shimmering lance...",
+      "target": "Uma lança cintilante...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fc2acc2dd5d0",
+      "source": "It must be made with copper because Longinus was a simple centurion. It'd be inconsistent if it were a noble metal...",
+      "target": "Deve ser feita de cobre porque Longinus era um centurião simples. Seria inconsistente se fosse um metal nobre...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bffa6cc02029",
+      "source": "What metal shines like that?",
+      "target": "Qual metal brilha assim?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ede82036fdb8",
+      "source": "Longinus was a simple centurion so it must be decorated with copper. It'd be inconsistent if it were a noble metal...",
+      "target": "Longino era um centurião simples, então deve estar decorado com cobre. Seria inconsistente se fosse um metal nobre...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d1c3499c6282",
+      "source": "The betrayal of Judas",
+      "target": "A traição de Judas",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_425913b578e5",
+      "source": "\"Against his will and with his face bathed in tears, Judas Iscariot accepted the ultimate and terrible mission claimed by the Lord...\"",
+      "target": "\"Contra sua vontade e com o rosto banho em lágrimas, Judas Iscariotes aceitou a missão última e terrível exigida pelo Senhor...\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9337664c2403",
+      "source": "No, this passage has nothing to do with the lance...",
+      "target": "Não, essa passagem nada tem a ver com a lança...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7d67b6127f22",
+      "source": "Those books must mean the lance which finally took the life of Christ...",
+      "target": "Esses livros devem falar sobre a lança que finalmente tirou a vida de Cristo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_abcc6d950d84",
+      "source": "Search in the gospels.",
+      "target": "Procure nos evangelhos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d1e4d7591c82",
+      "source": "The 4 gospels each give an account of the death of Christ. Let's see what they can tell me about the lance...",
+      "target": "Os 4 evangelhos cada um relata a morte de Cristo. Vamos ver o que eles podem me dizer sobre a lança...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f80aa0c7f77e",
+      "source": "According to Mathew",
+      "target": "De acordo com Mateus",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_be74dd3a281e",
+      "source": "There's nothing about the lance in this account of the crucifixion...",
+      "target": "Não há nada sobre a lança nessa narrativa da crucificação...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9f644eacaad5",
+      "source": "According to Mark",
+      "target": "De acordo com Marcos",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_dc6ed91cda5e",
+      "source": "This apostle does not mention the lance in his description of the death of Christ..",
+      "target": "Este apóstolo não menciona a lança em sua descrição da morte de Cristo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3a0745e6bb76",
+      "source": "According to Luke",
+      "target": "De acordo com Lucas",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9f2711b88c33",
+      "source": "There's no mention of the lance in what Luke says about the death of Christ...",
+      "target": "Não há menção da lança no que Lucas diz sobre a morte de Cristo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5186a52e167e",
+      "source": "According to John",
+      "target": "De acordo com João",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e90dff0bcdcf",
+      "source": "Ah there! In John's exegesis...",
+      "target": "Ah, ali! Na exegese de João...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_1f4fbe27a652",
+      "source": "\"When they came to Jesus, and saw that he was dead already, they broke not his legs;",
+      "target": "\"Quando chegaram a Jesus, e viram que já estava morto, não quebraram suas pernas;",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_db6e2dbd7c01",
+      "source": "But one of the soldiers with a shimmering lance pierced his side, and forthwith there came out blood and water.",
+      "target": "Mas um dos soldados com uma lança reluzente atravessou seu lado, e imediatamente saiu sangue e água.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_2b05596f92ab",
+      "source": "And he that saw it bore witness, and his record is true: and he knoweth that he saith true, that ye might believe.\"",
+      "target": "E aquele que o viu deu testemunho, e seu testemunho é verdadeiro: e ele sabe que diz a verdade, para que vocês creiam.\"",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5a16bffea7f0",
+      "source": "\"A shimmering lance\"... What is this telling me?",
+      "target": "\"Uma lança reluzente\"... O que isso me diz?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ab3146fb69e0",
+      "source": "Find a clue of what the lance looks like",
+      "target": "Encontre uma pista sobre a aparência da lança",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_17943e69130d",
+      "source": "The medieval hermetic traditions evoked the idea of using noble materials for relics...",
+      "target": "As tradições herméticas medievais evocavam a ideia de usar materiais nobres para relíquias...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fbdff12cb76b",
+      "source": "Which the monasteries often made themselves, in order to attract pilgrims...",
+      "target": "Que os mosteiros frequentemente faziam por si próprios, para atrair peregrinos...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d70efdad18f2",
+      "source": "Of course they had to inspire greatness... So here we might think of gold whereas a centurion could not have hoped for anything better than copper at the time!",
+      "target": "Claro que tinham de inspirar grandeza... Então poderíamos pensar em ouro, enquanto um centurião não poderia ter esperado nada melhor que cobre naquela época!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d6891db10120",
+      "source": "The true lance would not have been a luxurious weapon...",
+      "target": "A lança verdadeira não teria sido uma arma luxuosa...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6e11bf0e399a",
+      "source": "Know who it is",
+      "target": "Descubra quem é",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_23e26823fa99",
+      "source": "The name of the Roman soldier who killed Christ never appears in the biblical canon...",
+      "target": "O nome do soldado romano que matou Cristo nunca aparece no cânone bíblico...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0ca5a6e61c93",
+      "source": "Yet, it is said that he was a centurion and was called Longinus...",
+      "target": "Contudo, diz-se que ele era um centurião e se chamava Longino...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d7a75fcf12ee",
+      "source": "Remember or find a clue",
+      "target": "Lembre-se ou encontre uma pista",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_382ff1ae9851",
+      "source": "The gospel of Saint John is the most detailed on the subject of the crucifixion...",
+      "target": "O evangelho de São João é o mais detalhado sobre o assunto da crucificação...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d34c7fb69ec2",
+      "source": "The Bible must mean the lance which finally took the life of Christ...",
+      "target": "A Bíblia deve falar sobre a lança que finalmente tirou a vida de Cristo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_494f9951bd55",
+      "source": "Ah there!",
+      "target": "Ah, ali!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a8dbabeea40a",
+      "source": "But one of the soldiers with a spear pierced his side, and forthwith there came out blood and water.",
+      "target": "Mas um dos soldados com uma lança atravessou seu lado, e imediatamente saiu sangue e água.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_d6b8d935913b",
+      "source": "I managed to get the biography of Longinus the centurion!",
+      "target": "Consegui obter a biografia de Longino, o centurião!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9df82845217e",
+      "source": "Let's see what it can teach me...",
+      "target": "Vamos ver o que pode me ensinar...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_19e65d92b661",
+      "source": "An interesting passage here tells me that the lance is engraved with the symbol of the first Christians: the fish!",
+      "target": "Uma passagem interessante aqui me diz que a lança está gravada com o símbolo dos primeiros cristãos: o peixe!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_05d0de247864",
+      "source": "Your Eminence, would you have a moment to spare?",
+      "target": "Sua Eminência, teria um momento?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_be5bcb7e62f4",
+      "source": "Not now, Louis...",
+      "target": "Não agora, Louis...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2b7f9efe9998",
+      "source": "Please, leave me alone!",
+      "target": "Por favor, deixe-me em paz!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4db6cca5b871",
+      "source": "I want to be alone!",
+      "target": "Quero ficar sozinho!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3f9c5b4788be",
+      "source": "Very well, I...",
+      "target": "Muito bem, eu...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c43c2dbd7197",
+      "source": "I'm only searching for information about the lance of Longinus the soldier. If you could...",
+      "target": "Estou apenas procurando informações sobre a lança de Longino, o soldado. Se você pudesse...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_59557dfa2e71",
+      "source": "You are not listening to me...",
+      "target": "Você não está me ouvindo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fed3c90950ad",
+      "source": "You are playing with fire!",
+      "target": "Você está brincando com fogo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
+    },
+    {
+      "canonical_id": "c_f9c67a4aa0ca",
+      "source": "I heard you speak to Mr von Wöllner about it and I was wondering if you could tell me something about it.",
+      "target": "Ouvi você falar com o Sr. von Wöllner sobre isso e estava me perguntando se você poderia me contar algo sobre isso.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9fb90b411b79",
+      "source": "That was a private conversation!",
+      "target": "Aquela era uma conversa privada!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a356e2ba01b0",
+      "source": "How could I have known that he was listening to us!!?",
+      "target": "Como eu poderia ter sabido que ele estava nos ouvindo!!?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5bb4c6cb2494",
+      "source": "I see what you mean...",
+      "target": "Vejo o que você quer dizer...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_91987cc48223",
+      "source": "Louis, don't push it.",
+      "target": "Louis, não complique as coisas.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_344c4713865e",
+      "source": "Leave while you still can!",
+      "target": "Saia enquanto ainda pode!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_540c989a9984",
+      "source": "Your Eminence? Are you alright?",
+      "target": "Sua Eminência? Está bem?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4046f665a474",
+      "source": "Your Eminence? Are you with me?",
+      "target": "Sua Eminência? Está me ouvindo?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9224ac63d687",
+      "source": "Can you turn around, please?",
+      "target": "Pode se virar, por favor?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_48f4ee03ddc6",
+      "source": "What do you want to know about the Holy Lance, Louis?",
+      "target": "O que você quer saber sobre a Lança Sagrada, Louis?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_496139b728d4",
+      "source": "Your Eminence, turn around...",
+      "target": "Sua Eminência, vire-se...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c2ef0d10b6a3",
+      "source": "This is the weapon used by a Roman centurion, on the very day Christ was nailed to the cross.",
+      "target": "Esta é a arma usada por um centurião romano, no dia em que Cristo foi pregado na cruz.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c17f01e88cd1",
+      "source": "Look at me.",
+      "target": "Olhe para mim.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_31196c8de629",
+      "source": "Longinus thrust his lance in the right side of Jesus.",
+      "target": "Longino enterrou sua lança no lado direito de Jesus.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9ea78a3436d1",
+      "source": "Please...",
+      "target": "Por favor...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 5
+    },
+    {
+      "canonical_id": "c_c2510c00db67",
+      "source": "His nose is bleeding...",
+      "target": "Seu nariz está sangrando...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     }
   ]
 }
