@@ -17,3 +17,13 @@ preprocessed.json
 # Saída de translate_batch.py — lotes brutos da IA antes de validate_batch.py
 # revisar; o que passa vai para translation_memory.json (isso sim versionado)
 pt-br/batches/
+
+# Banco de trabalho do pipeline automático (translator/) — espelha
+# translation_memory.json (que é o versionado) e é reconstruído
+# automaticamente a partir dele na primeira execução se não existir.
+pt-br/translation_memory.db
+pt-br/translation_memory.db-shm
+pt-br/translation_memory.db-wal
+
+# Logs do pipeline automático (translator/)
+pt-br/logs/

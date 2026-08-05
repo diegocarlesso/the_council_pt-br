@@ -1,3 +1,7 @@
 # Dependência real de translate_batch.py (só usada fora de --dry-run).
 # Confira a versão mais recente antes de instalar em produção.
 anthropic
+
+# Pipeline de tradução automática local (translator/) - fala com o LM
+# Studio via HTTP (endpoint OpenAI-compatible), não usa a lib "openai".
+requests
