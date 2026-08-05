@@ -634,6 +634,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_0190ac602c17",
+      "source": "I.. I can no longer keep him out... he's... he's coming...",
+      "target": "Eu.. Eu não consigo mantê-lo fora mais... Ele... Ele está vindo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_0198ae26241e",
       "source": "CHEMIST",
       "target": "QUÍMICO",
@@ -718,6 +727,15 @@
       "canonical_id": "c_01cb5ba2872e",
       "source": "Let's see what combination corresponds to the chosen theme.",
       "target": "Vamos ver que combinação corresponde ao tema escolhido.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_01d12c530a1d",
+      "source": "If you and your mother hadn't come here, all this would never have happened!",
+      "target": "Se você e sua mãe não viessem aqui, nada disso teria acontecido!",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -893,6 +911,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0276d34385c3",
+      "source": "I must be quick...",
+      "target": "Eu preciso ser rápido...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_027998413277",
@@ -1345,6 +1372,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_03c2db84c90d",
+      "source": "Anyhow, I should try to concentrate on his voice.",
+      "target": "De qualquer forma, eu devo tentar concentrar-me na voz dele.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_03d0132418c5",
       "source": "How does he know?",
       "target": "Como ele sabe?",
@@ -1505,6 +1541,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_046ba3507d6d",
+      "source": "That's how this whole thing began.",
+      "target": "Foi assim que tudo isso começou.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_046d2efa3f3c",
@@ -1930,6 +1975,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_0588e66974c5",
+      "source": "You sound like a little girl talking...",
+      "target": "Você soa como uma menina falando...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_058b69090413",
       "source": "I learned to use my new power",
       "target": "Eu aprendi a usar meu novo poder",
@@ -2146,6 +2200,24 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_06247c1acd0d",
+      "source": "Emma, don't be like...",
+      "target": "Emma, não seja assim...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_06253c857054",
+      "source": "He's just a few meters away...",
+      "target": "Ele está a poucos metros de distância...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_0627cf2d2807",
       "source": "Taking 4 consumables during the same quest will poison you. Consume with moderation.",
       "target": "Usar 4 itens consumíveis durante a mesma missão o envenenará. Consuma com moderação.",
@@ -2360,6 +2432,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_06b147d34d86",
+      "source": "I'm so sorry brother, there's nothing you can do to stop me now.",
+      "target": "Estou muito desolado irmão, não há nada que você possa fazer para me deter agora.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_06b1b6c63706",
@@ -3134,6 +3215,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_08dffc742308",
+      "source": "I must concentrate on the important memories, the ones that led Holm into this situation.",
+      "target": "Eu devo concentrar-me nas memórias importantes, as que levaram Holm a esta situação.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
     },
     {
       "canonical_id": "c_08e606cdd721",
@@ -3991,6 +4081,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_0b143930add4",
+      "source": "You're the one, Louis, you're the one who assassinated me!",
+      "target": "Você é a culpada, Louis, você foi quem me assassinou!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_0b144301d5e0",
       "source": "The exegesis of Judas",
       "target": "A exegese de Judas",
@@ -4304,6 +4403,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0c06f0f0accc",
+      "source": "Dear God, if I lose the war against France, I will be doomed!",
+      "target": "Por Deus, se eu perder a guerra contra a França, estarei condenado!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_0c1530799b62",
@@ -4630,6 +4738,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_0d132364c942",
+      "source": "Alright, Emma.",
+      "target": "Tudo bem, Emma.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_0d135b39aace",
       "source": "3D Character Artist",
       "target": "Artista de Personagens 3D",
@@ -4691,6 +4808,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 18
+    },
+    {
+      "canonical_id": "c_0d5c4ea84f33",
+      "source": "He's won...",
+      "target": "Ele venceu...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_0d5c866ae118",
@@ -5134,6 +5260,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_0e89d013dace",
+      "source": "Don't take it like...",
+      "target": "Não leve isso como...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_0e8e259c3d34",
       "source": "No! No, thank you, no, I certainly don't want Mortimer giving me any more attention than he is at the moment...",
       "target": "Não! Não, obrigada, não, definitivamente não quero que Mortimer me dê mais atenção do que já está dando...",
@@ -5438,6 +5573,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_0f6aa9d77a36",
+      "source": "I escaped from the Ether ",
+      "target": "Saí do Éter",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_0f6acc39821b",
@@ -5818,6 +5962,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_1093d1b3b723",
+      "source": "I confirmed my support for Lord Mortimer",
+      "target": "Confirmei meu apoio a Lord Mortimer",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_10941ad8b845",
       "source": "Voice Actors",
       "target": "Dubladores",
@@ -6113,6 +6266,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 3
+    },
+    {
+      "canonical_id": "c_1170d37f53c5",
+      "source": "Pick up the thread of my thoughts, Louis, of my memories! Make haste!",
+      "target": "Pegue o fio dos meus pensamentos, Louis, das minhas memórias! Apresse-se!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_117821ca4236",
@@ -6955,6 +7117,15 @@
       "canonical_id": "c_140c9837a94b",
       "source": "However, it seems that Mortimer feels certain he can get him to change his mind.",
       "target": "No entanto, parece que Mortimer tem certeza de que conseguirá fazê-lo mudar de ideia.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_140edeba9a7e",
+      "source": "...So full of remorse once it was done, I don't really regret making you steal the necklace and end up in a convent...",
+      "target": "...Assim cheio de remorsos depois, eu realmente não me arrependo de tê-lo feito roubar o colar e acabar em um convento...",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -7978,6 +8149,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_170dbd85371d",
+      "source": "I met Sarah de Richet's spirit",
+      "target": "Conheci o espírito de Sarah de Richet",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_17173975118a",
       "source": "Now that I'm inside you, you are going to exit the Ether and return to William!",
       "target": "Agora que estou dentro de você, você vai sair do Éter e voltar para William!",
@@ -8262,6 +8442,15 @@
       "target": "Animador Principal",
       "context": "Sistema",
       "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_17d880c84084",
+      "source": "Don't worry, son...",
+      "target": "Não se preocupe, filho...",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -9265,6 +9454,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_1b00887e54ef",
+      "source": "You will be puni...",
+      "target": "Você será puni...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_1b049f6d26c5",
       "source": "Monsieur Napoleon?",
       "target": "Monsieur Napoleon?",
@@ -9562,6 +9760,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_1bc8b1087f60",
+      "source": "Sorry, I can't...",
+      "target": "Desculpe, não posso...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_1bc90093402e",
       "source": "You don't say no to Mortimer! You know this very well!",
       "target": "Você não recusa Mortimer! Você sabe disso muito bem!",
@@ -9630,6 +9837,15 @@
       "target": "Primeiro andar",
       "context": "Sistema",
       "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_1c17eb405dcd",
+      "source": "He's getting ready to pull out all the stops!",
+      "target": "Ele está se preparando para usar todas as armas possíveis!",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -9823,6 +10039,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_1c9c094d8fd7",
+      "source": "I'm dreaming or...",
+      "target": "Estou sonhando ou...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_1cb1dbcfb02d",
       "source": "I... You...",
       "target": "Eu... Você...",
@@ -9956,6 +10181,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_1d0f27994166",
+      "source": "Say nothing to him",
+      "target": "Não diga nada a ele",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_1d1013da06eb",
@@ -10107,6 +10341,15 @@
       "target": "Terceira memória encontrada",
       "context": "Item",
       "category": "Item",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_1d84589be8ff",
+      "source": "You'll end up just like him!",
+      "target": "Você acabará sendo igual a ele!",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -10687,6 +10930,15 @@
       "usage_count": 5
     },
     {
+      "canonical_id": "c_1f455bf150e9",
+      "source": "Follow this memory",
+      "target": "Siga essa memória",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 10
+    },
+    {
       "canonical_id": "c_1f45db9d4476",
       "source": "NOW!",
       "target": "AGORA!",
@@ -10928,6 +11180,15 @@
       "category": "Item",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_200e75608386",
+      "source": "You will find an ally there...",
+      "target": "Você encontrará um aliado lá...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_20101cf72432",
@@ -11187,6 +11448,15 @@
       "target": "Você ganha 1 ponto em Convicção",
       "context": "Item",
       "category": "Item",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_20c9306e32a3",
+      "source": "They were contemporaries of Louis XIV. This has nothing to do with what brought Holm here.",
+      "target": "Eles eram contemporâneos de Luís XIV. Isso não tem nada a ver com o que trouxe Holm aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -11621,6 +11891,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2238d47f3945",
+      "source": "Don't be, you've been infallible right to the end.",
+      "target": "Não se sinta assim, você foi infalível até o fim.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_22390ad11c32",
@@ -12316,6 +12595,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_23ee04bd5b6e",
+      "source": "What are you saying?",
+      "target": "O que você está dizendo?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_23f49b23fc1e",
       "source": "Sir Gregory?!",
       "target": "Sir Gregory?!",
@@ -12991,6 +13279,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_25f85ec659a8",
+      "source": "I tried to read Asahel's spirit and was rejected",
+      "target": "Tentei ler o espírito de Asahel e fui rejeitado",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_2604e11e7540",
       "source": "I will tell Mortimer!",
       "target": "Eu contarei para Mortimer!",
@@ -13435,6 +13732,15 @@
       "canonical_id": "c_27196a713283",
       "source": "I'm not sure but I'm convinced that Holm won't go through with total opposition, and in the end, he will do whatever Lord Mortimer tells him to.",
       "target": "Não tenho certeza, mas estou convencido de que Holm não irá seguir com total oposição, e no final, fará o que Lord Mortimer mandar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_271d62868503",
+      "source": "But Father, I almost..",
+      "target": "Mas Pai, eu quase..",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -15061,6 +15367,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_2baabd93dc51",
+      "source": "Despite being centuries old, despite all the wisdom you should have acquired, I don't believe in you, nor do I believe in him.",
+      "target": "Embora tenha centenas de anos e todas as sabedrias que deveria ter adquirido, eu não confio nele, nem em você.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_2bbca79ccfc2",
       "source": "GRAPHICS",
       "target": "GRÁFICOS",
@@ -15284,6 +15599,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2c59347a919c",
+      "source": "I accepted Sir Gregory Holm's spirit",
+      "target": "Aceitei o espírito de Sir Gregory Holm",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_2c5e3b5b23c7",
@@ -15574,6 +15898,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_2d02bb457dd9",
+      "source": "One of Holm's distant memories and one of his brother's? With an ego like his, he's undoubtedly talking about Mortimer.",
+      "target": "Um dos distantes recordes de Holm e um do seu irmão? Com um ego como o dele, ele está indubitavelmente falando sobre Mortimer.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_2d079da9cd63",
       "source": "You came to my rescue?",
       "target": "Você veio me resgatar?",
@@ -15716,6 +16049,15 @@
       "category": "Item",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2d5908ffab3b",
+      "source": "I didn't want to believe it...",
+      "target": "Eu não queria acreditar nisso...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_2d5e758aa7c0",
@@ -16042,6 +16384,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_2e5722e202d8",
+      "source": "Look, Emma, I'm sure you're sister isn't far.",
+      "target": "Olha, Emma, tenho certeza que sua irmã não está longe.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_2e5e55a8b9c8",
       "source": "She should never have tried to shoot me...",
       "target": "Ela nunca deveria ter tentado me matar...",
@@ -16339,6 +16690,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_2f5ba7286547",
+      "source": "Where? Louis, I don't want to just disappear!...",
+      "target": "Onde? Louis, eu não quero simplesmente desaparecer!...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_2f5f1fcd7e21",
       "source": "Knowing Mortimer, I wouldn't be surprised if he'd rigged his crypt with traps.",
       "target": "Sabendo do Mortimer, não me surpreenderia se ele tivesse armadilhas na sua cripta.",
@@ -16492,6 +16852,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_2f9e5dc2adfe",
+      "source": "Louis, it's over for me...",
+      "target": "Louis, isso acabou para mim...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_2fa75f2dae33",
       "source": "Promise nothing",
       "target": "Prometa não prometer",
@@ -16517,6 +16886,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_2fc331988de2",
+      "source": "We put up a good fight, but let's be honest, he won.",
+      "target": "Nós lutamos bem, mas vamos ser honestos, ele venceu.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_2fc7af00b362",
@@ -16661,6 +17039,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3028f50cd3e2",
+      "source": "The countess was apparently an acquaintance of Sir Gregory, but this has nothing to do with what's happening at the manor.",
+      "target": "A condesa era aparentemente uma conhecida de Sir Gregory, mas isso não tem nada a ver com o que está acontecendo na mansão.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_302be8e726d0",
@@ -16834,6 +17221,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_30a169a27ad7",
+      "source": "Managed to swindle La Fayette for the damage he did to the western monarchies...",
+      "target": "Consegui enganar Lafayette pelo dano que ele causou às monarquias ocidentais...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_30a5baae448f",
       "source": "Why, of course...",
       "target": "Mas é claro...",
@@ -16841,6 +17237,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_30ac032b4b3e",
+      "source": "I can put that one to the side...",
+      "target": "Posso deixar isso de lado...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_30acb2678d1d",
@@ -17257,6 +17662,15 @@
       "usage_count": 4
     },
     {
+      "canonical_id": "c_3218b6bde4c1",
+      "source": "Ah Charles François... What an adventure..",
+      "target": "Ah Charles François... Que aventura..",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_321d8260f683",
       "source": "He knows I'll be voting for Mortimer.. but how?",
       "target": "Ele sabe que vou votar por Mortimer.. mas como?",
@@ -17413,6 +17827,15 @@
       "canonical_id": "c_32e259135654",
       "source": "Well, sir, I see you have some captivating books and...",
       "target": "Bem, senhor, vejo que você tem alguns livros fascinantes e...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_32e317b1a58e",
+      "source": "Dear Countess d'Hunolstein... What a pity you disappointed me!",
+      "target": "Caríssima Condessa d'Hunolstein... Que pena você me decepcionou!",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -18805,6 +19228,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_369797227639",
+      "source": "My faith in Father and the Catholic Church that he administered made me blind, I can see that now...",
+      "target": "Minha fé em Deus e na Igreja Católica que ele administrava me fez cego, posso ver isso agora...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_3698447cbd03",
       "source": "The Incredulity of Saint Thomas",
       "target": "A incredulidade de São Tomás",
@@ -19244,6 +19676,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_37ad3feaf52f",
+      "source": "Don't let him get away with it, please...",
+      "target": "Não deixem que ele escape com isso, por favor...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_37b638be4b12",
@@ -19732,6 +20173,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_391d262dc5a1",
+      "source": "Wh... What??",
+      "target": "O... O que??",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_3922158ae252",
       "source": "Don't blackmail him for Piaggi",
       "target": "Não o ameace por Piaggi",
@@ -20061,6 +20511,15 @@
       "target": "PROCURE A SALA COM EMILY",
       "context": "Sistema",
       "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_3a0b9f6c9620",
+      "source": "I met Emily Hillsborrow's spirit",
+      "target": "Conheci o espírito de Emily Hillsborrow",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -20704,6 +21163,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_3c08c7b0a6be",
+      "source": "It was a trap right from the start.",
+      "target": "Desde o início era uma armadilha.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_3c0fd46814f1",
       "source": "I know that",
       "target": "Eu sei disso",
@@ -20911,6 +21379,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_3ca7082c953f",
+      "source": "Oh really? And what were you playing at?",
+      "target": "Ah sim? E o que você estava fazendo?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_3ca94acfcfa6",
       "source": "So, for the last time, please go and leave it at the agreed place.",
       "target": "Então, pela última vez, por favor, vá e deixe-o no lugar combinado.",
@@ -20981,6 +21458,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_3d06fe6bcc22",
+      "source": "I restored order among the guests",
+      "target": "Restabeleci o ordenamento entre os convidados",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_3d0ff8882a8d",
@@ -21143,6 +21629,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 3
+    },
+    {
+      "canonical_id": "c_3d75cba6c0dc",
+      "source": "He allowed me to bring Emily back again to this conference.",
+      "target": "Ele me permitiu trazer Emily de volta para esta conferência novamente.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_3d7a148c261f",
@@ -21906,6 +22401,15 @@
       "target": "Descubra todas as Imunidades e Vulnerabilidades de Jacques Peru",
       "context": "Sistema",
       "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_3f9968321fe8",
+      "source": "Congratulations, my son, you have succeeded in joining us!",
+      "target": "Parabéns, meu filho, você conseguiu se juntar a nós!",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -23107,6 +23611,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_42aedab27765",
+      "source": "He's my father and there's so much he has to show me.",
+      "target": "Ele é meu pai e há tanto que ele tem para me mostrar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_42af2fcc38f6",
       "source": "Are you joking?!",
       "target": "Você está brincando?!",
@@ -23481,6 +23994,15 @@
       "target": "Sua experiência aumenta em 5%",
       "context": "Sistema",
       "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_438d5f9b7dc5",
+      "source": "He's just in front of you...",
+      "target": "Ele está justo na sua frente...",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -24151,6 +24673,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_45148f57901e",
+      "source": "Analyze the memory",
+      "target": "Analyze the memory",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 10
+    },
+    {
       "canonical_id": "c_451a05b1100f",
       "source": "FIND A WAY OF GETTING INTO EMILY HILLSBORROW'S ROOM",
       "target": "ENCONTRE UMA FORMA DE ENTRAR NO QUARTO DE EMILY HILLSBORROW",
@@ -24455,6 +24986,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 4
+    },
+    {
+      "canonical_id": "c_45ec553e2056",
+      "source": "Leave me alone! I don't need you!",
+      "target": "Deixe-me em paz! Eu não preciso de você!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_45f465685e75",
@@ -24811,6 +25351,15 @@
       "canonical_id": "c_46f65930b819",
       "source": "This is not a good start",
       "target": "Isso não é um bom começo",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_46f72a32f04e",
+      "source": "Sorry, I'm going to follow Mortimer",
+      "target": "Desculpe, vou seguir Mortimer",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -25186,6 +25735,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_4851f2c2e3b6",
+      "source": "I reconstructed the sequence of memories of Sir Gregory Holm",
+      "target": "Reconstruí a sequência dos recordes de Sir Gregory Holm",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_485748151046",
       "source": "She's crazy...",
       "target": "Ela está louca...",
@@ -25366,6 +25924,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_48ca7edccb51",
+      "source": "I recall Sparta, of my exchanges back then with my brother...",
+      "target": "Lembro-me de Esparta, das minhas conversas com meu irmão naquela época...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_48cf458e5d19",
       "source": "Here we can see that the Holy Lance is represented in the shape of a spear...",
       "target": "Aqui podemos ver que a Lança Sagrada é representada na forma de um escudo...",
@@ -25402,6 +25969,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_48d95fcf283e",
+      "source": "Father, I am sorry...",
+      "target": "Pai, eu estou muito arrependido...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_48dabfbbabfd",
       "source": "What's wrong?",
       "target": "O que há de errado?",
@@ -25436,6 +26012,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_48f753ed7ee9",
+      "source": "Find her!",
+      "target": "Encontre-a!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_490832f1416f",
@@ -26356,6 +26941,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_4b91f35c5237",
+      "source": "If your brother had not been so malicious, you would still be with us.",
+      "target": "Se seu irmão não tivesse sido tão malicioso, você ainda estaria conosco.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_4b9a71a1945c",
       "source": "Up till now, the guests have been sizing each other up. From now on, it's time for Gregory and myself to play.",
       "target": "Até agora, os convidados estavam avaliando uns aos outros. A partir de agora, é hora de Gregory e eu jogarmos.",
@@ -26651,6 +27245,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4c2a32bc970c",
+      "source": "Come to me!",
+      "target": "Venha para mim!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_4c30691d2355",
@@ -27490,6 +28093,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_4e6ca6c78e47",
+      "source": "Yes... Yes, I'm here.",
+      "target": "Sim... Sim, estou aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_4e6ccdaea1fe",
       "source": "Poor man seems terrified. It would be good idea if I reassured him a little before trying to make him change sides.",
       "target": "Pobre homem parece terrivelmente assustado. Seria uma boa ideia se eu o acalmasse um pouco antes de tentar fazê-lo mudar de opinião.",
@@ -27515,6 +28127,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4e70e3554372",
+      "source": "You made your choice and you have lost.",
+      "target": "Você fez sua escolha e perdeu.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_4e72c59489f1",
@@ -27605,6 +28226,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_4eb88fab2c3d",
+      "source": "...and I was able to impose my law over the seas of the triangular trade!",
+      "target": "...e consegui impor minha lei sobre as águas do tráfico triangular!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_4ebb9fabe565",
@@ -27763,6 +28393,15 @@
       "canonical_id": "c_4f3708e773ef",
       "source": "The time has come to lay down all our cards!",
       "target": "Chegou a hora de colocarmos todas as nossas cartas sobre a mesa!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_4f387df374cc",
+      "source": "From Charles Martel to the wars of religion...",
+      "target": "De Carlos Martel às guerras de religião...",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -28183,6 +28822,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_506ae0939c14",
+      "source": "If nothing is real, I'll have to be careful!",
+      "target": "Se nada é real, vou ter que ser cauteloso!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_506f6d8a8fda",
       "source": "I think I've found a solution, you'll see...",
       "target": "Acho que encontrei uma solução, você verá...",
@@ -28233,6 +28881,24 @@
       "target": "Definir parâmetros de áudio",
       "context": "Sistema",
       "category": "Sistema",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_508d01805dec",
+      "source": "Let me enter you, I shall empower you to do so!",
+      "target": "Deixe-me entrar em você, eu vou te empoderar para isso!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_5094fabe5155",
+      "source": "In the Ether...",
+      "target": "No Éter...",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
     },
@@ -28334,6 +29000,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5123e944bd76",
+      "source": "Louis, it's the only way!",
+      "target": "Louis, é a única maneira!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_5127b2107358",
@@ -28660,6 +29335,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_51fb7dfb2f24",
+      "source": "I'll make you all pay, all of you!!",
+      "target": "Vou fazer vocês todos pagarem, a todos!!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_51fe8eb92ded",
       "source": "The Locksmith's Art",
       "target": "A Arte do Serralheiro",
@@ -28802,6 +29486,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_525cf5f0778e",
+      "source": "Alright?",
+      "target": "Tudo bem?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_52647b422992",
@@ -29146,6 +29839,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_535651639595",
+      "source": "But that's the rule, never let anyone possess your mind...",
+      "target": "Mas essa é a regra, nunca deixe ninguém possuir sua mente...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_535d36af2143",
       "source": "There's a reason why they're all signed by his same hand.",
       "target": "Há uma razão pela qual todos estão assinados com a mesma mão.",
@@ -29194,6 +29896,15 @@
       "canonical_id": "c_53754cb5fe5c",
       "source": "You know very well what will happen to you if you shoot me.",
       "target": "Você sabe muito bem o que acontecerá a você se me matar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_5377967c73eb",
+      "source": "Louis! Are you there?",
+      "target": "Louis! Você está aí?",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -29333,6 +30044,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 166
+    },
+    {
+      "canonical_id": "c_53dfe30da8bf",
+      "source": "I... can... can you see him?...",
+      "target": "Eu... Eu posso... Você consegue vê-lo?...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_53e17a0a2ecc",
@@ -29963,6 +30683,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_55feb1331e1f",
+      "source": "He's coming closer to you...",
+      "target": "Ele está se aproximando de você...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_56010577f0fc",
@@ -30665,6 +31394,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_58178c92bb2c",
+      "source": "It was so easy for me to sell your title of Marquis de Maintenon to Françoise d'Aubigné and to sail for the Caribbean islands..",
+      "target": "Foi tão fácil para mim vender o título de Marquês de Maintenon a Françoise d'Aubigné e navegar para as ilhas do Caribe..",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_582e794ac3be",
@@ -31819,6 +32557,15 @@
       "usage_count": 4
     },
     {
+      "canonical_id": "c_5afbe2a9735a",
+      "source": "I can't hold out...",
+      "target": "Não consigo resistir...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_5b0d8cd3eed0",
       "source": "Questioning costs 1 more Effort point",
       "target": "Questionar custa 1 Ponto de Esforço adicional",
@@ -32575,6 +33322,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_5d1b085bb4e2",
+      "source": "That's not the right direction.",
+      "target": "Isso não é a direção certa.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_5d2f251f318a",
       "source": "Can you imagine what it would mean?",
       "target": "Você consegue imaginar o que significaria?",
@@ -32701,6 +33457,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_5d7ec4cc67b0",
+      "source": "I must find them quickly...",
+      "target": "Eu preciso encontrá-los rapidamente...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_5d83cfdae7ed",
       "source": "I wanted to give you time Louis, that's all.",
       "target": "Eu queria dar-lhe tempo, Louis, nada mais.",
@@ -32803,6 +33568,15 @@
       "canonical_id": "c_5dd16599461b",
       "source": "Hahahaha! Come on, Johann, don't make me laugh. He has never thought of you as his son.",
       "target": "Hahahaha! Vamos, Johann, não faça com que eu risca. Ele nunca te considerou seu filho.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_5dd5d7e2de24",
+      "source": "You can count on me to do my utmost, so that neither of you will succeed in your plans!",
+      "target": "Você pode contar comigo para fazer o meu melhor, para que nenhum dos dois alcance seus objetivos!",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -33124,6 +33898,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_5ebfeb4ed08a",
+      "source": "We must notify the family about what's happening here.",
+      "target": "Devemos avisar a família sobre o que está acontecendo aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_5ec06795bd65",
       "source": "[ETIQUETTE] Flatter him",
       "target": "[ETIQUETA] Amealhe-o",
@@ -33358,6 +34141,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_5fb1ffd29114",
+      "source": "Find your sister, Louis! She'll know what to do!",
+      "target": "Encontre sua irmã, Louis! Ela saberá o que fazer!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_5fb90164a76f",
       "source": "They are Daemons and you are like them...",
       "target": "Eles são Daemon e você é como eles...",
@@ -33365,6 +34157,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_5fc86c5237eb",
+      "source": "What you see is not real, it's only mental projections created by my spirit.",
+      "target": "O que você vê não é real, é apenas projeções mentais criadas pelo meu espírito.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_5fce5cd53ac9",
@@ -33466,6 +34267,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_605d9b09aebb",
+      "source": "Emma? Is it you?",
+      "target": "Emma? É você?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_606f8be9e657",
       "source": "I know! Forgive me! I beg you...",
       "target": "Eu sei! Perdoe-me! Peço-lhe muito...",
@@ -33482,6 +34292,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_60772447a6ca",
+      "source": "Find a way... Hurry...",
+      "target": "Encontre uma maneira... Apresse-se...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_60808f06dad8",
@@ -34933,6 +35752,15 @@
       "usage_count": 3
     },
     {
+      "canonical_id": "c_64aba5d64f7a",
+      "source": "Father?",
+      "target": "Pai?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_64c6ff868bac",
       "source": "Underground",
       "target": "Subterrâneo",
@@ -35219,6 +36047,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_65aef06835d5",
+      "source": "Is there anyone there?!",
+      "target": "Alguém está aí?!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_65b0037892cf",
@@ -36454,6 +37291,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_692cec4a7ce1",
+      "source": "Louis! Hurry, he's coming!",
+      "target": "Louis! Apresse-se, ele está vindo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_692ead3a7c97",
       "source": "Make him speak, then concentrate.",
       "target": "Faça ele falar, então concentre-se.",
@@ -36569,6 +37415,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6999a70f3822",
+      "source": "When you return to reality, go to Elizabeth's room and call the Ether.",
+      "target": "Quando você retornar à realidade, vá para o quarto de Elizabeth e chame o Éter.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_699c165091fa",
@@ -37246,6 +38101,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_6bfdf9088aa9",
+      "source": "Louis, you are here, I sense your presence...",
+      "target": "Louis, você está aqui, eu sinto sua presença...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_6c04595dfb93",
       "source": "Emily has indeed some powerful backers.",
       "target": "Emily realmente tem alguns apoiadores poderosos.",
@@ -37388,6 +38252,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_6c3bcd5e568d",
+      "source": "What I suggest, is I go and have a look around and if I find her, I'll tell her to come and see you.",
+      "target": "O que sugiro é eu ir dar uma olhada e se eu a encontrar, direi para ela vir ver você.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_6c3d810bfa64",
@@ -38578,6 +39451,15 @@
       "usage_count": 3
     },
     {
+      "canonical_id": "c_6fa2a75d713c",
+      "source": "I lost France through 100 years of war...",
+      "target": "Eu perdi a França por 100 anos de guerra...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_6faa4481bed4",
       "source": "Paris, 1763. Number 12, on rue des Martyrs.",
       "target": "Paris, 1763. Número 12, na rue des Martyrs.",
@@ -39217,6 +40099,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_716fda670bd8",
+      "source": "I met Asahel's spirit",
+      "target": "Conheci o espírito de Asahel",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_7171dffa1fb9",
       "source": "I was only trying to be helpful.",
       "target": "Eu só estava tentando ser útil.",
@@ -39260,6 +40151,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_71a3a09d6cc3",
+      "source": "The previous conference. That's when Mortimer started putting his plan into action!",
+      "target": "Na conferência anterior. Foi quando Mortimer começou a colocar seu plano em ação!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_71b83f076bf2",
@@ -39521,6 +40421,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_728e96a98aaf",
+      "source": "And who were you playing with?",
+      "target": "E com quem você estava brincando?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_72a611c23f3f",
@@ -40873,6 +41782,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_762690dca7da",
+      "source": "Leave me!",
+      "target": "Vá embora!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_762f5dc8b42b",
       "source": "How many of us are there?",
       "target": "Quantos de nós há?",
@@ -41773,6 +42691,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_78d04471d532",
+      "source": "I'm not responsible for what happened to you. That's your business, the two of you.",
+      "target": "Não sou responsável pelo que aconteceu com você. Isso é assunto seu, entre os dois.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_78dec38cce94",
       "source": "Daemons?...",
       "target": "Daemon?...",
@@ -41803,6 +42730,15 @@
       "canonical_id": "c_78ebc7ee7ec8",
       "source": "I am one of the guests of the conference, an ally of Sir Gregory.",
       "target": "Eu sou um dos convidados da conferência, uma aliança de Sir Gregory.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_78ef5b2e1aec",
+      "source": "But where are you?",
+      "target": "Mas onde você está?",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -42228,6 +43164,15 @@
       "target": "Espada de pedra",
       "context": "Item",
       "category": "Item",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_7a445713c45b",
+      "source": "Scum!",
+      "target": "Porco!",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -43699,6 +44644,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_7e52f74544a9",
+      "source": "The analysis is correct.",
+      "target": "A análise está correta.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_7e57ca5e8e8b",
       "source": "How are we going to win the conference with just the three of us?",
       "target": "Como vamos ganhar a conferência com apenas os três de nós?",
@@ -43904,6 +44858,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_7edd8c487a3e",
+      "source": "All right, do it quickly!",
+      "target": "Está bem, faça rápido!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_7ee32c1f09fc",
@@ -44287,6 +45250,15 @@
       "canonical_id": "c_801e1f779265",
       "source": "Make him believe that you already knew that it won't make any difference",
       "target": "Faça-o acreditar que você já sabia que isso não fará diferença",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_801f3988fdb3",
+      "source": "As for me, I won't be around much longer!",
+      "target": "Quanto a mim, não vou durar muito mais!",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -45067,6 +46039,15 @@
       "usage_count": 8
     },
     {
+      "canonical_id": "c_8263ef98814a",
+      "source": "Let Holm enter!",
+      "target": "Deixe Holm entrar!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_826a2fe7d1ff",
       "source": "You will not die by my hand today, Sarah.",
       "target": "Você não vai morrer por minha mão hoje, Sarah.",
@@ -45346,6 +46327,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_8354752183ef",
+      "source": "The poor wretch was shot as her sister was setting foot on the island.",
+      "target": "A pobre alma foi atingida por uma bala quando sua irmã pisava na ilha.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_8358227479cd",
       "source": "No, Mother.",
       "target": "Não, Mãe.",
@@ -45562,6 +46552,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_83c28c422071",
+      "source": "Louis, I'm so weak... I can feel him entering...",
+      "target": "Louis, eu estou tão fraco... Eu posso sentir ele entrando...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_83c54cb022c9",
       "source": "I don't know what's come over you but you're going to have to pull yourself together right now!",
       "target": "Não sei o que está acontecendo com você, mas vai ter que se recompor agora mesmo!",
@@ -45718,6 +46717,15 @@
       "canonical_id": "c_84410d78c42d",
       "source": "Link into his thoughts, Louis. Come on.",
       "target": "Conecte-se com seus pensamentos, Louis. Vamos.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_844e2fafdd31",
+      "source": "He's talking about Charles François d'Angennes. And Françoise d'Aubigné.",
+      "target": "Ele está falando sobre Charles François d'Angennes. E Françoise d'Aubigné.",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -46019,6 +47027,15 @@
       "category": "Item",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_85c930da837d",
+      "source": "Louis! It's me Gregory! Listen, we don't have much time!",
+      "target": "Louis! Sou eu, Gregory! Escute, não temos muito tempo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_85cdebe11045",
@@ -46363,6 +47380,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_86d8afb1bbaf",
+      "source": "Look at yourself, Uncle!",
+      "target": "Olhe para você mesmo, tio!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_86f7e0bb712c",
       "source": "I want it to advance!",
       "target": "Eu quero que avance!",
@@ -46478,6 +47504,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8738183787cc",
+      "source": "No, not yet...",
+      "target": "Não, ainda não...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_874d9d3be8da",
@@ -47533,6 +48568,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_89dfc8cfea2e",
+      "source": "Don't let him get away with all this so easily, I implore you...",
+      "target": "Não deixe que ele escape com tudo isso tão facilmente, imploro a você...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_89e2d067f1b5",
       "source": "You're constantly risking your life to serve the Order.",
       "target": "Você está constantemente arriscando sua vida para servir à Ordem.",
@@ -47657,6 +48701,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8a2eaf6f171b",
+      "source": "Refuse to let him enter",
+      "target": "Negue-se a deixá-lo entrar",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_8a30cdfc72b3",
@@ -48053,6 +49106,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_8b398b6df6ee",
+      "source": "With one stroke I placed myself right next to the King of France, with a mistress under my orders...",
+      "target": "Com um gesto coloquei-me ao lado do Rei da França, com uma amante sob minhas ordens..",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_8b3b5e498cf1",
@@ -48719,6 +49781,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_8d61dc3d406c",
+      "source": "I miss her so much...",
+      "target": "Eu a extraço muito...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_8d732facc189",
@@ -49396,6 +50467,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_8f8c76123341",
+      "source": "I must teach you how...",
+      "target": "Eu preciso te ensinar como...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_8f8f26ad0506",
       "source": "You know the latter's preferences and you will understand he needs you desperately.",
       "target": "Você conhece as preferências dele e compreenderá que ele precisa desesperadamente de você.",
@@ -49642,6 +50722,15 @@
       "canonical_id": "c_904f7832567b",
       "source": "I would wager that you have always hoped he would one day, even though he treated you like a master treats a usefull slave.",
       "target": "Eu apostaria que você sempre esperou que ele um dia o fizesse, mesmo que tratasse você como um senhor trataria a um escravo útil.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_9050983228a4",
+      "source": "Do you know why she always wanted to keep playing?",
+      "target": "Você sabe por que ela sempre queria continuar jogando?",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -50062,6 +51151,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_9149dc0f373a",
+      "source": "Help!...",
+      "target": "Ajuda!...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_914cfb84b20f",
       "source": "Something tells me I've made the right choice.",
       "target": "Algo me diz que fiz a escolha certa.",
@@ -50449,6 +51547,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_92a9afa6d9ed",
+      "source": "Louis, don't let him draw you in there!",
+      "target": "Louis, não deixe que ele o atraiçaúla!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_92bc66d6d7e5",
       "source": "If Mortimer's plan succeeds, the United States will indeed double in size.",
       "target": "Se o plano de Mortimer tiver sucesso, os Estados Unidos realmente dobrarão de tamanho.",
@@ -50528,6 +51635,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_92e546adbef7",
+      "source": "I wanted to believe in you, Uncle...",
+      "target": "Eu queria acreditar em você, tio...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_92e6cfad75ba",
@@ -50836,6 +51952,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_939e5bd7ef23",
+      "source": "So if you want to stand the slightest chance against him, at least make sure you are armed, Louis!",
+      "target": "Então, se você quer ter a menor chance contra ele, pelo menos assegure-se de estar armado, Louis!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_93a20813a8e4",
       "source": "Oh, isn't that a pity, so now you're not staying for the conference, huh?",
       "target": "Ah, que pena, então agora você não vai ficar para a conferência, né?",
@@ -51115,6 +52240,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_949f8bbfea46",
+      "source": "I'm sorry, Uncle, but I've decided to follow Father.",
+      "target": "Sinto muito, tio, mas decidi seguir o pai.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_94ae6818fb0f",
       "source": "If the wound were mortal, the Daemon would surely die!",
       "target": "Se a ferida fosse mortal, o Daemon certamente morreria!",
@@ -51331,6 +52465,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_95718df6aea7",
+      "source": "He's inside my mind, I can feel him crushing me...",
+      "target": "Ele está dentro do meu cérebro, posso sentir ele me esmagando...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_95747e48dcd1",
       "source": "I assure you!",
       "target": "Prometo que você pode confiar em mim!",
@@ -51473,6 +52616,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_95bac4e1f336",
+      "source": "I heard about this story.",
+      "target": "Escutei sobre essa história.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_95c4c5513ec3",
@@ -51640,6 +52792,15 @@
       "canonical_id": "c_961a6dc6db58",
       "source": "Father, before we start, I've a favor to ask of you.",
       "target": "Father, antes de começarmos, há um favor que gostaria de pedir a você.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_961ee7412e5d",
+      "source": "I am proud, all those years, watching you grow into who you are today.",
+      "target": "Estou orgulhoso, todos esses anos, assistindo você crescer em quem você é hoje.",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -52636,6 +53797,15 @@
       "usage_count": 6
     },
     {
+      "canonical_id": "c_984de2a7d610",
+      "source": "I'll be quick.",
+      "target": "Vou ser rápido.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_9852ee2b8acc",
       "source": "She said you look so much like her and that she was so proud to have a son like you.",
       "target": "Ela disse que você é tão parecido com ela e que estava muito orgulhosa em ter um filho como você.",
@@ -52850,6 +54020,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_98f55db57c8e",
+      "source": "Ignore",
+      "target": "Ignore",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 10
     },
     {
       "canonical_id": "c_98f673496bce",
@@ -53095,6 +54274,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_99c205887306",
+      "source": "I can sense him, he's here, he's trying to get inside me, Louis.",
+      "target": "Eu posso senti-lo, ele está aqui, tentando entrar em mim, Louis.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_99c488e7142c",
       "source": "It is possible for us to make them bow to our desire, but it doesn't work without leaving some scars.",
       "target": "É possível fazê-los se curvarem aos nossos desejos, mas isso não funciona sem deixar algumas cicatrizes.",
@@ -53127,6 +54315,15 @@
       "target": "Meu caríssimo amigo,",
       "context": "Item",
       "category": "Item",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_99d30ba244a5",
+      "source": "France... So much effort, so much wasted time!",
+      "target": "França... Tanto esforço, tanto tempo perdido!",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
     },
@@ -54121,6 +55318,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_9c99cef9cdf9",
+      "source": "Ah, Charles François... What an adventure..",
+      "target": "Ah, Charles François... Que aventura..",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_9ca81f9c189b",
       "source": "These are magnesium crystals.",
       "target": "Estes são cristais de magnésio.",
@@ -54164,6 +55370,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_9cc5eb8f9b82",
+      "source": "No, Uncle, you can't ask that of me!",
+      "target": "Não, tio, você não pode pedir isso de mim!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_9cc814f7569c",
@@ -54560,6 +55775,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 4
+    },
+    {
+      "canonical_id": "c_9e19fa0c80aa",
+      "source": "I must speak to you!",
+      "target": "Tenho que falar com você!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_9e1e45b1e6b2",
@@ -56317,6 +57541,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_a2ae5beb0c3d",
+      "source": "Dry your tears, I'm here now.",
+      "target": "Seca essas lágrimas, estou aqui agora.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_a2af453ede75",
       "source": "And I'm exhausted.",
       "target": "E estou exausto.",
@@ -56657,6 +57890,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a42c00175027",
+      "source": "No, at the time they weren't enemies like they are today!",
+      "target": "Não, naquela época eles não eram inimigos como são hoje!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_a42d44ab129f",
@@ -57190,6 +58432,15 @@
       "usage_count": 5
     },
     {
+      "canonical_id": "c_a59ac2f11a98",
+      "source": "I will follow him to the end",
+      "target": "Eu o seguirei até o fim",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_a59da2bef833",
       "source": "The day is not translated. That must be the key to the code!",
       "target": "O dia não é traduzido. Isso deve ser a chave do código!",
@@ -57222,6 +58473,15 @@
       "target": "Quando chegar a hora, eu intervirei.",
       "context": "Item",
       "category": "Item",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a5cb65d7840d",
+      "source": "I was wrong about him from the very begining...",
+      "target": "Eu estava errado sobre ele desde o início...",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -57303,6 +58563,24 @@
       "target": "INSIRA A CRUZ NO PAINEL DE CONTROLE",
       "context": "Item",
       "category": "Item",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a60c9e658e97",
+      "source": "Yes! Yes, I'll join you.",
+      "target": "Sim! Sim, eu vou me unir a você.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_a613cf196e48",
+      "source": "I did everything in my power to avoid the Peloponnesian War but he wouldn't listen! He always wanted more...",
+      "target": "Fiz tudo o que estava ao meu alcance para evitar a Guerra do Peloponeso, mas ele não quis ouvir! Ele sempre queria mais...",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -57937,6 +59215,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_a8032d50ae6b",
+      "source": "Father wasn't gentle with William back then.",
+      "target": "Meu pai não foi gentil com William naquela época.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_a81a30671bf5",
       "source": "But don't do it straightaway. Start by gathering everything together first, because you've seen what happens when you try to go too fast.",
       "target": "Mas não faça isso imediatamente. Comece reunindo tudo primeiro, porque você viu o que acontece quando você tenta ir rápido demais.",
@@ -58027,6 +59314,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_a83e2c96bc4c",
+      "source": "William has completely lost his mind!",
+      "target": "William perdeu completamente a sanidade!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_a8400263c924",
       "source": "I understand that it must be difficult to forgive her, but after thinking about it...",
       "target": "Entendo que deve ser difícil perdoá-la, mas pensando nisso...",
@@ -58106,6 +59402,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_a884f7bb274a",
+      "source": "Count on me to...",
+      "target": "Conte comigo para...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_a88832a93519",
@@ -59242,6 +60547,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_ab96e5309c33",
+      "source": "But how can you trust him?...",
+      "target": "Mas como você pode confiar nele?...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_aba04af83390",
       "source": "You've got a point there...",
       "target": "Você tem um ponto ali...",
@@ -59303,6 +60617,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_abb703fa6cd1",
+      "source": "I'm occupying William's spirit at the moment but I'm not going to be able to keep it up forever.",
+      "target": "Eu estou ocupando o espírito de William no momento, mas eu não vou conseguir manter isso por muito tempo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_abbc9e0c9fce",
@@ -59431,6 +60754,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_abe170ba93f1",
+      "source": "Louis, I brought us here.",
+      "target": "Louis, trouxe vocês até aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_abe975a1bedc",
       "source": "By translating Piaggi's notes, I learned that it was shaped like a spear...",
       "target": "Traduzindo as notas de Piaggi, aprendi que ela tinha a forma de um lança...",
@@ -59544,6 +60876,15 @@
       "target": "O uso da habilidade Questionamento custa menos 1 Ponto de Esforço",
       "context": "Item",
       "category": "Item",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_ac32f7fd763d",
+      "source": "There, now you can communicate with the Ether...",
+      "target": "Aí está, agora você pode se comunicar com o Éter...",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -59717,6 +61058,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 8
+    },
+    {
+      "canonical_id": "c_acefd2b307a9",
+      "source": "What you see is not real, it's only a mental projection created by my spirit.",
+      "target": "O que você vê não é real, é apenas uma projeção mental criada pelo meu espírito.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_acfbea086348",
@@ -60439,6 +61789,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_aed4977e6762",
+      "source": "I'm getting carried away here.",
+      "target": "Estou me desviando aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_aed521932cf2",
       "source": "Honestly, would you like it if someone told you what to do with Royal Prussia and Greater Poland?",
       "target": "Honestamente, você gostaria de alguém lhe dizendo o que fazer com Royal Prussia e Greater Poland?",
@@ -60516,6 +61875,15 @@
       "target": "ARROGANTE",
       "context": "Item",
       "category": "Item",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_aefd6dff659a",
+      "source": "Emma? Is that you?",
+      "target": "Emma? É você?",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -60680,6 +62048,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_af9048b4199f",
+      "source": "What... but he can't even see me...",
+      "target": "O quê... mas ele nem sequer pode me ver...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_af949969509e",
@@ -61276,6 +62653,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_b151fffabeda",
+      "source": "He knew it! He knew it! He already knew they were his daughters!",
+      "target": "Ele sabia! Ele sabia! Já sabia que elas eram suas filhas!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_b152bf41c1d1",
       "source": "CHOIRBOY",
       "target": "MENINO DE CORO",
@@ -61501,6 +62887,15 @@
       "usage_count": 8
     },
     {
+      "canonical_id": "c_b1f50c91c731",
+      "source": "If your mother hadn't betrayed me, all this would never have happened!",
+      "target": "Se minha mãe não tivesse me traído, nada disso teria acontecido!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_b1fa01b60032",
       "source": "Isn't the duchess meant to be with us?",
       "target": "A duquesa não deveria estar conosco?",
@@ -61621,6 +63016,15 @@
       "canonical_id": "c_b26e65c539fe",
       "source": "Join us, vote with us if you do not want to feel the wrath of Mortimer, alone.",
       "target": "Junte-se a nós, vote conosco se você não quiser sentir a ira de Mortimer sozinho.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_b272e37bfc94",
+      "source": "You can go in peace...",
+      "target": "Você pode ir em paz...",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -61769,6 +63173,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 10
+    },
+    {
+      "canonical_id": "c_b2bd0614a926",
+      "source": "It's all your fault!",
+      "target": "Tudo isso é culpa sua!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_b2c27a7a7ee1",
@@ -62797,6 +64210,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_b56d1479c283",
+      "source": "You must act swiftly, I can't hold out for long.",
+      "target": "Você deve agir rapidamente, não vou durar muito.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_b576d952b453",
       "source": "I heard that William spoke to you at last about our nature, and our family.",
       "target": "Ouve que William finalmente te falou sobre nossa natureza e nossa família.",
@@ -62984,6 +64406,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_b627ac38de9d",
+      "source": "You are all the same!",
+      "target": "Vocês são todos iguais!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_b629abe727ff",
@@ -63517,6 +64948,15 @@
       "usage_count": 4
     },
     {
+      "canonical_id": "c_b7bf262c4369",
+      "source": "I confirmed my support for Sir Gregory Holm",
+      "target": "Confirmei meu apoio a Sir Gregory Holm",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_b7c2c0148ca2",
       "source": "The cardinal is not in his room...",
       "target": "O cardeal não está em seu quarto...",
@@ -63713,6 +65153,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b8688bbd27eb",
+      "source": "If your mother hadn't betrayed me, all this never would have happened!",
+      "target": "Se minha mãe não tivesse me traído, nada disso teria acontecido!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_b87cfac5e52a",
@@ -64001,6 +65450,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_b92aefddef68",
+      "source": "Tell him Mortimer is here",
+      "target": "Diga a ele que Mortimer está aqui",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_b93abb0ae8e2",
@@ -64579,6 +66037,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_bb33b8ed1954",
+      "source": "Stop! All of you! LEAVE NOW!",
+      "target": "Parado! Todos, SAIAM AGORA!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_bb34142fc950",
       "source": "I... a-am st... stronger than... than... you!",
       "target": "Eu... eu sou m... mais forte do que... do que... você!",
@@ -64667,6 +66134,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bb71db72e2d5",
+      "source": "Is... Is anyone there?",
+      "target": "Alguém... Está alguém aí?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_bb771138c97b",
@@ -64930,6 +66406,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_bc38d1fa180c",
+      "source": "I am no longer able to enter the body of someone else.",
+      "target": "Eu já não consigo entrar no corpo de outra pessoa.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_bc4043657544",
       "source": "I am afraid of losing her to her demons, your Eminence.",
       "target": "Tenho medo de perdê-la para seus demônios, Sua Eminência.",
@@ -65009,6 +66494,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 6
+    },
+    {
+      "canonical_id": "c_bc6d9ba86d1a",
+      "source": "Louis... no, don't do it...",
+      "target": "Louis... não, por favor, não faça isso...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_bc6e6855580a",
@@ -65135,6 +66629,24 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 4
+    },
+    {
+      "canonical_id": "c_bc9ad9b93035",
+      "source": "You're just as bad as he is !",
+      "target": "Você é tão mau quanto ele!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_bc9d3caee72c",
+      "source": "I met  Emma Hillsborrow's spirit",
+      "target": "Conheci o espírito de Emma Hillsborrow",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_bcab2de8739f",
@@ -65614,6 +67126,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_be10e4cae1b0",
+      "source": "I could have met Emily Hillsborrow's spirit",
+      "target": "Podia ter conhecido o espírito de Emily Hillsborrow",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_be19d0878182",
       "source": "He's back from the landing stage...",
       "target": "Ele voltou do cais de desembarque...",
@@ -66055,6 +67576,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_bf3b00382159",
+      "source": "Oh yeah, I'm on the right track...",
+      "target": "Ah sim, estou no caminho certo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_bf3e7e8dd486",
       "source": "I didn't know you were this kind of man, Godoy!",
       "target": "Eu não sabia que você era desse tipo de homem, Godoy!",
@@ -66152,6 +67682,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_bf774b26ae36",
+      "source": "This is the first event that brought Holm here.",
+      "target": "Este foi o primeiro evento que trouxe Holm até aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_bf7947d6a95c",
@@ -66769,6 +68308,15 @@
       "canonical_id": "c_c1128d0e93a0",
       "source": "I would like you to hear me out without interrupting, it's in your interest.",
       "target": "Gostaria que ouvisse o que tenho a dizer sem interromper, isso é em seu interesse.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c113491898e4",
+      "source": "Be quick!",
+      "target": "Apresse-se!",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -67396,6 +68944,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_c2b7801cc452",
+      "source": "I could have met Asahel's spirit",
+      "target": "Podia ter conhecido o espírito de Asahel",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_c2bea2c553de",
       "source": "I succeeded in stopping von Wöllner from poisoning me",
       "target": "Eu consegui impedir que von Wöllner me envenenasse",
@@ -67601,6 +69158,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 4
+    },
+    {
+      "canonical_id": "c_c34358c64f55",
+      "source": "I neither believe in him nor in Mortimer",
+      "target": "Eu nem confio nele nem em Mortimer",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_c34420376878",
@@ -67828,6 +69394,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_c3e72cb01ae0",
+      "source": "I chose to serve only the Humans",
+      "target": "Escolhi servir apenas os Humanos",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_c3e7ed5dd8cc",
       "source": "Monsieur de Richet! I've found this conference at times quite amusing...",
       "target": "Monsieur de Richet! Achei esta conferência às vezes bastante divertida...",
@@ -67997,6 +69572,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c4429b66b798",
+      "source": "You can still do something, Louis.",
+      "target": "Você ainda pode fazer algo, Louis.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_c44a37ce5926",
@@ -69322,6 +70906,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_c81b02e66355",
+      "source": "What?... But... I'm still in the conference room...",
+      "target": "O quê?... Mas... Eu ainda estou na sala de conferências...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_c8273ecc4760",
       "source": "And you did well.",
       "target": "E você fez bem.",
@@ -69673,6 +71266,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_c90ebd3cb52a",
+      "source": "I have been following you, Uncle! And I shall remain with you!",
+      "target": "Estou te seguindo, tio! E vou permanecer com você!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_c910cd0b4d8f",
       "source": "I know it sounds crazy, but I swear on everything I hold dear, that's the truth!",
       "target": "Eu sei que soa louco, mas juro por tudo o que tenho mais caro, isso é a verdade!",
@@ -69808,6 +71410,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_c9663c3f06eb",
+      "source": "At the previous conference, three years ago, I'm sure he already knew I would bring the Hillsborrow sisters here.",
+      "target": "Na conferência anterior, três anos atrás, eu tenho certeza de que ele já sabia que eu levaria as irmãs Hillsborrow aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_c9671d3250df",
       "source": "She's losing her mind.",
       "target": "Ela está perdendo a razão.",
@@ -69853,6 +71464,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_c98b74d53693",
+      "source": "You're the one, Louis, who assassinated me!",
+      "target": "Você é a culpada, Louis, quem me assassinou!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_c9aae9302c9f",
       "source": "Mocap Operator",
       "target": "Operador de Motion Capture",
@@ -69878,6 +71498,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_c9b52c6ed41b",
+      "source": "I could have met Emma Hillsborrow's spirit",
+      "target": "Podia ter conhecido o espírito de Emma Hillsborrow",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_c9b540cd89ef",
@@ -70078,6 +71707,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_ca672226dcf8",
+      "source": "I'll be back...",
+      "target": "Volto logo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_ca6c0aa84b7c",
       "source": "Unfortunately not.",
       "target": "Infelizmente não.",
@@ -70247,6 +71885,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_cb2992190be3",
+      "source": "What on earth is happening?",
+      "target": "O que diabo está acontecendo?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_cb2e11b98815",
@@ -70744,6 +72391,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_cc6f9fe58494",
+      "source": "Listen to the entire memory",
+      "target": "Ouça a memória inteira",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 10
+    },
+    {
       "canonical_id": "c_cc77884eddff",
       "source": "The roman destruction by Titus and his army... What violence!",
       "target": "A destruição romana promovida por Tito e seu exército... Que violência!",
@@ -70877,6 +72533,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ccebaa3499bc",
+      "source": "I could have met Sarah de Richet's spirit",
+      "target": "Podia ter conhecido o espírito de Sarah de Richet",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_ccf4addb977c",
@@ -71021,6 +72686,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_cd5c864e4565",
+      "source": "I accepted Asahel's spirit",
+      "target": "Aceitei o espírito de Asahel",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_cd5ea4ac4735",
@@ -71923,6 +73597,15 @@
       "usage_count": 6
     },
     {
+      "canonical_id": "c_cfbd5d5259b4",
+      "source": "It's over, my son! We have won!",
+      "target": "Fim, meu filho! Nós vencemos!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_cfc0a7d69cfa",
       "source": "Gregory! You poisoned him!",
       "target": "Gregory! Você envenenou ele!",
@@ -72292,6 +73975,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_d0d4ad1661b8",
+      "source": "Join me, Louis, otherwise all will be lost!",
+      "target": "União comigo, Louis, caso contrário tudo estará perdido!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_d0e12c0c146d",
       "source": "You shot her in cold blood!",
       "target": "Você a matou friamente!",
@@ -72353,6 +74045,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d124a62de529",
+      "source": "You are just as mad as he is, Louis!",
+      "target": "Você está tão louco quanto ele, Louis!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_d12a913f5243",
@@ -72605,6 +74306,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_d1c0bc6fdd47",
+      "source": "He's mad...",
+      "target": "Ele está louco...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_d1c0d6b304ec",
@@ -72994,6 +74704,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_d2ee65138d30",
+      "source": "What on earth is going on here?...",
+      "target": "O que diabo está acontecendo aqui?...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_d2efde2b5705",
       "source": "The man is sly. He has no scruples at all, and I refuse to pass on any of my credibility to him.",
       "target": "O homem é sutil. Ele não tem escrúpulos e rejeito passar qualquer credibilidade minha para ele.",
@@ -73357,6 +75076,15 @@
       "canonical_id": "c_d43dc1622277",
       "source": "You lunatic! You killed your own sister!!",
       "target": "Você, louco! Você matou sua própria irmã!!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_d4400c7502b9",
+      "source": "You will be punished for this...",
+      "target": "Você será punido por isso...",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -74533,6 +76261,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_d7c94a3fdc9b",
+      "source": "I am here.",
+      "target": "Estou aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_d7cf2c62b341",
       "source": "Where to put the nails?",
       "target": "Onde colocar os pregos?",
@@ -75388,6 +77125,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_da1b5649a304",
+      "source": "He's going to devour my mind, Louis!! I'm not going to be able to stop him!",
+      "target": "Vai devorar meu cérebro, Louis!! Não vou conseguir pará-lo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_da1c08cfd0b4",
       "source": "Seeing you like this just makes me so sad.",
       "target": "Ao ver você assim, só consigo sentir tristeza.",
@@ -75458,6 +77204,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_da8ef6e7ffc2",
+      "source": "He's coming!",
+      "target": "Ele está vindo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_da8fc03e01e5",
@@ -75613,6 +77368,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_db3774d5bfe7",
+      "source": "You are signing your death warrant if you decide to follow him! I won't be there to protect you...",
+      "target": "Você está assinando seu próprio decreto de morte! Eu não vou estar aqui para protegê-lo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_db3c8d1719ff",
       "source": "I might not hold her in my heart, but I wouldn't wish this on anyone.",
       "target": "Eu não tenho carinho por ela, mas eu não desejo isso para ninguém.",
@@ -75629,6 +77393,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_db4c2f2f5adc",
+      "source": "Bastards!",
+      "target": "Mentirosos!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_db4cd2a4ced0",
@@ -76016,6 +77789,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_dc3c1b0c6249",
+      "source": "I'm coming!",
+      "target": "Estou vindo!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 4
     },
     {
       "canonical_id": "c_dc3e90bd4950",
@@ -76898,6 +78680,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_de8cceab9a08",
+      "source": "The poison is gnawing away at me from the inside! I... I'm going to die, Louis...",
+      "target": "A envenenação está corroendo-me por dentro! Eu... Eu vou morrer, Louis...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_de97214d1d33",
@@ -78016,6 +79807,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_e1bb326cf017",
+      "source": "Have you got the Lance?!",
+      "target": "Você conseguiu obter a Lança?!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_e1c2b0b6bc0d",
       "source": "I've been observing you since you arrived.",
       "target": "Estou observando você desde que chegou aqui.",
@@ -78086,6 +79886,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e1da0aa2501a",
+      "source": "This memory is important but it's as if there's something missing.",
+      "target": "Essa memória é importante, mas parece que falta algo.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 5
     },
     {
       "canonical_id": "c_e1dd5bab2cde",
@@ -78628,6 +80437,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_e368ef2c2a9c",
+      "source": "No, not that way... I'm losing the thread here.",
+      "target": "Não, não desse jeito... Estou perdendo a linha aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_e36ae9bd2dc5",
       "source": "I thought I was going to faint.",
       "target": "Pensei que fosse desmaiar.",
@@ -78916,6 +80734,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_e430ddc33d8a",
+      "source": "It's up to you now, to protect our family!",
+      "target": "Agora é com você proteger nossa família!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_e43690a77c03",
       "source": "But I must do it alone... He's my son.",
       "target": "Mas eu preciso fazer isso sozinho... Ele é meu filho.",
@@ -78941,6 +80768,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e452327ed927",
+      "source": "My memories... I... I'm losing my sense of who... I...",
+      "target": "Minhas memórias... Eu... Estou perdendo o sentido de quem... Eu...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_e459e7630a6e",
@@ -79456,6 +81292,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_e5916962598c",
+      "source": "Help me...",
+      "target": "Ajude-me...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_e59dc9ff0352",
       "source": "Do please excuse me, sir, but I shall make no comment about my master.",
       "target": "Rogo-me desculpe, Senhor, mas não farei qualquer comentário sobre meu senhor.",
@@ -79472,6 +81317,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_e5b1bc223151",
+      "source": "Supposedly to find her sister, whereas Emma hadn't even disappeared yet!",
+      "target": "Supostamente para encontrar sua irmã, enquanto Emma ainda nem havia desaparecido!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_e5b4fa4445e0",
@@ -80644,6 +82498,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_e875188180a0",
+      "source": "You can be so stupid!",
+      "target": "Você pode ser tão estúpido!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_e877f8a5dc94",
       "source": "If Mortimer really is a Demon, I wonder what he can be doing with all this... ",
       "target": "Se Mortimer realmente é um Daemon, fico me perguntando o que ele pode estar fazendo com tudo isso... ",
@@ -81265,6 +83128,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_ea1b9e812179",
+      "source": "Right, what can I do?...",
+      "target": "Bem, o que posso fazer?...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_ea216b785c97",
       "source": "You've always lied to me...",
       "target": "Você sempre me mentiu...",
@@ -81358,6 +83230,15 @@
       "canonical_id": "c_ea5aeb7130cd",
       "source": "He's far from being on his own. Just one word from him and nations will rise up in his support.",
       "target": "Ele não está realmente sozinho. Com um simples sinal dele, as nações levantarão em seu apoio.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_ea6e3fbdb0cd",
+      "source": "It's over, Brother, don't fight it...",
+      "target": "Isso acabou, irmão, não lute contra isso...",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -81661,6 +83542,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_eb40c707cfea",
+      "source": "A new order can be born!",
+      "target": "Um novo ordenamento pode nascer!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_eb4b6ce497a7",
       "source": "At least he hasn't noticed my arm...",
       "target": "Ao menos ele não notou meu braço...",
@@ -81740,6 +83630,15 @@
       "category": "Sistema",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_eb794f352843",
+      "source": "I'm losing focus... Come on Louis, concentrate, concentrate!",
+      "target": "Estou perdendo o foco... Vamos, Louis, concentre-se, concentre-se!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_eb7bf79172f1",
@@ -82327,6 +84226,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_ecefba27e620",
+      "source": "The Lance, Louis!",
+      "target": "A Lança, Louis!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_ecf9bbfb2b1b",
       "source": "To hell with good intentions!",
       "target": "Para o inferno com as boas intenções!",
@@ -82894,6 +84802,15 @@
       "usage_count": 4
     },
     {
+      "canonical_id": "c_ee531e553d14",
+      "source": "You should be proud of yourself, you've finished what your mother started!",
+      "target": "Deveria estar orgulhosa de si mesma, terminou o que sua mãe começou!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
       "canonical_id": "c_ee54cf4444c3",
       "source": "And I'm talking to an apparition that represents precisely why I lost my mind...",
       "target": "E estou falando com uma aparição que representa precisamente por que perdi a razão...",
@@ -83047,6 +84964,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_eee722a31d07",
+      "source": "I ought to look somewhere else.",
+      "target": "Devo olhar em outro lugar.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_eef5043e6dac",
       "source": "The moon during the Crucifixion was a first quarter. That's the one with its left half in the light.",
       "target": "A lua durante a Crucificação era um quarto crescente. É aquela com sua metade esquerda iluminada.",
@@ -83063,6 +84989,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ef170b410c4b",
+      "source": "I should have understood that earlier!",
+      "target": "Eu deveria ter entendido isso antes!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_ef1733042182",
@@ -83965,6 +85900,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_f15e4ec550a5",
+      "source": "I abandoned Sir Gregory Holm to become allied to Lord Mortimer",
+      "target": "Abandonei Sir Gregory Holm para me aliar a Lord Mortimer",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_f1675af6e337",
       "source": "[CONVICTION] You can't fool me",
       "target": "[CONVICÇÃO] Você não pode me enganar",
@@ -84004,6 +85948,15 @@
       "canonical_id": "c_f17ab098a7dd",
       "source": "Let's get through the door",
       "target": "Vamos atravessar a porta",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f17b93d0f0a8",
+      "source": "William has poisoned me, he must have used the blood of a former Daemon!",
+      "target": "William me envenenou, ele deve ter usado o sangue de um Daemon anterior!",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -84323,6 +86276,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 8
+    },
+    {
+      "canonical_id": "c_f24507685496",
+      "source": "Don't worry, everything's going to be alright, you'll see.",
+      "target": "Não se preocupe, tudo vai ficar bem, você verá.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_f2478f624a98",
@@ -84901,6 +86863,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_f3de1e3ba274",
+      "source": "There must be an order to this.",
+      "target": "Há uma ordem nisso.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 5
+    },
+    {
       "canonical_id": "c_f3df3b5bea4a",
       "source": "Let us see if you have the courage to face me, alone.",
       "target": "Vejamos se você tem coragem de me enfrentar, sozinho.",
@@ -84942,6 +86913,24 @@
       "target": "CFO",
       "context": "Sistema",
       "category": "Sistema",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f3f784e63dfe",
+      "source": "I recall Spartacus.",
+      "target": "Lembro-me de Spartacus.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f3fa3bc7410c",
+      "source": "He must be stopped!",
+      "target": "Ele deve ser parado!",
+      "context": "Diálogo",
+      "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
     },
@@ -85765,6 +87754,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_f61108537810",
+      "source": "I'll get you back! You've all manipulated me!",
+      "target": "Eu vou te vingar! Vocês todos me manipularam!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_f61226853c03",
       "source": "Allow me to leave you then.",
       "target": "Deixe-me então me despedir de você.",
@@ -85790,6 +87788,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f61f5926b4dc",
+      "source": "But there's no link to what interests me here.",
+      "target": "Mas não há ligação com o que me interessa aqui.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_f628a81b3f7a",
@@ -85979,6 +87986,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f6b517e4da20",
+      "source": "He's here...",
+      "target": "Ele está aqui...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 2
     },
     {
       "canonical_id": "c_f6b994128502",
@@ -86458,6 +88474,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_f7cb1e24c0d9",
+      "source": "I can't follow you anymore...",
+      "target": "Não consigo mais segui-lo...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_f7cf6de5779e",
       "source": "The lock is surrounded by a triple circle.",
       "target": "A fechadura é cercada por um triplo círculo.",
@@ -86665,6 +88690,24 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_f849742af6a5",
+      "source": "Shutting him in the body of Pericles for 8 years, and reducing Athens and its cursed democracy to its knees...",
+      "target": "Fechá-lo no corpo de Pericles por 8 anos, e reduzir Atenas e sua maldita democracia aos joelhos...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f851c06b276d",
+      "source": "Perhaps, but you won't be there to see it, will you ?",
+      "target": "Talvez, mas você não estará lá para ver, está?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_f85306ef8fe5",
       "source": "Empty slot",
       "target": "Espaço vazio",
@@ -86762,6 +88805,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f897891c5da8",
+      "source": "No, don't worry. You are not alone.",
+      "target": "Não, não se preocupe. Você não está sozinha.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_f89be3637672",
@@ -86924,6 +88976,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_f8debc0d1085",
+      "source": "But w... What must I do?",
+      "target": "Mas... O que devo fazer?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_f9060a0328de",
@@ -87115,6 +89176,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_f9646bd34a9a",
+      "source": "Leave me alone!",
+      "target": "Deixe-me em paz!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 6
+    },
+    {
       "canonical_id": "c_f964eae9b0cd",
       "source": "I wish I could entertain you but apart from recommending a few paintings, I'm lost for what to suggest...",
       "target": "Gostaria de poder entretê-lo, mas além de recomendar alguns quadros, não sei o que sugerir...",
@@ -87149,6 +89219,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 4
+    },
+    {
+      "canonical_id": "c_f971538cf676",
+      "source": "I simply did not consider Protestantism to be a real threat and that was my greatest mistake!",
+      "target": "Eu simplesmente não considerei o protestantismo como uma verdadeira ameaça e foi meu maior erro!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_f97cae0dfdf6",
@@ -87352,6 +89431,15 @@
       "canonical_id": "c_f9e72add7cd7",
       "source": "Madam...",
       "target": "Senhora...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_f9e83ce25fe6",
+      "source": "He broke the rules...",
+      "target": "Ele quebrou as regras...",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -87889,6 +89977,15 @@
       "usage_count": 1
     },
     {
+      "canonical_id": "c_fb31d28beda2",
+      "source": "One of my greatest successes!",
+      "target": "Um dos meus maiores sucessos!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_fb3250686ab8",
       "source": "Each time it's happened, many of us have died. We must master the humans yes, but gently.",
       "target": "Cada vez que isso acontece, muitos de nós morrem. Nós devemos dominar os humanos sim, mas com gentileza.",
@@ -87937,6 +90034,15 @@
       "canonical_id": "c_fb4447eee1b3",
       "source": "I admit that during these past few days there has been much upheaval.",
       "target": "Admito que nestes últimos dias houve muitas mudanças.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_fb4c32d02775",
+      "source": "Find the way... Hurry...",
+      "target": "Encontre o caminho... Apresse-se...",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -88130,6 +90236,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fbe599cfb014",
+      "source": "You must find us quickly, I can't hold out for long.",
+      "target": "Você deve nos encontrar rapidamente, não vou durar muito.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_fbe77e544ce0",
@@ -88447,6 +90562,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_fcb74cb120da",
+      "source": "Could there be a link here?",
+      "target": "Haverá algum vínculo aqui?",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_fcba5e795d15",
       "source": "William! If Johann has anything to do with this tragedy, I demand the right to take care of it personally!",
       "target": "William! Se Johann tem algo a ver com essa tragédia, exijo o direito de lidar com isso pessoalmente!",
@@ -88684,6 +90808,15 @@
       "canonical_id": "c_fd5378618087",
       "source": "Might as well not hang out here any longer if he has nothing to say...",
       "target": "Talvez seja melhor não ficar por aqui mais tempo se ele não tiver nada para dizer...",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
+      "canonical_id": "c_fd53c37a79a9",
+      "source": "His children... are gathered together? Yes, here...",
+      "target": "Seus filhos... estão reunidos? Sim, aqui...",
       "context": "Diálogo",
       "category": "Diálogo",
       "status": "draft",
@@ -89005,6 +91138,15 @@
       "usage_count": 2
     },
     {
+      "canonical_id": "c_fe36f715a66e",
+      "source": "I am here now. I am going to take care of him.",
+      "target": "Estou aqui agora. Vou me encarregar dele.",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
+    },
+    {
       "canonical_id": "c_fe3c159fef9a",
       "source": "It was you who killed her!",
       "target": "Foi você quem a matou!",
@@ -89111,6 +91253,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_fe84090e4aff",
+      "source": "What's happening?!",
+      "target": "O que está acontecendo?!",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_fe8691c1e0b2",
@@ -89561,6 +91712,15 @@
       "category": "Diálogo",
       "status": "draft",
       "usage_count": 2
+    },
+    {
+      "canonical_id": "c_ffd229e02f36",
+      "source": "I believe neither in him, nor in Mortimer",
+      "target": "Eu nem confio nele, nem em Mortimer",
+      "context": "Diálogo",
+      "category": "Diálogo",
+      "status": "draft",
+      "usage_count": 1
     },
     {
       "canonical_id": "c_ffe79c10de6f",
