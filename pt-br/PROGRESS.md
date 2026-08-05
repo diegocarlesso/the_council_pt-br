@@ -1,6 +1,6 @@
 # Checkpoint de Progresso — Tradução PT-BR
 
-> Gerado automaticamente por `progress_report.py` em 2026-08-04 23:29. Não edite à mão — rode o script de novo depois de cada lote validado.
+> Gerado automaticamente por `progress_report.py` em 2026-08-05 08:33. Não edite à mão — rode o script de novo depois de cada lote validado.
 
 ## Leia isto primeiro se você é uma sessão nova
 
@@ -33,16 +33,16 @@ Batch size recomendado: 50–100 quando a tradução é feita por uma sessão de
 ## Números gerais
 
 - Strings únicas traduzíveis: **21806**
-- Já resolvidas (draft ou approved na TM): **3793** (17.4%)
-- Restam: **18013**
-- Por status: {'approved': 13, 'draft': 3780}
+- Já resolvidas (draft ou approved na TM): **7993** (36.7%)
+- Restam: **13813**
+- Por status: {'approved': 13, 'draft': 7979, 'needs_review': 1}
 - Não-traduzíveis (fora desta conta, resolvidos automaticamente no merge final — placeholder/comando/puzzle/glossário exato): 30
 
 ## Progresso por categoria
 
 | Categoria | Traduzíveis | Resolvidas | Restam | % |
 |---|---|---|---|---|
-| Diálogo | 19293 | 1303 | 17990 | 6.8% |
+| Diálogo | 19293 | 5503 | 13790 | 28.5% |
 | Sistema | 1789 | 1789 | 0 | 100.0% |
 | Item | 693 | 693 | 0 | 100.0% |
 | Teste | 23 | 0 | 23 | 0.0% |
@@ -50,7 +50,7 @@ Batch size recomendado: 50–100 quando a tradução é feita por uma sessão de
 
 ## Próximo lote sugerido
 
-**Diálogo** — 17990 strings pendentes nesta categoria. Comando:
+**Diálogo** — 13790 strings pendentes nesta categoria. Comando:
 ```bash
 python translate_batch.py --category "Diálogo" --batch-size 60 --max-batches 1 --dry-run
 ```
