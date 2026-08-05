@@ -74,26 +74,39 @@ def _progress_bar(fraction: float, width: int = BAR_WIDTH) -> str:
 
 
 class SpeedTracker:
-    """Velocidade média usando uma janela deslizante de amostras (não só o
-    delta desde o último tick) - com lotes de dezenas de minutos num
-    modelo local, um único tick pode ficar em zero por um bom tempo e
-    depois saltar; a janela suaviza isso em vez de mostrar "0 str/min"
-    a maior parte do tempo e um valor picado quando um lote fecha."""
+    """Velocidade média numa janela por TEMPO (não por número de amostras):
+    com um modelo local, um lote de 40 strings pode levar vários minutos
+    para fechar - uma janela de "últimas N amostras" com refresh de poucos
+    segundos cobre menos de 1 minuto de histórico e fica em 0.0 quase o
+    tempo todo (some da tela bem antes do próximo lote fechar), dando a
+    falsa impressão de que travou. Aqui a janela é em segundos: guardamos
+    amostras e descartamos as mais velhas que `window_seconds`, então a
+    janela sempre cobre tempo suficiente para pegar pelo menos um lote
+    fechando, não importa o intervalo de refresh do painel."""
 
-    def __init__(self, window: int = 12) -> None:
-        self._samples: deque[tuple[float, int]] = deque(maxlen=window)
+    def __init__(self, window_seconds: float = 900.0) -> None:
+        self.window_seconds = window_seconds
+        self._samples: deque[tuple[float, int]] = deque()
 
     def add_sample(self, translated: int) -> None:
-        self._samples.append((time.monotonic(), translated))
+        now = time.monotonic()
+        self._samples.append((now, translated))
+        cutoff = now - self.window_seconds
+        while len(self._samples) > 1 and self._samples[0][0] < cutoff:
+            self._samples.popleft()
 
-    def strings_per_min(self) -> float:
+    def strings_per_min(self) -> float | None:
+        """None enquanto não há amostras suficientes cobrindo tempo
+        suficiente para uma estimativa confiável (painel recém-aberto) -
+        o chamador deve mostrar algo como "calculando..." nesse caso, não
+        0.0 (que parece "travado")."""
         if len(self._samples) < 2:
-            return 0.0
+            return None
         t0, n0 = self._samples[0]
         t1, n1 = self._samples[-1]
         elapsed = t1 - t0
-        if elapsed <= 0:
-            return 0.0
+        if elapsed < 30:  # menos de 30s de histórico ainda não é confiável
+            return None
         return (n1 - n0) / elapsed * 60.0
 
 
@@ -105,7 +118,8 @@ def render(totals: CorpusTotals, db: TranslationMemoryDB, speed: SpeedTracker, s
 
     speed.add_sample(translated)
     rate = speed.strings_per_min()
-    eta = (pending / rate) * 60 if rate > 0 else None
+    eta = (pending / rate) * 60 if rate else None
+    rate_display = f"{rate:.1f} strings/min" if rate is not None else "calculando... (abra o painel por alguns minutos)"
 
     lines = []
     lines.append("=" * 70)
@@ -117,7 +131,7 @@ def render(totals: CorpusTotals, db: TranslationMemoryDB, speed: SpeedTracker, s
     lines.append("")
     lines.append(f"Status no banco -> aprovadas: {stats.approved:,}  rascunho: {stats.draft:,}  "
                   f"p/revisão: {stats.needs_review:,}".replace(",", "."))
-    lines.append(f"Velocidade (média da janela): {rate:.1f} strings/min   ETA: {_format_duration(eta)}")
+    lines.append(f"Velocidade (janela de {speed.window_seconds / 60:.0f}min): {rate_display}   ETA: {_format_duration(eta)}")
     lines.append(f"Painel aberto há: {_format_duration(time.monotonic() - started_at)}")
     lines.append("")
     lines.append("Por categoria (traduzidas / total):")
