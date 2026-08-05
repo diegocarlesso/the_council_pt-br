@@ -1,6 +1,6 @@
 # Checkpoint de Progresso — Tradução PT-BR
 
-> Gerado automaticamente por `progress_report.py` em 2026-08-05 08:33. Não edite à mão — rode o script de novo depois de cada lote validado.
+> Gerado automaticamente por `progress_report.py` em 2026-08-05 08:34. Não edite à mão — rode o script de novo depois de cada lote validado.
 
 ## Leia isto primeiro se você é uma sessão nova
 
