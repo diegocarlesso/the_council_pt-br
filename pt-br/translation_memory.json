@@ -3687,10 +3687,10 @@
     {
       "canonical_id": "c_09f211495386",
       "source": "I was unfortunate enough to step outside and now I'm freezing...",
-      "target": "",
+      "target": "Tive a má sorte de sair e agora estou congelando...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -6468,10 +6468,10 @@
     {
       "canonical_id": "c_119503dc0ea9",
       "source": "Come closer, I'm warming myself up.",
-      "target": "",
+      "target": "Aproxime-se, estou me aquecendo.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -20859,10 +20859,10 @@
     {
       "canonical_id": "c_39190ee6be91",
       "source": "Something to do with what Holm asked of him maybe...",
-      "target": "",
+      "target": "Algo a ver com o que Holm lhe pediu, talvez...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -25782,10 +25782,10 @@
     {
       "canonical_id": "c_45be46f95a2c",
       "source": "Seeing as Mortimer has to convince everyone to follow him to win the vote of his own conference, I expect he will try to bring you over to his side.",
-      "target": "",
+      "target": "Considerando que Mortimer terá que convencer todos a segui-lo para ganhar o voto da própria conferência, espero que ele tente te atrair para o seu lado.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -42927,10 +42927,10 @@
     {
       "canonical_id": "c_7548c9b7be17",
       "source": "I wanted to make sure that you are still with us.",
-      "target": "",
+      "target": "Queria ter certeza de que você ainda está conosco.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -44484,10 +44484,10 @@
     {
       "canonical_id": "c_79ae0f7fda42",
       "source": "Holm's the one who's going to be delighted about this reversal...",
-      "target": "",
+      "target": "Holm certamente ficará feliz com essa reviravolta...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -55779,10 +55779,10 @@
     {
       "canonical_id": "c_98ba5a280938",
       "source": "I'm sorry for you.",
-      "target": "",
+      "target": "Sinto muito por você.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -56166,10 +56166,10 @@
     {
       "canonical_id": "c_99e0a5600961",
       "source": "Good luck and see you later at the conference.",
-      "target": "",
+      "target": "Boa sorte e até a próxima conferência.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -62133,10 +62133,10 @@
     {
       "canonical_id": "c_aa7e540ca36b",
       "source": "I wonder what he's been doing outside.",
-      "target": "",
+      "target": "Me pergunto o que ele andou fazendo lá fora.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -91563,10 +91563,10 @@
     {
       "canonical_id": "c_f894aba21205",
       "source": "I've been thinking long and hard about this. I know I said I would vote for Holm, but I've been thinking.",
-      "target": "",
+      "target": "Pensei muito sobre isso. Sei que disse que votaria em Holm, mas tenho refletido.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {

@@ -1,6 +1,6 @@
 # Checkpoint de Progresso — Tradução PT-BR
 
-> Gerado automaticamente por `progress_report.py` em 2026-08-14 17:28. Não edite à mão — rode o script de novo depois de cada lote validado.
+> Gerado automaticamente por `progress_report.py` em 2026-08-14 18:19. Não edite à mão — rode o script de novo depois de cada lote validado.
 
 ## Leia isto primeiro se você é uma sessão nova
 
@@ -35,7 +35,7 @@ Batch size recomendado: 50–100 quando a tradução é feita por uma sessão de
 - Strings únicas traduzíveis: **21806**
 - Já resolvidas (draft ou approved na TM): **10513** (48.2%)
 - Restam: **11293**
-- Por status: {'approved': 13, 'draft': 10484, 'needs_review': 16}
+- Por status: {'approved': 13, 'draft': 10494, 'needs_review': 6}
 - Não-traduzíveis (fora desta conta, resolvidos automaticamente no merge final — placeholder/comando/puzzle/glossário exato): 30
 
 ## Progresso por categoria
