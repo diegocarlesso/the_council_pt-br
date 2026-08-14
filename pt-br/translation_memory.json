@@ -87,10 +87,10 @@
     {
       "canonical_id": "c_001b8444fd2a",
       "source": "And if you ignore him, you'll sooner or later pay the price!",
-      "target": "",
+      "target": "E se você o ignorar, mais cedo ou mais tarde pagará o preço!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -3795,10 +3795,10 @@
     {
       "canonical_id": "c_0a38c4064cc3",
       "source": "I'm sorry but I won't be following you this time round.",
-      "target": "",
+      "target": "Sinto muito, mas não vou acompanhá-lo desta vez.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -4146,10 +4146,10 @@
     {
       "canonical_id": "c_0af896f95865",
       "source": "I'm not promising anything.",
-      "target": "",
+      "target": "Não estou prometendo nada.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -15873,10 +15873,10 @@
     {
       "canonical_id": "c_2bc5221c6e28",
       "source": "Since Mortimer has to convince everyone to follow him to win the vote, well, I expect he'll try bringing you over to his side eventually.",
-      "target": "",
+      "target": "Já que Mortimer precisa convencer todos a segui-lo para vencer a votação, imagino que, mais cedo ou mais tarde, tentará trazer você para o lado dele.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -17925,10 +17925,10 @@
     {
       "canonical_id": "c_30dbd2b57d2b",
       "source": "The situation seems clearer by the minute, on the contrary...",
-      "target": "",
+      "target": "Pelo contrário, a situação parece mais clara a cada minuto...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -18330,10 +18330,10 @@
     {
       "canonical_id": "c_322b77ad409f",
       "source": "I might well have known Lord Mortimer for a very long time, but we have never mixed business interests with our personal affections,",
-      "target": "",
+      "target": "Há muito tempo que conheço Lord Mortimer, mas jamais misturamos interesses comerciais com nossas relações pessoais,",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -18951,10 +18951,10 @@
     {
       "canonical_id": "c_342e969d1fd4",
       "source": "I've been thinking long and hard about this. I know I said I would vote for Holm, but I've been reconsidering.",
-      "target": "",
+      "target": "Pensei muito a respeito. Sei que disse que votaria em Holm, mas estou reconsiderando.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -19257,10 +19257,10 @@
     {
       "canonical_id": "c_34f86d582c6e",
       "source": "I am expected.",
-      "target": "",
+      "target": "Estão à minha espera.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -20643,10 +20643,10 @@
     {
       "canonical_id": "c_388222e1528d",
       "source": "Very well, no need to get upset, your Eminence.",
-      "target": "",
+      "target": "Muito bem, não há necessidade de se irritar, Sua Eminência.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -21804,10 +21804,10 @@
     {
       "canonical_id": "c_3bc3ecfc492b",
       "source": "You haven't answered the question...",
-      "target": "",
+      "target": "Você não respondeu à pergunta...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -23154,10 +23154,10 @@
     {
       "canonical_id": "c_3f7e6bc37587",
       "source": "Mister President, would you have a minute to spare?",
-      "target": "",
+      "target": "Senhor Presidente, o senhor teria um minuto?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -23271,10 +23271,10 @@
     {
       "canonical_id": "c_3fc27d0ec474",
       "source": "On that note, if you don't mind I'll be going, you Eminence.",
-      "target": "",
+      "target": "Com licença, Sua Eminência, vou me retirar.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -24477,10 +24477,10 @@
     {
       "canonical_id": "c_42c529c0677b",
       "source": "Your Eminence, you've only yourself to thank for getting into this situation.",
-      "target": "",
+      "target": "Sua Eminência, só tem a si mesmo para culpar por estar nessa situação.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -37320,10 +37320,10 @@
     {
       "canonical_id": "c_65fd6154930c",
       "source": "[CONVICTION] He lied to us, he only serves his own interests",
-      "target": "",
+      "target": "[CONVICÇÃO] Ele mentiu para nós; ele só serve aos próprios interesses.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -38634,10 +38634,10 @@
     {
       "canonical_id": "c_699c165091fa",
       "source": "Then everything is fine, then.",
-      "target": "",
+      "target": "Então está tudo bem, afinal.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -43089,10 +43089,10 @@
     {
       "canonical_id": "c_75cbfe18f497",
       "source": "Holm's the one who is going to be delighted about this reversal...",
-      "target": "",
+      "target": "É Holm quem vai ficar encantado com essa reviravolta...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -43170,10 +43170,10 @@
     {
       "canonical_id": "c_75f76a9eb6da",
       "source": "[LOGIQUE] You've known Mortimer for a long time, haven't you?",
-      "target": "",
+      "target": "[LÓGICA] Você conhece Lord Mortimer há muito tempo, não é?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -53088,10 +53088,10 @@
     {
       "canonical_id": "c_91e9c0101b37",
       "source": "I was wondering, exactly how long have you known Lord Mortimer?",
-      "target": "",
+      "target": "Gostaria de saber há quanto tempo você conhece Lord Mortimer.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -56931,10 +56931,10 @@
     {
       "canonical_id": "c_9bed93604791",
       "source": "Don't overdo it, your Eminence.",
-      "target": "",
+      "target": "Não exagere, Sua Eminência.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -61098,10 +61098,10 @@
     {
       "canonical_id": "c_a7e810ebed71",
       "source": "He has always supported me, Louis.",
-      "target": "",
+      "target": "Ele sempre me apoiou, Louis.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -62700,10 +62700,10 @@
     {
       "canonical_id": "c_abd569c512d5",
       "source": "Of course, Louis.",
-      "target": "",
+      "target": "Claro, Louis.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 4
     },
     {
@@ -63717,10 +63717,10 @@
     {
       "canonical_id": "c_ae966e7e504a",
       "source": "Well at least that's clear.",
-      "target": "",
+      "target": "Bem, pelo menos isso está claro.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -78540,10 +78540,10 @@
     {
       "canonical_id": "c_d75d85b03291",
       "source": "I won't lie, William did make a point of speaking to me.",
-      "target": "",
+      "target": "Não vou mentir, William fez questão de falar comigo.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -84093,10 +84093,10 @@
     {
       "canonical_id": "c_e5f8dea0e46b",
       "source": "And?...",
-      "target": "",
+      "target": "E?...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -92220,10 +92220,10 @@
     {
       "canonical_id": "c_f9d710360321",
       "source": "I wanted to make sure that you're still with us.",
-      "target": "",
+      "target": "Eu queria ter certeza de que você ainda está conosco.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
