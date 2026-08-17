@@ -2526,10 +2526,10 @@
     {
       "canonical_id": "c_0322fbd7e928",
       "source": "Looks like this family is very attached to their principles.",
-      "target": "",
+      "target": "Parece que esta família é muito apegada aos seus princípios.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -5100,10 +5100,10 @@
     {
       "canonical_id": "c_0678d62d4ea0",
       "source": "Make him search somewhere else.",
-      "target": "",
+      "target": "Faça-o procurar em outro lugar.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -6099,10 +6099,10 @@
     {
       "canonical_id": "c_07c2f219cc1d",
       "source": "Force your way through",
-      "target": "",
+      "target": "Forçe a passagem",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -10491,10 +10491,10 @@
     {
       "canonical_id": "c_0d8de5f9a953",
       "source": "Miss Adams and Mr. Peru did not die in the manner claimed by Lord Mortimer.",
-      "target": "A senhorita Adams e o Sr. Peru não morreram da forma como Lorde Mortimer alega.",
+      "target": "A senhorita Adams e o Sr. Peru não morreram da forma como Lord Mortimer alega.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 1
     },
     {
@@ -12147,10 +12147,10 @@
     {
       "canonical_id": "c_0f9e35161cee",
       "source": "Sorry, sir, but you will have to wait your turn!  I, too, would like to speak to the Duke...",
-      "target": "",
+      "target": "Desculpe, senhor, mas você terá que esperar sua vez! Eu também gostaria de falar com o Duque...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -13614,10 +13614,10 @@
     {
       "canonical_id": "c_116c6b024b11",
       "source": "I won't go a step further unless you explain to me what is going on here!...",
-      "target": "",
+      "target": "Não vou dar um passo a mais a menos que você me explique o que está acontecendo aqui!...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -15522,10 +15522,10 @@
     {
       "canonical_id": "c_14134173e5d9",
       "source": "\"The Great Work of the Soul\" by S. Madone",
-      "target": "",
+      "target": "\"A Grande Obra da Alma\" de S. Madone",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -15684,10 +15684,10 @@
     {
       "canonical_id": "c_1438fc6d350f",
       "source": "Discreet, again. The summary states that he was an excellent merchant...  and that, towards the end of his life, he entered politics.",
-      "target": "",
+      "target": "Discreto, mais uma vez. O resumo afirma que ele foi um excelente comerciante...  e que, perto do fim da vida, entrou para a política.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -17475,10 +17475,10 @@
     {
       "canonical_id": "c_169a0012a3fb",
       "source": "Nairac family",
-      "target": "",
+      "target": "Família Nairac",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -17898,10 +17898,10 @@
     {
       "canonical_id": "c_1754ad6a3ed9",
       "source": "The human spirit being the Prima Materia of the Alchemist.",
-      "target": "",
+      "target": "O espírito humano sendo a Prima Materia do Alquimista.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -18096,10 +18096,10 @@
     {
       "canonical_id": "c_178795801510",
       "source": "Oh, now wait a minute! Yes,  I remember now...  I think I saw him in the garden!",
-      "target": "",
+      "target": "Oh, espere um minuto! Sim, me lembro agora... Acho que o vi no jardim!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -19635,10 +19635,10 @@
     {
       "canonical_id": "c_1997caa78f7e",
       "source": "Search the chest of drawers",
-      "target": "",
+      "target": "Procure no cofre",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -19986,10 +19986,10 @@
     {
       "canonical_id": "c_19fca1859ece",
       "source": "Patronage of the Mortimer family.",
-      "target": "",
+      "target": "Patrocínio da família Mortimer.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -20094,10 +20094,10 @@
     {
       "canonical_id": "c_1a2382b28891",
       "source": "I wanted to speak to him but no one will open the door. I'm not sure he's in there.",
-      "target": "",
+      "target": "Eu queria falar com ele, mas ninguém abre a porta. Não tenho certeza se ele está lá dentro.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -20553,10 +20553,10 @@
     {
       "canonical_id": "c_1ac8f4fe1427",
       "source": "I propose we both look for him. The first to find him tells the Duke that the other is also looking for him. Agreed?",
-      "target": "",
+      "target": "Sugiro que ambos o procuremos. Quem o encontrar primeiro deve dizer ao Duque que o outro também o está procurando. Combinado?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -20589,10 +20589,10 @@
     {
       "canonical_id": "c_1ad41f53d822",
       "source": "We're all in danger and I came to tell you not to follow Lord Mortimer's plans, no more than those of Sir Gregory.",
-      "target": "Todos estamos em perigo e vim avisá-lo para não seguir os planos do Lorde Mortimer, nem mais do que os do Sir Gregory.",
+      "target": "Todos estamos em perigo e vim avisá-lo para não seguir os planos do Lord Mortimer, nem mais do que os do Sir Gregory.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 1
     },
     {
@@ -22245,10 +22245,10 @@
     {
       "canonical_id": "c_1d2936c0d443",
       "source": "Very metaphorical, as occult theories go...",
-      "target": "",
+      "target": "Muito metafórico, como teorias ocultistas costumam ser...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -23136,10 +23136,10 @@
     {
       "canonical_id": "c_1e5f1763c933",
       "source": "Does the expression \"go beyond the nightmare\" mean anything to you at all?",
-      "target": "A expressão \"ir além do pesadelo\" significa algo para você?",
+      "target": "A expressão \"ir além do Pesadelo\" significa algo para você?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -23847,10 +23847,10 @@
     {
       "canonical_id": "c_1f431927ceaa",
       "source": "Return to ancestors",
-      "target": "",
+      "target": "Voltar aos ancestrais",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -24603,10 +24603,10 @@
     {
       "canonical_id": "c_2047309afd7b",
       "source": "I... I just ran into him. He was heading for the dining-room.",
-      "target": "",
+      "target": "Eu... eu acabei de encontrar ele. Ele estava indo para a sala de jantar.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -25620,10 +25620,10 @@
     {
       "canonical_id": "c_21c30f907090",
       "source": "Right, now be a good boy and go look somewhere else...",
-      "target": "",
+      "target": "Certo, agora seja um bom menino e vá procurar em outro lugar...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -26574,10 +26574,10 @@
     {
       "canonical_id": "c_22f5ad8cd7cf",
       "source": "Keep up the effort, and I will be all the more proud and satisfied.",
-      "target": "",
+      "target": "Continue se esforçando, e serei ainda mais orgulhoso e satisfeito.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -36996,10 +36996,10 @@
     {
       "canonical_id": "c_30fca34291b5",
       "source": "Well, you can certainly say the grandfather had a flair for business...",
-      "target": "",
+      "target": "Bem, dá pra dizer que o avô tinha faro pra negócios...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -37572,10 +37572,10 @@
     {
       "canonical_id": "c_31c80d8286fa",
       "source": "Make up a story to get through",
-      "target": "",
+      "target": "Invente uma história para passar",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -38283,10 +38283,10 @@
     {
       "canonical_id": "c_32eb16c46bd2",
       "source": "Perfect, let's do that! I shall have a look in the library!",
-      "target": "",
+      "target": "Perfeito, vamos fazer isso! Vou dar uma olhada na biblioteca!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -38985,10 +38985,10 @@
     {
       "canonical_id": "c_33c5d3945838",
       "source": "“... on behalf of Don Luis de la Cerda. The vessel will be renamed La Niña... ”",
-      "target": "",
+      "target": "“... em nome de Don Luis de la Cerda. A embarcação será rebatizada como La Niña... ”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -40569,10 +40569,10 @@
     {
       "canonical_id": "c_35d19d64c3d6",
       "source": "\"Pure alchemy is a thought, an art that is performed on the matter of the soul... \"",
-      "target": "",
+      "target": "\"A alquimia pura é um pensamento, uma arte que é praticada sobre a matéria da alma...\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -44313,10 +44313,10 @@
     {
       "canonical_id": "c_3ac5a50aa96c",
       "source": "“Go beyond the nightmare”... ",
-      "target": "“Vá além do pesadelo”...",
+      "target": "“Vá além do Pesadelo”... ",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -44808,10 +44808,10 @@
     {
       "canonical_id": "c_3b812d7b269f",
       "source": "William Berth Mortimer",
-      "target": "",
+      "target": "William Berth Mortimer",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -45699,10 +45699,10 @@
     {
       "canonical_id": "c_3cabe50e295b",
       "source": "\"There are four phases to attain the ultimate in spiritual fulfillment..\"",
-      "target": "",
+      "target": "\"Existem quatro fases para alcançar o extremo no cumprimento espiritual..\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -46131,10 +46131,10 @@
     {
       "canonical_id": "c_3d4ca4b877ec",
       "source": "\"The soul broken up must be purified by the Alchemist.\"",
-      "target": "",
+      "target": "\"A alma quebrada deve ser purificada pelo Alquimista.\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -46311,10 +46311,10 @@
     {
       "canonical_id": "c_3d81c78efaf2",
       "source": "Miss Adams did not die in the manner suggested by Lord Mortimer.",
-      "target": "A senhorita Adams não morreu da forma sugerida pelo Lorde Mortimer.",
+      "target": "A senhorita Adams não morreu da forma sugerida pelo Lord Mortimer.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 1
     },
     {
@@ -47265,10 +47265,10 @@
     {
       "canonical_id": "c_3ed990b9e844",
       "source": "William August Mortimer",
-      "target": "",
+      "target": "William August Mortimer",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -49452,10 +49452,10 @@
     {
       "canonical_id": "c_416ee738b208",
       "source": "France, Africa, the Americas...",
-      "target": "",
+      "target": "França, África, as Américas...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -49866,10 +49866,10 @@
     {
       "canonical_id": "c_41f7c61391db",
       "source": "I'm smelling something shady here...",
-      "target": "",
+      "target": "Estou sentindo que tem algo suspeito aqui...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -53700,10 +53700,10 @@
     {
       "canonical_id": "c_468c01aa007f",
       "source": "Very well, sir. You may pass.",
-      "target": "",
+      "target": "Muito bem, senhor. Pode passar.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -54843,10 +54843,10 @@
     {
       "canonical_id": "c_480f604c79fb",
       "source": "“In 1489, the Mortimer family participates in the purchase of the caravel Santa Clara from Juan Niño, shipowner from Moguer...",
-      "target": "",
+      "target": "“Em 1489, a família Mortimer participa da compra da caravela Santa Clara, de Juan Niño, armador de Moguer...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -56625,10 +56625,10 @@
     {
       "canonical_id": "c_4a4362df86bd",
       "source": "Though we have gotten over many obstacles together, I cannot hide my apprehension this time round.",
-      "target": "",
+      "target": "Embora tenhamos superado muitos obstáculos juntos, não posso esconder minha apreensão desta vez.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -57399,10 +57399,10 @@
     {
       "canonical_id": "c_4b5e3d4f1b71",
       "source": "Don Luis de la Cerda",
-      "target": "",
+      "target": "Don Luis de la Cerda",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -57498,10 +57498,10 @@
     {
       "canonical_id": "c_4b8eb8d7f552",
       "source": "Excuse me but I must fetch a letter for the Duke.",
-      "target": "",
+      "target": "Com licença, mas preciso buscar uma carta para o Duque.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -60252,10 +60252,10 @@
     {
       "canonical_id": "c_4f106f87a73e",
       "source": "No, wait, Mother, I...",
-      "target": "",
+      "target": "Não, espere, Mãe, eu...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -61377,10 +61377,10 @@
     {
       "canonical_id": "c_509df43867cc",
       "source": "Longqing, in 1567?",
-      "target": "",
+      "target": "Longqing, em 1567?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -62322,10 +62322,10 @@
     {
       "canonical_id": "c_51f0dbf245a0",
       "source": "“Iosis”",
-      "target": "",
+      "target": "“Iósis”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -65421,7 +65421,7 @@
       "target": "\"Precisamos partir com urgência, mas antes eu absolutamente preciso ir além do Pesadelo. Cuidado com Wöllner, ele descobriu que eu estava evitando-o.\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -65580,10 +65580,10 @@
     {
       "canonical_id": "c_567624dd6af7",
       "source": "... despite the risks involved and the fact that we know each other well.",
-      "target": "",
+      "target": "... apesar dos riscos envolvidos e do fato de que nos conhecemos bem.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -67650,10 +67650,10 @@
     {
       "canonical_id": "c_59075f32d5dc",
       "source": "Tell me what's happening.",
-      "target": "",
+      "target": "Me diga o que está acontecendo.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -68973,10 +68973,10 @@
     {
       "canonical_id": "c_5abdb916d143",
       "source": "I'll bet that brickworks helped maintain the Great Wall.",
-      "target": "",
+      "target": "Aposto que essa olaria ajudou a manter a Grande Muralha.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -72123,10 +72123,10 @@
     {
       "canonical_id": "c_5ef9b08864cb",
       "source": "I went beyond the nightmare, Mother.",
-      "target": "Eu fui além do pesadelo, Mãe.",
+      "target": "Eu fui além do Pesadelo, Mãe.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 1
     },
     {
@@ -76641,10 +76641,10 @@
     {
       "canonical_id": "c_65271473a992",
       "source": "One thing's for sure, Monsieur de Richet, he's neither in his room nor on this floor. I've just looked all over...",
-      "target": "",
+      "target": "Uma coisa é certa, Monsieur de Richet, ele não está nem no quarto dele nem neste andar. Acabei de procurar por todos os lados...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -77793,10 +77793,10 @@
     {
       "canonical_id": "c_66a8ce922d43",
       "source": "Dr W.Thomton\"",
-      "target": "",
+      "target": "Dr. W.Thomton\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -79143,10 +79143,10 @@
     {
       "canonical_id": "c_687cb3165fd1",
       "source": "“Dear Samuel, my stay on Lord Mortimer's island is going wonderfully well.",
-      "target": "Caro Samuel, minha estadia na ilha do Lorde Mortimer está sendo maravilhosamente boa.",
+      "target": "“Caro Samuel, minha estadia na ilha do Lord Mortimer está sendo maravilhosamente boa.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -79980,10 +79980,10 @@
     {
       "canonical_id": "c_69d03c297529",
       "source": "What did you say to me about \"going beyond the nightmare\"?",
-      "target": "O que você me disse sobre \"ir além do pesadelo\"?",
+      "target": "O que você me disse sobre \"ir além do Pesadelo\"?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 1
     },
     {
@@ -81240,10 +81240,10 @@
     {
       "canonical_id": "c_6b877c044b21",
       "source": "... in order to fund his research and the writing of De Mirabilibus Mundi, books about the wonders of the world.”",
-      "target": "",
+      "target": "... para financiar suas pesquisas e a redação de De Mirabilibus Mundi, livros sobre as maravilhas do mundo.”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -81996,10 +81996,10 @@
     {
       "canonical_id": "c_6c5eec3c404b",
       "source": "“Melanosis”",
-      "target": "",
+      "target": "“Melanose”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -83076,10 +83076,10 @@
     {
       "canonical_id": "c_6db39f8f7732",
       "source": "So, what did my mother mean by “going beyond the nightmare”?",
-      "target": "Então, o que minha mãe quis dizer com “ir além do pesadelo”?",
+      "target": "Então, o que minha mãe quis dizer com “ir além do Pesadelo”?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -84237,10 +84237,10 @@
     {
       "canonical_id": "c_6f671df451b4",
       "source": "... in guise of a protocol gift for Long-qing, the emperor of the Ming dynasty.”",
-      "target": "",
+      "target": "... na forma de um presente protocolar para Longqing, o imperador da dinastia Ming.”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -84849,10 +84849,10 @@
     {
       "canonical_id": "c_701df45b10f1",
       "source": "Another at random. William Mortimer, again! Only son, him too. Born in 1573 and died in 1665: the Mortimers live to a ripe old age, that's for sure!",
-      "target": "",
+      "target": "Outro ao acaso. William Mortimer, de novo! Filho único, ele também. Nascido em 1573 e morto em 1665: os Mortimer realmente vivem até uma idade avançada, isso é certo!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -85092,10 +85092,10 @@
     {
       "canonical_id": "c_70865a363ce4",
       "source": "I'd have expected more from Lord Mortimer!",
-      "target": "Eu esperava mais do Lorde Mortimer!",
+      "target": "Eu esperava mais do Lord Mortimer!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -86937,10 +86937,10 @@
     {
       "canonical_id": "c_733cffb855c1",
       "source": "Strange...  it was uncommon to have only one child in those days, let alone all only sons!",
-      "target": "",
+      "target": "Estranho...  não era comum ter só um filho naquela época, ainda mais todos filhos únicos homens!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -88026,10 +88026,10 @@
     {
       "canonical_id": "c_7482432e1fd0",
       "source": "Gregory H.",
-      "target": "",
+      "target": "Gregory H.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -89727,10 +89727,10 @@
     {
       "canonical_id": "c_76c420811911",
       "source": "The Golden Triangle. That means they got rich on the backs of African slaves...",
-      "target": "",
+      "target": "O Triângulo Dourado. Isso significa que eles enriqueceram às custas de escravos africanos...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -90132,10 +90132,10 @@
     {
       "canonical_id": "c_773de5385fcf",
       "source": "Only son. A descendant with a singular name. He also took a wife, and had only one child. Named William, again.",
-      "target": "",
+      "target": "Filho único. Um descendente com um nome peculiar. Ele também se casou e teve só um filho. Chamado William, de novo.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -90924,10 +90924,10 @@
     {
       "canonical_id": "c_783699b13b78",
       "source": "\"Great Alchemists work to transform and perfect the latter by a series of processes known as the Great Work.\"",
-      "target": "",
+      "target": "\"Grandes Alquimistas trabalham para transformar e aperfeiçoar o último por uma série de processos conhecidos como a Grande Obra.\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -91041,10 +91041,10 @@
     {
       "canonical_id": "c_785bb277db87",
       "source": "Thank you, Monsieur de Richet.",
-      "target": "",
+      "target": "Obrigado, Monsieur de Richet.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -92463,10 +92463,10 @@
     {
       "canonical_id": "c_7a5ae3f38a5d",
       "source": "Most certainly.  Oh well, he's bound to turn up at some point. I'll wait.",
-      "target": "",
+      "target": "Com certeza. Ah, bem, ele certamente aparecerá em algum momento. Vou esperar.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -93021,10 +93021,10 @@
     {
       "canonical_id": "c_7b0f0394812a",
       "source": "You managed to get past the nightmare?...",
-      "target": "Você conseguiu passar pelo pesadelo?...",
+      "target": "Você conseguiu passar pelo Pesadelo?...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -94398,10 +94398,10 @@
     {
       "canonical_id": "c_7ce5d707a75c",
       "source": "Return to the table of contents",
-      "target": "",
+      "target": "Voltar ao sumário",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -97827,10 +97827,10 @@
     {
       "canonical_id": "c_814eac6e1f90",
       "source": "La Niña, yes! That's one of the three caravels of the expedition of Christopher Columbus! They enabled him to discover the Americas.",
-      "target": "",
+      "target": "La Niña, isso mesmo! É uma das três caravelas da expedição de Cristóvão Colombo! Foram elas que permitiram que ele descobrisse as Américas.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -102273,10 +102273,10 @@
     {
       "canonical_id": "c_8769e77ecec2",
       "source": "If I said “Go beyond the nightmare”, would that ring any bells?",
-      "target": "Se eu dissesse “Ir além do pesadelo”, isso soaria familiar?",
+      "target": "Se eu dissesse “Ir além do Pesadelo”, isso soaria familiar?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -106917,10 +106917,10 @@
     {
       "canonical_id": "c_8d6f7436128f",
       "source": "I was going to ask you the same question...",
-      "target": "",
+      "target": "Eu ia te fazer a mesma pergunta...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -108078,10 +108078,10 @@
     {
       "canonical_id": "c_8f02395337a5",
       "source": "Would you be insinuating that Lord Mortimer is responsible for killing Miss Adams?",
-      "target": "Você estaria insinuando que o Lorde Mortimer é responsável pela morte da senhorita Adams?",
+      "target": "Você estaria insinuando que o Lord Mortimer é responsável pela morte da senhorita Adams?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 1
     },
     {
@@ -108492,10 +108492,10 @@
     {
       "canonical_id": "c_8f797176165f",
       "source": "I'm begging you...  talk to me...",
-      "target": "",
+      "target": "Estou implorando... fale comigo...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -109338,10 +109338,10 @@
     {
       "canonical_id": "c_907a5e9f1dd1",
       "source": "“From 1235 to 1280, the Mortimer family granted an annual pension to Albert the Great, archbishop of Regensburg...",
-      "target": "",
+      "target": "“De 1235 a 1280, a família Mortimer concedeu uma pensão anual a Alberto Magno, arcebispo de Regensburg...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -110499,10 +110499,10 @@
     {
       "canonical_id": "c_91fdd65edb5e",
       "source": "\"The human soul must descend, be corrupt in order to become decomposed.\"",
-      "target": "",
+      "target": "\"A alma humana deve descer, ser corrompida para se decompor.\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -113118,10 +113118,10 @@
     {
       "canonical_id": "c_9584119d1844",
       "source": "Return to table of contents",
-      "target": "",
+      "target": "Voltar ao sumário",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -114180,10 +114180,10 @@
     {
       "canonical_id": "c_96bffffe96fd",
       "source": "Great...  now he's not gonna let me pass.",
-      "target": "",
+      "target": "Ótimo... Agora ele não vai me deixar passar.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -115638,10 +115638,10 @@
     {
       "canonical_id": "c_9863c182bd2c",
       "source": "I found a service key last time...  let's see... ",
-      "target": "",
+      "target": "Encontrei uma chave de serviço da última vez... Vamos ver...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -115917,10 +115917,10 @@
     {
       "canonical_id": "c_98a72258d39e",
       "source": "Given how high stakes are today.",
-      "target": "",
+      "target": "Considerando o alto risco de hoje.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -116376,10 +116376,10 @@
     {
       "canonical_id": "c_9938c8acca12",
       "source": "That happens a lot in noble families, but here it's systematic. Not a SINGLE generation ever breaks the custom.",
-      "target": "",
+      "target": "Isso acontece bastante em famílias nobres, mas aqui é sistemático. Nenhuma ÚNICA geração jamais quebra o costume.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -117501,10 +117501,10 @@
     {
       "canonical_id": "c_9a88ae4b0987",
       "source": "In the garden? No, you must be mistaken, I've just come from there. I would have seen him...",
-      "target": "",
+      "target": "No jardim? Não, você deve estar enganado, acabei de vir de lá. Eu o teria visto...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -118419,10 +118419,10 @@
     {
       "canonical_id": "c_9bc11ebbc238",
       "source": "Louis! At last, there you are!",
-      "target": "",
+      "target": "Louis! Finalmente, aqui está você!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -118608,10 +118608,10 @@
     {
       "canonical_id": "c_9be7e1d29736",
       "source": "We know you're planning on selling it at one of Lord Mortimer's parties, all right. Just tell us who the buyer is and we can make a deal!",
-      "target": "Sabemos que você pretende vendê-lo em uma das festas do Lorde Mortimer, certo? Apenas nos diga quem é o comprador e podemos fazer um acordo!",
+      "target": "Sabemos que você pretende vendê-lo em uma das festas do Lord Mortimer, certo? Apenas nos diga quem é o comprador e podemos fazer um acordo!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -119157,10 +119157,10 @@
     {
       "canonical_id": "c_9cafee46221a",
       "source": "Ask her to “Go beyond the nightmare”",
-      "target": "Peça a ela para “Ir além do pesadelo”",
+      "target": "Peça a ela para “Ir além do Pesadelo”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -122469,10 +122469,10 @@
     {
       "canonical_id": "c_a11232589c16",
       "source": "\"The soul must be transformed in order to attain sublimation by the recombination of the Alchemist.\"",
-      "target": "",
+      "target": "\"A alma deve ser transformada para alcançar a sublimação pela recombinação do Alquimista.\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -123477,10 +123477,10 @@
     {
       "canonical_id": "c_a2683b3583dd",
       "source": "Excuse me, Monsieur von Wöllner, I'd like to get past...",
-      "target": "",
+      "target": "Com licença, Monsieur von Wöllner, gostaria de passar...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -124071,10 +124071,10 @@
     {
       "canonical_id": "c_a33aff1a80e4",
       "source": "Nice program...",
-      "target": "",
+      "target": "Programa interessante...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -125592,10 +125592,10 @@
     {
       "canonical_id": "c_a561661aeda6",
       "source": "It's something like what I felt when I think of what I found out about my mother...",
-      "target": "",
+      "target": "É algo como o que senti quando pensei no que descobri sobre minha mãe...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -126591,10 +126591,10 @@
     {
       "canonical_id": "c_a6e019710561",
       "source": "Mother, wait, I...",
-      "target": "",
+      "target": "Mãe, espere, eu...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -127005,10 +127005,10 @@
     {
       "canonical_id": "c_a76ebf5db092",
       "source": "... No!",
-      "target": "",
+      "target": "... Não!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -127104,10 +127104,10 @@
     {
       "canonical_id": "c_a78f2bf9e5c5",
       "source": "But having you here, Johann, is an invaluable asset!",
-      "target": "",
+      "target": "Mas tê-lo aqui, Johann, é um trunfo inestimável!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -127212,10 +127212,10 @@
     {
       "canonical_id": "c_a7a1eb31a029",
       "source": "Well, as for me, I am FOR Lord Mortimer's project.",
-      "target": "Bem, quanto a mim, sou A FAVOR do projeto do Lorde Mortimer.",
+      "target": "Bem, quanto a mim, sou A FAVOR do projeto do Lord Mortimer.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -127770,10 +127770,10 @@
     {
       "canonical_id": "c_a8411800a522",
       "source": "Oh...  I must have been someone else then...",
-      "target": "",
+      "target": "Oh... Devia ser outra pessoa então...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -131298,10 +131298,10 @@
     {
       "canonical_id": "c_ac97776efab0",
       "source": "De Mirabilibus Mundi...",
-      "target": "",
+      "target": "De Mirabilibus Mundi...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -132207,10 +132207,10 @@
     {
       "canonical_id": "c_ada3af6695f6",
       "source": "\"Dear Johann,",
-      "target": "",
+      "target": "\"Querido Johann,\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -132351,10 +132351,10 @@
     {
       "canonical_id": "c_add6056f448d",
       "source": "The key's gone...  Emily must still have it with her.",
-      "target": "",
+      "target": "A chave sumiu... Emily ainda deve tê-la.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -133179,10 +133179,10 @@
     {
       "canonical_id": "c_aee5354a183e",
       "source": "If you find the Duke before me, tell him I want to speak to him.",
-      "target": "",
+      "target": "Se você o encontrar antes de mim, diga a ele que quero falar com ele.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -134592,10 +134592,10 @@
     {
       "canonical_id": "c_b0ac5720c02a",
       "source": "I've searched all over the manor, but I can't find him.",
-      "target": "",
+      "target": "Procurei por todo o castelo, mas não consigo encontrá-lo.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -136329,10 +136329,10 @@
     {
       "canonical_id": "c_b2d8f50e991b",
       "source": "Very well, I shall wait for him in that case.",
-      "target": "",
+      "target": "Muito bem, esperarei por ele nesse caso.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -139569,10 +139569,10 @@
     {
       "canonical_id": "c_b6fbbccca5f2",
       "source": "Analyze the names",
-      "target": "",
+      "target": "Analisar os nomes",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -143133,10 +143133,10 @@
     {
       "canonical_id": "c_bbd79ca88f29",
       "source": "Have you tried entering?",
-      "target": "",
+      "target": "Você já tentou entrar?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -144474,10 +144474,10 @@
     {
       "canonical_id": "c_bd97c15af32c",
       "source": "Albert the Great",
-      "target": "",
+      "target": "Alberto Magno",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -144564,10 +144564,10 @@
     {
       "canonical_id": "c_bdb711b1d7f0",
       "source": "You must trust me, my son.",
-      "target": "",
+      "target": "Você precisa confiar em mim, meu filho.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -144807,10 +144807,10 @@
     {
       "canonical_id": "c_be121af18cec",
       "source": "This seems to be the list of grants and sponsorships given by the Mortimer family.",
-      "target": "",
+      "target": "Isso parece ser a lista de doações e patrocínios concedidos pela família Mortimer.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -145383,10 +145383,10 @@
     {
       "canonical_id": "c_becddca46880",
       "source": "If I want to pass through, I'll have to get Wöllner out of the way...",
-      "target": "",
+      "target": "Se eu quiser passar, terei que tirar Wöllner do caminho...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -147111,10 +147111,10 @@
     {
       "canonical_id": "c_c0f26c7cbaf5",
       "source": "It's tempting.",
-      "target": "",
+      "target": "É tentador.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -148641,10 +148641,10 @@
     {
       "canonical_id": "c_c2eeb922829a",
       "source": "La Nina?",
-      "target": "",
+      "target": "La Niña?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -151782,10 +151782,10 @@
     {
       "canonical_id": "c_c6d234b5715f",
       "source": "Ah, Monsieur de Richet! You wouldn't have seen Duke Manuel by any chance, would you?",
-      "target": "",
+      "target": "Ah, Monsieur de Richet! Você não teria visto o Duque Manuel por acaso, teria?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -154320,10 +154320,10 @@
     {
       "canonical_id": "c_ca43ac62f51d",
       "source": "The incarnation of the purified spirit, the elevation of the soul now become perfect, its resurrection thanks to the action of the Alchemist.\"",
-      "target": "",
+      "target": "A encarnação do espírito purificado, a elevação da alma agora perfeita, sua ressurreição graças à ação do Alquimista.\"",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -155427,10 +155427,10 @@
     {
       "canonical_id": "c_cbc0d80e1dcb",
       "source": "He won't let me by...  I'll have to find another way of getting into the damn room!!",
-      "target": "",
+      "target": "Ele não me deixa passar... Vou ter que encontrar outro jeito de entrar naquele maldito quarto!!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -157218,10 +157218,10 @@
     {
       "canonical_id": "c_ce29b0944956",
       "source": "I am so glad you are coming. I did not doubt for a single minute that you would accept this invitation... ",
-      "target": "",
+      "target": "Estou muito feliz que você esteja vindo. Não duvidei por um único minuto que você aceitaria este convite... ",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -161880,10 +161880,10 @@
     {
       "canonical_id": "c_d424f9fc7a20",
       "source": "“In 1567, the Mortimer family financed a brickworks in Qin-huang-dao, in China, fitted out with 51 furnaces 3.5 meters high...",
-      "target": "",
+      "target": "“Em 1567, a família Mortimer financiou uma olaria em Qinhuangdao, na China, equipada com 51 fornos de 3,5 metros de altura...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -162618,10 +162618,10 @@
     {
       "canonical_id": "c_d5572a5f7ef2",
       "source": "How is that possible? It really makes you wonder if all those sons really are official descendants...",
-      "target": "",
+      "target": "Como isso é possível? Isso realmente faz a gente se perguntar se todos esses filhos são mesmo descendentes legítimos...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -164895,10 +164895,10 @@
     {
       "canonical_id": "c_d85e683f183a",
       "source": "Impossible to get through with him glued in front of the door...  I'll have to find another way into Godoy's room.",
-      "target": "",
+      "target": "Impossível passar com ele colado na porta... Vou ter que encontrar outro jeito de entrar no quarto de Godoy.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -165831,19 +165831,19 @@
     {
       "canonical_id": "c_d98769603e10",
       "source": "No, of course not...  It would not be proper, after all!",
-      "target": "",
+      "target": "Não, de forma alguma... Seria impróprio, afinal!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
       "canonical_id": "c_d9891f23d253",
       "source": "A family known for their expeditions to Africa and America...",
-      "target": "",
+      "target": "Uma família conhecida por suas expedições à África e à América...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -166632,10 +166632,10 @@
     {
       "canonical_id": "c_da9449007b0e",
       "source": "Except if the Alchemist has bad intentions, then it's called manipulation...",
-      "target": "",
+      "target": "A menos que o Alquimista tenha más intenções, então isso é chamado de manipulação...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -167271,10 +167271,10 @@
     {
       "canonical_id": "c_db8664250424",
       "source": "You are the one who should trust me.",
-      "target": "",
+      "target": "Você é quem deve confiar em mim.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -167370,10 +167370,10 @@
     {
       "canonical_id": "c_dba9d844c532",
       "source": "If only I hadn't wasted so much time getting out of Lord Mortimer's study.",
-      "target": "Se ao menos eu não tivesse desperdiçado tanto tempo saindo do escritório do Lorde Mortimer.",
+      "target": "Se ao menos eu não tivesse desperdiçado tanto tempo saindo do escritório do Lord Mortimer.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -170889,10 +170889,10 @@
     {
       "canonical_id": "c_e013466d16ca",
       "source": "Nothing! Forget the whole story, Mr. Mauras! But you must realise that one doesn't say \"No\" to Lord Mortimer!",
-      "target": "Nada! Esqueça toda a história, Sr. Mauras! Mas você precisa entender que ninguém diz \"Não\" ao Lorde Mortimer!",
+      "target": "Nada! Esqueça toda a história, Sr. Mauras! Mas você precisa entender que ninguém diz \"Não\" ao Lord Mortimer!",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 1
     },
     {
@@ -171231,10 +171231,10 @@
     {
       "canonical_id": "c_e06e05b5a77e",
       "source": "Come, we have to be quick...",
-      "target": "",
+      "target": "Venha, temos que ser rápidos...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -171591,10 +171591,10 @@
     {
       "canonical_id": "c_e0d52ba4f02e",
       "source": "All the descendants are called William (... ) Mortimer. There have been only male descendants. All of them only sons.",
-      "target": "",
+      "target": "Todos os descendentes se chamam William (...) Mortimer. Só houve descendentes homens. Todos filhos únicos.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -172446,19 +172446,19 @@
     {
       "canonical_id": "c_e1ec4b6813e8",
       "source": "Make him leave",
-      "target": "",
+      "target": "Faça-o sair",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
       "canonical_id": "c_e1edd925e590",
       "source": "“Leukosis”",
-      "target": "",
+      "target": "“Leucose”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -173184,10 +173184,10 @@
     {
       "canonical_id": "c_e2deb665c2c9",
       "source": "No, I'm sorry. I don't know where he is.",
-      "target": "",
+      "target": "Não, desculpe. Não sei onde ele está.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -176208,10 +176208,10 @@
     {
       "canonical_id": "c_e6fa2cec7900",
       "source": "Longqing",
-      "target": "",
+      "target": "Longqing",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -177378,10 +177378,10 @@
     {
       "canonical_id": "c_e84a95b1f628",
       "source": "“Xanthosis”",
-      "target": "",
+      "target": "“Xantose”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -178659,7 +178659,7 @@
       "target": "O que a Mãe quis dizer com: “Eu absolutamente preciso ir além do Pesadelo”?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -178854,10 +178854,10 @@
     {
       "canonical_id": "c_e9fdc907307d",
       "source": "Ah!  Thank you...",
-      "target": "",
+      "target": "Ah! Obrigado...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -179898,10 +179898,10 @@
     {
       "canonical_id": "c_eb5b282fe3f3",
       "source": "Perhaps he didn't hear you. Did you try entering?",
-      "target": "",
+      "target": "Talvez ele não tenha te ouvido. Você tentou entrar?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -180105,10 +180105,10 @@
     {
       "canonical_id": "c_eb937acc2887",
       "source": "If I said \"Go beyond the nightmare\", would that mean anything to you?",
-      "target": "Se eu dissesse \"Vá além do pesadelo\", isso significaria algo para você?",
+      "target": "Se eu dissesse \"Vá além do Pesadelo\", isso significaria algo para você?",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 1
     },
     {
@@ -180186,10 +180186,10 @@
     {
       "canonical_id": "c_ebadb3de7eb7",
       "source": "“In 1645, the Mortimer family allocated a pension, to be passed down the generations, to the Nairac family from Bordeaux, shipowners and refiners from father to son.”",
-      "target": "",
+      "target": "“Em 1645, a família Mortimer destinou uma pensão, a ser transmitida pelas gerações, à família Nairac de Bordeaux, armadores e refinadores de pai para filho.”",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -182193,10 +182193,10 @@
     {
       "canonical_id": "c_ee10d85dcf28",
       "source": "Yes, let's proceed as you say...",
-      "target": "",
+      "target": "Sim, vamos prosseguir como você diz...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -183627,7 +183627,7 @@
       "target": "“Eu preciso ir além do Pesadelo”… ",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -184470,10 +184470,10 @@
     {
       "canonical_id": "c_f10dbb09b9ff",
       "source": "Don't take note.",
-      "target": "",
+      "target": "Não anotar.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -187278,10 +187278,10 @@
     {
       "canonical_id": "c_f45a2d495f10",
       "source": "Analyze the familial organization",
-      "target": "",
+      "target": "Analisar a organização familiar",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -187746,10 +187746,10 @@
     {
       "canonical_id": "c_f5051d38e528",
       "source": "\"Thus ends the Great Work.",
-      "target": "",
+      "target": "\"Assim termina a Grande Obra.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -190275,10 +190275,10 @@
     {
       "canonical_id": "c_f85f6623fc06",
       "source": "Yes, in the dining-room",
-      "target": "",
+      "target": "Sim, na sala de jantar",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -191706,10 +191706,10 @@
     {
       "canonical_id": "c_fa28f583bcdd",
       "source": "I look forward to seeing you again... ",
-      "target": "",
+      "target": "Espero vê-lo novamente... ",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -192444,10 +192444,10 @@
     {
       "canonical_id": "c_fafd8280e1b4",
       "source": "Let's see. All Mortimer's ancestors are called “William (something) Mortimer”.",
-      "target": "",
+      "target": "Vamos ver. Todos os ancestrais Mortimer se chamam “William (algo) Mortimer”.",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "approved",
       "usage_count": 2
     },
     {
@@ -192930,10 +192930,10 @@
     {
       "canonical_id": "c_fb9d80faf2ba",
       "source": "Let's think... Come on! So...  apart from the door...  the only other way is by the balcony...",
-      "target": "",
+      "target": "Vamos pensar... Vamos! Então... além da porta... o único outro jeito é pelo balcão...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 2
     },
     {
@@ -194424,10 +194424,10 @@
     {
       "canonical_id": "c_fd77eb8977e2",
       "source": "Time is running out, Louis, first we must...",
-      "target": "",
+      "target": "O tempo está acabando, Louis, primeiro devemos...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
@@ -195819,10 +195819,10 @@
     {
       "canonical_id": "c_ff4bdc9bb230",
       "source": "You are not ready yet...",
-      "target": "",
+      "target": "Você ainda não está pronto...",
       "context": "Diálogo",
       "category": "Diálogo",
-      "status": "needs_review",
+      "status": "draft",
       "usage_count": 1
     },
     {
