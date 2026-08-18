@@ -1,18 +1,76 @@
-# Estado do pipeline — 2026-08-17 19:10
+# Estado do pipeline — 2026-08-18 00:35
 
 > Nota manual (não é gerada por script, ao contrário de `PROGRESS.md`).
 > Substitui a nota de pausa de 2026-08-14 (arquivada no histórico do
-> git). Desta vez não é uma pausa no meio do trabalho: **a primeira
-> passada de tradução está 100% completa**.
+> git).
 
-## Marco: 21806/21806 (100%), 0 em needs_review
+## ⚠️ BLOQUEADOR ATIVO: `common_loc_en_0.db` não pode ser traduzido ainda
 
-- Todas as categorias traduzíveis (Diálogo, Sistema, Item, Teste,
-  Descontinuado) em 100%.
-- `approved: 213`, `draft: 21593`, `needs_review: 0`.
+**Achado crítico de 2026-08-18**: montamos o primeiro build completo
+(as 21.806 strings, incluindo `common_loc_en_0.db`), aplicamos no jogo
+ao vivo pra teste — **os menus quebraram** (texto sobreposto, cortado,
+até um "Sauvegarde 3" em francês vazando de outra posição do pool).
+
+Isso confirma e amplia o risco já documentado em
+[04-RISCOS_TECNICOS.md](docs/04-RISCOS_TECNICOS.md#1-reinjeção): um
+cluster de strings em `common_loc_en_0.db` (ligado à tela de boot/menu)
+é referenciado por **offset fixo em bytes** a partir de outro arquivo
+(suspeita: `Gui_Main_0.cpk`, nunca localizado com precisão). O Fase 0
+só validou 4 strings seguras (`PLAY`, `Savegame 1/2/3`) com ajuste pra
+byte exato — **o alcance real do cluster afetado nunca foi confirmado**,
+e aparentemente é bem maior que aquelas 4 (talvez o arquivo inteiro,
+já que tudo que muda de tamanho ANTES do ponto afetado desalinha o
+offset pra tudo que vem depois).
+
+**Mitigação aplicada agora (build atual em produção)**:
+`common_loc_en_0.db` foi **revertido 100% pro inglês original** — só
+esse arquivo. Os outros 25 arquivos (diálogo/missão, ~85% do corpus,
+já validado ao vivo como seguro desde a Fase 0) seguem traduzidos
+normalmente. Script em
+`D:\temp\claude\...\scratchpad\build_full_pack.py` (fora do repo, no
+scratchpad de uma sessão do Claude Code — precisa ser recriado ou
+salvo em algum lugar do projeto se for reusar) tem uma lista
+`EXCLUDE_FILES` pra isso.
+
+**Pendência real pra desbloquear tradução de sistema/menu**:
+1. Localizar de verdade o offset fixo (provavelmente dentro de
+   `Gui_Main_0.cpk` — nunca foi feita essa investigação a fundo).
+2. OU mapear o alcance exato do cluster afetado dentro de
+   `common_loc_en_0.db` pra tratar só essas strings com ajuste de
+   byte exato (como foi feito pras 4 originais) e liberar o resto do
+   arquivo pra tradução livre.
+3. OU aceitar traduzir só o cluster afetado com abreviação forçada
+   (mesmo comprimento em bytes do inglês) e traduzir o resto do
+   arquivo livremente — precisa saber o alcance (item 2) primeiro.
+
+**Release público**: o [v1.0.0-beta1](https://github.com/diegocarlesso/the_council_pt-br/releases/tag/v1.0.0-beta1)
+já foi corrigido (asset trocado, notas atualizadas) pra refletir isso
+— só diálogo/missão traduzidos, sistema/menu em inglês.
+
+## Marco: 21806/21806 traduzíveis com tradução (100%), 0 em needs_review
+
+- `approved: 248`, `draft: 21558`, `needs_review: 0`.
 - Pipeline local (`translator/`) parado, modelo descarregado do LM
   Studio (`lms unload --all`). Nada rodando em segundo plano.
 - Tudo commitado e enviado para `origin/master`.
+- **Mas o build jogável não usa 100% disso ainda** — ver bloqueador
+  acima. O texto de `common_loc_en_0.db` está traduzido na TM/git, só
+  não está sendo aplicado no `.cpk` até o offset ser resolvido.
+
+## Classificador de qualidade (parcial, pausado)
+
+Rodei o `gemma-3n-e4b` local como classificador (não gerador) sobre os
+~1600 candidatos que o `langdetect` sinalizou como catalão/francês/
+italiano/alemão/etc — achou ~20 frases inteiras em italiano que
+tinham escapado da varredura de espanhol, mais alguns erros de
+gênero/número/conjugação. 35 corrigidos (ver commit
+`e6c7070`). Depois, comecei a rodar o mesmo classificador sobre TODAS
+as ~21.5k strings `draft` restantes (script
+`llm_verify_all_draft.py`, no scratchpad) — **pausei no lote ~15/1078**
+a pedido do usuário (ia levar ~5h, priorizamos montar o build pro
+jogo). Puro trabalho de classificação, sem geração — pode ser
+retomado a qualquer momento, é só recarregar o modelo e rodar nesse
+mesmo script apontando pro `translation_memory.json` atual.
 
 ## Revisão de qualidade das strings draft (sessão de 2026-08-17, à tarde)
 
