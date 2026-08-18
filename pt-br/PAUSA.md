@@ -9,7 +9,7 @@
 
 - Todas as categorias traduzíveis (Diálogo, Sistema, Item, Teste,
   Descontinuado) em 100%.
-- `approved: 185`, `draft: 21621`, `needs_review: 0`.
+- `approved: 213`, `draft: 21593`, `needs_review: 0`.
 - Pipeline local (`translator/`) parado, modelo descarregado do LM
   Studio (`lms unload --all`). Nada rodando em segundo plano.
 - Tudo commitado e enviado para `origin/master`.
@@ -39,14 +39,35 @@ Achados e corrigidos (110 itens, todos virados `approved`):
   mecânica do pipeline **não tinha como pegar** (não mexe com
   placeholder/tag/glossário, só troca de idioma inteiro).
 
-**O que isso implica pra confiança geral nas ~21.5k strings `draft`
-restantes**: a amostragem aleatória (120 itens, nenhuma vinda de
-heurística) achou ~4 problemas de idioma (contaminação por espanhol) e
-zero outro tipo de erro grave - uma taxa de ~3%. É uma estimativa solta
-(amostra pequena), mas indica que a maior parte do `draft` está OK,
-com uma cauda de alguns por cento precisando de revisão humana de
-verdade antes de considerar o texto "final". Não dá pra garantir 0
-problema sem uma leitura completa (Fase 4 abaixo).
+**Confirmação com `langdetect` (mesma tarde, pedido explícito do
+usuário: "roda o restante dos ~700 candidatos de espanhol")**: instalei
+`langdetect` e rodei contra as ~21.6k strings `draft` pra checar a
+estimativa de ~3% acima com número de verdade, não só amostra. Achado
+importante: **`langdetect` sozinho tem MUITO falso positivo em frases
+curtas em pt-BR** - frases 100% corretas como "Ele está morto?" batem
+"espanhol" com 100% de confiança. Não dá pra usar o resultado bruto.
+
+Processo: 853 candidatos flagados como `es`. Os 66 de texto longo
+(>=60 chars, onde `langdetect` é confiável) foram todos lidos - achou 4
+parágrafos genuinamente em espanhol que o filtro por palavras-chave
+anterior tinha perdido. Os 787 candidatos curtos foram **todos lidos
+manualmente** (impraticável confiar no score sozinho) - achou mais 21
+problemas reais (a maioria frases inteiras em espanhol que não tinham
+nenhuma das palavras-chave do filtro anterior tipo "los"/"las"/¿/¡, mais
+alguns erros de concordância/conjugação que o `langdetect` também
+pegou como ruído mas eram bugs de verdade por conta própria).
+
+**Total da revisão de qualidade desta sessão: 124 strings corrigidas**
+(110 da primeira passada + 28 desta confirmação, alguns sobrepostos).
+Taxa real de contaminação por espanhol nas ~21.6k `draft`: ficou
+abaixo da estimativa de 3% inicial depois de tirar o ruído do
+`langdetect` - mais perto de ~0.5-0.6% no que foi coberto.
+
+**O que NÃO foi coberto**: os candidatos que o `langdetect` flagou como
+catalão/francês/italiano/alemão/romeno/etc (~1040 no total) - mesmo
+padrão de falso positivo esperado (línguas românicas próximas
+confundem o detector), não verificados individualmente por escopo. Se
+quiser 100% de certeza, essa é a lacuna que falta.
 
 ## Como chegamos aqui (sessão de 2026-08-17, 10:51 → 19:10)
 
