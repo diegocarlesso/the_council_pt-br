@@ -1,10 +1,70 @@
-# Estado do pipeline — 2026-08-18 01:15
+# Estado do pipeline — 2026-08-18 (atualizado à noite)
 
 > Nota manual (não é gerada por script, ao contrário de `PROGRESS.md`).
 > Substitui a nota de pausa de 2026-08-14 (arquivada no histórico do
 > git).
 
-## ⚠️ BLOQUEADOR ATIVO E GRAVE: bug de offset fixo é mais amplo do que se pensava — build ao vivo revertida 100% pro inglês
+## ✅ Bug de offset fixo em cutscene: causa confirmada e mitigada (q1) — build completa nova no ar
+
+**Resumo do desfecho (fim do dia 2026-08-18):** o mecanismo do bug foi
+confirmado por teste controlado A/B ao vivo (não só teoria): referências
+a legenda de cutscene pré-renderizada usam **offset fixo em bytes**
+dentro do pool do `.db`, não índice. Qualquer string ANTES da referida
+que mude de tamanho desalinha a referência.
+
+**Testes feitos (ambos em `q1_loc_en_0.db`, cutscene de abertura):**
+1. Traduzir só os índices ≥1483 (a fala "Stop!..."), deixando tudo antes
+   100% intocado em inglês → a legenda daquele ponto específico voltou a
+   bater certo. Confirma que o offset desalinha por causa do que vem
+   ANTES, não por causa do índice em si.
+2. Mesma coisa, mas agora travando o tamanho em bytes (`fit_to_byte_length`)
+   de toda tradução a partir do índice 1483, em vez de deixar em inglês →
+   **usuário confirmou a cutscene inteira certa**, com exceção esperada
+   dos finais de frase truncados pelo ajuste de bytes.
+
+**Bug lateral encontrado e corrigido nesse processo**: `fit_to_byte_length`
+(`translator/utils.py`) tinha uma falha real — ao truncar um texto que
+cortava logo depois do byte inicial de um caractere multibyte (ex:
+"ã" cortando entre os 2 bytes), ela removia bytes de continuação mas não
+recompletava o padding, deixando o resultado 1-3 bytes mais curto que o
+esperado. Corrigido: agora decodifica com `errors="ignore"` pra descartar
+de forma robusta qualquer sequência UTF-8 incompleta no corte, antes de
+completar o padding.
+
+**Mitigação aplicada em `build_full_pack.py`**: novo dict
+`CUTSCENE_BYTE_LOCK = {"data\\localization\\q1_loc_en_0.db": 1483}` —
+aplicado por OCORRÊNCIA (arquivo+índice), não por `canonical_id` (a
+mesma string pode estar traduzida livre em outro lugar e travada em
+bytes só nessa ocorrência específica). `common_loc_en_0.db` continua
+totalmente excluído (Etapa 1, ver histórico abaixo).
+
+**Risco conhecido e NÃO resolvido**: só descobrimos essa cutscene porque
+o usuário jogou e viu a legenda errada. Não há forma estática de
+detectar outras cutscenes com o mesmo problema nos outros 24 arquivos de
+missão/capítulo (`q2`–`q17`, `chapter2`–`chapter5`) — busca binária por
+offset candidato nos `.cpk` grandes (`Gui_Main_0.cpk`,
+`Cutscenes_Main_0.cpk`, `Engine_Main_0.cpk`, `Databases_PC_Main_0.cpk`,
+`Episode_One_0.cpk`, `Characters_Main_0.cpk`) não achou a referência
+real. **Decisão explícita do usuário**: publicar a build completa
+(tradução livre em todo o resto, já validada segura pra diálogo comum na
+Fase 0) e tratar isso como beta contínua — pedir pros testers reportarem
+qualquer legenda de cutscene fora do lugar, mesmo padrão que resolveu
+esse caso. Se aparecer de novo, o conserto já está mapeado: achar o
+índice onde a cutscene começa e adicionar a entrada em
+`CUTSCENE_BYTE_LOCK`.
+
+**Estado do `.cpk` ao vivo**: `Loca_en_Main_0.cpk` foi sobrescrito com o
+build completo (`Loca_en_Main_0_pt_SAFE.cpk`, gerado por
+`build_full_pack.py` a partir do `.orig_backup`) — hash
+`7c68b32ed927b1fcf7dfcedc7c978d273df1ac3ce1e7f0e0fc94897f3ff3721d`.
+
+**Pendente**: reabrir o release do GitHub (`v1.0.0-beta1`, hoje em
+`draft`) com essa build corrigida e notas atualizadas, e gerar o `.zip`
+do patch pros outros usuários.
+
+---
+
+### Histórico da investigação (mantido como registro)
 
 **Escalada em duas etapas na mesma sessão (2026-08-18):**
 

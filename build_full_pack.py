@@ -17,7 +17,11 @@ from repack_db import read_db_parts, repack_db
 from repack_cpk import read_cpk, repack_cpk, MAGIC
 from translator.utils import fit_to_byte_length
 
-CPK_PATH = PROJECT_ROOT / "Loca_en_Main_0.cpk"
+# Sempre parte do backup pristino, nunca do .cpk ao vivo (que pode estar com
+# uma build de teste parcial em cima, como durante a investigacao do bug de
+# cutscene em 2026-08-18) - qualquer entrada nao sobrescrita em `overrides`
+# vem direto daqui.
+CPK_PATH = PROJECT_ROOT / "Loca_en_Main_0.cpk.orig_backup"
 CANDIDATE_CPK = PROJECT_ROOT / "Loca_en_Main_0_pt_SAFE.cpk"
 EXTRACTED_DIR = PROJECT_ROOT / "Extracted_Loc_En"
 
@@ -30,6 +34,19 @@ EXTRACTED_DIR = PROJECT_ROOT / "Extracted_Loc_En"
 # menus. Ate o offset real ser localizado e corrigido (ver PAUSA.md),
 # este arquivo fica de fora - mantido 100% no original em ingles.
 EXCLUDE_FILES = {"data\\localization\\common_loc_en_0.db"}
+
+# Mesma familia de bug do EXCLUDE_FILES acima, mas descoberta numa cutscene
+# pre-renderizada de q1_loc_en_0.db (nao no boot/menu): a legenda referencia
+# a string por offset fixo em bytes dentro do pool, nao por indice. Testado
+# ao vivo em 2026-08-18 (ver PAUSA.md): travar o tamanho em bytes de tudo a
+# partir do indice abaixo (usando fit_to_byte_length) destravou a cutscene
+# inteira, sem precisar excluir o arquivo todo como em common_loc_en_0.db.
+# Isso so cobre a cutscene ja encontrada por teste manual - outros arquivos
+# de missao podem ter cutscenes com o mesmo problema ainda nao descobertas
+# (nao ha como detectar isso estaticamente - ver PAUSA.md).
+CUTSCENE_BYTE_LOCK: dict[str, int] = {
+    "data\\localization\\q1_loc_en_0.db": 1483,
+}
 
 
 def main() -> None:
@@ -76,13 +93,26 @@ def main() -> None:
         print(f"ajustados {fixed} itens do cluster de tamanho fixo (menu de boot)")
 
     # canonical_id -> texto final ; agora expande pra {file: {index: texto}}
+    # CUTSCENE_BYTE_LOCK e aplicado por OCORRENCIA (file+index), nao por
+    # canonical_id: a mesma string pode aparecer traduzida livre em um lugar
+    # e travada em bytes em outro, dependendo de onde ela cai.
     replacements_by_file: dict[str, dict[int, str]] = {}
+    byte_locked_count = 0
     for cid, info in canonical.items():
         text = final_text[cid]
         for occ in info["occurrences"]:
-            replacements_by_file.setdefault(occ["file"], {})[occ["index"]] = text
+            fname, idx = occ["file"], occ["index"]
+            split_idx = CUTSCENE_BYTE_LOCK.get(fname)
+            if split_idx is not None and idx >= split_idx:
+                out_text = fit_to_byte_length(info["text"], text)
+                byte_locked_count += 1
+            else:
+                out_text = text
+            replacements_by_file.setdefault(fname, {})[idx] = out_text
 
     print(f"arquivos .db afetados: {len(replacements_by_file)}")
+    if byte_locked_count:
+        print(f"strings com tamanho em bytes travado no original (cutscenes conhecidas): {byte_locked_count}")
 
     overrides: dict[str, bytes] = {}
     for db_rel_path, replacements in sorted(replacements_by_file.items()):

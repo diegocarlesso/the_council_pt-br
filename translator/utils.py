@@ -85,11 +85,14 @@ def fit_to_byte_length(original: str, replacement: str) -> str:
     orig_len = len(original.encode("utf-8"))
     rep_bytes = replacement.encode("utf-8")
     if len(rep_bytes) > orig_len:
-        rep_bytes = rep_bytes[:orig_len]
-        while rep_bytes and (rep_bytes[-1] & 0xC0) == 0x80:
-            rep_bytes = rep_bytes[:-1]
-    else:
-        rep_bytes = rep_bytes + b" " * (orig_len - len(rep_bytes))
+        # decode(errors="ignore") descarta de forma robusta qualquer
+        # sequencia UTF-8 incompleta deixada no final do corte - cobre tanto
+        # cortar no meio de um byte de continuacao quanto logo apos o byte
+        # inicial de um char multibyte (comum com acentos em pt-BR, ex:
+        # "m~e." cortando bem no "a" de "mãe" antes do til completar)
+        rep_bytes = rep_bytes[:orig_len].decode("utf-8", errors="ignore").encode("utf-8")
+    # sempre repadroniza pro tamanho exato do original
+    rep_bytes = rep_bytes + b" " * (orig_len - len(rep_bytes))
     return rep_bytes.decode("utf-8", errors="ignore")
 
 
