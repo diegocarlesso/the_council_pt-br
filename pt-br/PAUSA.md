@@ -4,7 +4,38 @@
 > Substitui a nota de pausa de 2026-08-14 (arquivada no histórico do
 > git).
 
-## ✅ Bug de offset fixo em cutscene: causa confirmada e mitigada (q1) — build completa nova no ar
+## ⚠️ Investigação em andamento: offset real da cutscene (Frida) + overflow de UI na roda de diálogo
+
+**Regressão encontrada e corrigida (commit `c808533`)**: o primeiro build
+completo (`5a1b8fc`) só travava o tamanho em bytes a PARTIR do índice da
+cutscene (1483), mas deixava os índices ANTERIORES (diálogo comum do
+início do capítulo 1) traduzidos livremente. Como o offset depende do
+tamanho acumulado de tudo que vem antes no pool, isso reintroduziu o
+bug (legenda errada "Washington..." de novo, confirmado ao vivo pelo
+usuário). Corrigido: agora índices 0–1482 de `q1_loc_en_0.db` ficam
+100% no original em inglês (não só com tamanho travado), restaurando
+exatamente o que o teste isolado tinha validado. Custo: todo o diálogo
+do início do capítulo 1 antes da cutscene fica em inglês por enquanto.
+
+**Novo bug encontrado, categoria diferente**: a roda de diálogo (seleção
+de opções de fala) corta o texto quando a tradução em pt-BR é mais longa
+que o inglês original — a UI não escala/quebra linha, só corta na
+borda. Não é o bug de offset (o texto mostrado É o certo, só está
+cortado visualmente). Ainda não investigado a fundo.
+
+**Em andamento agora**: instaladas ferramentas (`pymem`, `frida`,
+`capstone`) pra análise dinâmica de memória do processo do jogo rodando,
+tentando achar a referência real do offset fixo (pra poder traduzir sem
+nenhum corte/ajuste, em vez de manter trechos inteiros em inglês). Sem
+ponteiros absolutos apontando pras strings da cutscene encontrados até
+agora - hipótese atual é que o endereço é calculado em tempo real
+(`pool_base + offset`), não guardado como ponteiro fixo estático.
+Usuário decidiu investigar esse offset E o overflow da roda de diálogo
+em paralelo.
+
+---
+
+## Desfecho anterior (histórico): bug de offset fixo em cutscene confirmado e mitigado (q1)
 
 **Resumo do desfecho (fim do dia 2026-08-18):** o mecanismo do bug foi
 confirmado por teste controlado A/B ao vivo (não só teoria): referências
