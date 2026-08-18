@@ -1,51 +1,80 @@
-# Estado do pipeline — 2026-08-18 00:35
+# Estado do pipeline — 2026-08-18 01:15
 
 > Nota manual (não é gerada por script, ao contrário de `PROGRESS.md`).
 > Substitui a nota de pausa de 2026-08-14 (arquivada no histórico do
 > git).
 
-## ⚠️ BLOQUEADOR ATIVO: `common_loc_en_0.db` não pode ser traduzido ainda
+## ⚠️ BLOQUEADOR ATIVO E GRAVE: bug de offset fixo é mais amplo do que se pensava — build ao vivo revertida 100% pro inglês
 
-**Achado crítico de 2026-08-18**: montamos o primeiro build completo
-(as 21.806 strings, incluindo `common_loc_en_0.db`), aplicamos no jogo
-ao vivo pra teste — **os menus quebraram** (texto sobreposto, cortado,
-até um "Sauvegarde 3" em francês vazando de outra posição do pool).
+**Escalada em duas etapas na mesma sessão (2026-08-18):**
 
-Isso confirma e amplia o risco já documentado em
-[04-RISCOS_TECNICOS.md](docs/04-RISCOS_TECNICOS.md#1-reinjeção): um
-cluster de strings em `common_loc_en_0.db` (ligado à tela de boot/menu)
-é referenciado por **offset fixo em bytes** a partir de outro arquivo
-(suspeita: `Gui_Main_0.cpk`, nunca localizado com precisão). O Fase 0
-só validou 4 strings seguras (`PLAY`, `Savegame 1/2/3`) com ajuste pra
-byte exato — **o alcance real do cluster afetado nunca foi confirmado**,
-e aparentemente é bem maior que aquelas 4 (talvez o arquivo inteiro,
-já que tudo que muda de tamanho ANTES do ponto afetado desalinha o
-offset pra tudo que vem depois).
+**Etapa 1 — telas de menu quebradas.** Build completa (26 arquivos
+traduzidos, incluindo `common_loc_en_0.db`) aplicada no jogo ao vivo —
+os menus quebraram (texto sobreposto/cortado, "Sauvegarde 3" em
+francês vazando de outra posição do pool). Confirma e amplia o risco
+documentado em [04-RISCOS_TECNICOS.md](docs/04-RISCOS_TECNICOS.md#1-reinjeção):
+um cluster de strings em `common_loc_en_0.db` é referenciado por
+**offset fixo em bytes** a partir de outro arquivo (suspeita:
+`Gui_Main_0.cpk`, nunca localizado com precisão). O Fase 0 só validou
+4 strings seguras (`PLAY`, `Savegame 1/2/3`) — o alcance real nunca
+foi confirmado. **Mitigação tentada**: excluir só `common_loc_en_0.db`
+(mantido em inglês), manter os outros 25 arquivos traduzidos.
 
-**Mitigação aplicada agora (build atual em produção)**:
-`common_loc_en_0.db` foi **revertido 100% pro inglês original** — só
-esse arquivo. Os outros 25 arquivos (diálogo/missão, ~85% do corpus,
-já validado ao vivo como seguro desde a Fase 0) seguem traduzidos
-normalmente. Script em
-`D:\temp\claude\...\scratchpad\build_full_pack.py` (fora do repo, no
-scratchpad de uma sessão do Claude Code — precisa ser recriado ou
-salvo em algum lugar do projeto se for reusar) tem uma lista
-`EXCLUDE_FILES` pra isso.
+**Etapa 2 — o mesmo bug apareceu em `q1_loc_en_0.db` (arquivo de
+missão, supostamente "seguro").** Com a mitigação da Etapa 1 aplicada,
+o usuário iniciou um **novo jogo** e a cutscene pré-renderizada de
+abertura mostrou a legenda errada: a fala certa pra aquele momento
+("Stop! You're not getting anywhere with this, Von Borchert!",
+`c_617629719c74`, índices 1483/1547 em `q1_loc_en_0.db`) foi
+substituída na tela pela legenda de uma fala **anterior no mesmo
+arquivo** ("Good Lord, Washington is wearing the emblem of the Grand
+Master of the Golden Order!", `c_0f5b95d46039`, índices 1324/1417).
+Índice mostrado (1324) < índice certo (1483) é exatamente o padrão
+esperado se for o mesmo bug de offset fixo: como a tradução pt-BR é
+mais longa que o inglês, o pool cresceu, e uma referência fixa em
+bytes (provavelmente de `Cutscenes_Main_0.cpk`, sincronizando legenda
+com a cutscene pré-renderizada) agora aponta pra uma posição mais
+cedo do que devia.
 
-**Pendência real pra desbloquear tradução de sistema/menu**:
-1. Localizar de verdade o offset fixo (provavelmente dentro de
-   `Gui_Main_0.cpk` — nunca foi feita essa investigação a fundo).
-2. OU mapear o alcance exato do cluster afetado dentro de
-   `common_loc_en_0.db` pra tratar só essas strings com ajuste de
-   byte exato (como foi feito pras 4 originais) e liberar o resto do
-   arquivo pra tradução livre.
-3. OU aceitar traduzir só o cluster afetado com abreviação forçada
-   (mesmo comprimento em bytes do inglês) e traduzir o resto do
-   arquivo livremente — precisa saber o alcance (item 2) primeiro.
+**Isso muda o diagnóstico**: a Fase 0 só testou diálogo comum (roda de
+diálogo, conversas normais do motor do jogo) — não cutscenes
+pré-renderizadas, que aparentam usar um mecanismo de sincronização de
+legenda diferente e vulnerável ao mesmo problema de offset fixo.
+Cutscenes desse tipo podem estar espalhadas por **qualquer** um dos
+24 arquivos de missão/capítulo, não só `q1`. Não temos hoje nenhuma
+forma de enumerar quais strings especificamente pertencem a cutscenes
+vs. diálogo comum seguro.
 
-**Release público**: o [v1.0.0-beta1](https://github.com/diegocarlesso/the_council_pt-br/releases/tag/v1.0.0-beta1)
-já foi corrigido (asset trocado, notas atualizadas) pra refletir isso
-— só diálogo/missão traduzidos, sistema/menu em inglês.
+**Mitigação atual (aplicada, jogo ao vivo revertido)**: `Loca_en_Main_0.cpk`
+voltou a ser **byte-idêntico ao `.orig_backup`** (100% inglês original,
+zero tradução aplicada). Confirmado por checksum.
+
+**Release público**: [v1.0.0-beta1](https://github.com/diegocarlesso/the_council_pt-br/releases/tag/v1.0.0-beta1)
+foi **retirado de circulação** (`gh release edit --draft`, não fica
+mais listado publicamente) — as notas do release documentam o motivo.
+
+**Pendência real pra desbloquear qualquer tradução de missão/cutscene
+de novo:**
+1. Descobrir quais falas especificamente são ditas em cutscenes
+   pré-renderizadas (vs. diálogo comum do motor, que segue confirmado
+   seguro) — provavelmente precisa investigar `Cutscenes_Main_0.cpk`
+   pra achar a tabela de sincronização legenda↔vídeo.
+2. Localizar o offset fixo de verdade (a referência externa) pra,
+   idealmente, poder recalculá-lo/atualizá-lo em vez de evitar mudar
+   o tamanho das strings.
+3. Alternativa mais simples se 1/2 não derem certo: tratar TODAS as
+   strings de cutscene (uma vez identificadas) com ajuste de byte
+   exato, como já foi validado pro cluster de boot do
+   `common_loc_en_0.db`.
+4. Sem 1, 2 ou 3, a única opção seria não traduzir NENHUM arquivo que
+   contenha cutscenes — o que pode ser a maioria/todos os arquivos de
+   missão, inviabilizando a abordagem atual quase por completo. Vale
+   muito investir tempo em 1/2 antes de desistir dessa via.
+
+Script de build: `build_full_pack.py` na raiz do repo (já commitado).
+Hoje ele só exclui `common_loc_en_0.db` — **não é suficiente** dado o
+achado da Etapa 2, precisa ser revisto antes de gerar qualquer build
+nova pra teste.
 
 ## Marco: 21806/21806 traduzíveis com tradução (100%), 0 em needs_review
 
