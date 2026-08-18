@@ -35,12 +35,22 @@ EXTRACTED_DIR = PROJECT_ROOT / "Extracted_Loc_En"
 # este arquivo fica de fora - mantido 100% no original em ingles.
 EXCLUDE_FILES = {"data\\localization\\common_loc_en_0.db"}
 
-# Mesma familia de bug do EXCLUDE_FILES acima, mas descoberta numa cutscene
-# pre-renderizada de q1_loc_en_0.db (nao no boot/menu): a legenda referencia
-# a string por offset fixo em bytes dentro do pool, nao por indice. Testado
-# ao vivo em 2026-08-18 (ver PAUSA.md): travar o tamanho em bytes de tudo a
-# partir do indice abaixo (usando fit_to_byte_length) destravou a cutscene
-# inteira, sem precisar excluir o arquivo todo como em common_loc_en_0.db.
+# Mesma familia de bug do EXCLUDE_FILES acima, numa cutscene pre-renderizada
+# de q1_loc_en_0.db (nao no boot/menu): a legenda referencia a string por
+# offset fixo em bytes DENTRO DO POOL, nao por indice. O offset depende do
+# tamanho acumulado de TUDO que vem antes da string referenciada no pool -
+# entao nao basta travar o tamanho a partir do indice da cutscene, tudo
+# ANTES dele tambem precisa ficar com o mesmo tamanho em bytes do original.
+# Confirmado ao vivo 2x em 2026-08-18 (ver PAUSA.md):
+#   1. 1a tentativa so travou bytes a PARTIR do indice da cutscene, mas
+#      deixou os indices anteriores (dialogo comum do inicio do jogo)
+#      traduzidos livremente -> pool cresceu antes do ponto de referencia
+#      e o bug voltou (legenda errada de novo, mesmo sintoma).
+#   2. Teste isolado anterior (so esse arquivo, resto do build intacto)
+#      tinha mantido os indices anteriores 100% em ingles (nao so travados
+#      em bytes, intocados mesmo) - So assim funcionou.
+# Mitigacao atual: tudo ANTES do indice abaixo fica no original (ingles);
+# tudo A PARTIR do indice fica traduzido com tamanho em bytes travado.
 # Isso so cobre a cutscene ja encontrada por teste manual - outros arquivos
 # de missao podem ter cutscenes com o mesmo problema ainda nao descobertas
 # (nao ha como detectar isso estaticamente - ver PAUSA.md).
@@ -98,12 +108,19 @@ def main() -> None:
     # e travada em bytes em outro, dependendo de onde ela cai.
     replacements_by_file: dict[str, dict[int, str]] = {}
     byte_locked_count = 0
+    english_kept_count = 0
     for cid, info in canonical.items():
         text = final_text[cid]
         for occ in info["occurrences"]:
             fname, idx = occ["file"], occ["index"]
             split_idx = CUTSCENE_BYTE_LOCK.get(fname)
-            if split_idx is not None and idx >= split_idx:
+            if split_idx is not None and idx < split_idx:
+                # tudo ANTES do ponto de referencia da cutscene tem que ficar
+                # byte-identico ao original, senao o offset desalinha antes
+                # mesmo de chegar no trecho travado abaixo
+                out_text = info["text"]
+                english_kept_count += 1
+            elif split_idx is not None and idx >= split_idx:
                 out_text = fit_to_byte_length(info["text"], text)
                 byte_locked_count += 1
             else:
@@ -113,6 +130,8 @@ def main() -> None:
     print(f"arquivos .db afetados: {len(replacements_by_file)}")
     if byte_locked_count:
         print(f"strings com tamanho em bytes travado no original (cutscenes conhecidas): {byte_locked_count}")
+    if english_kept_count:
+        print(f"strings mantidas 100% no original em ingles (antes do ponto de referencia da cutscene): {english_kept_count}")
 
     overrides: dict[str, bytes] = {}
     for db_rel_path, replacements in sorted(replacements_by_file.items()):
