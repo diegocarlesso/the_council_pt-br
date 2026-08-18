@@ -56,6 +56,15 @@ EXCLUDE_FILES = {"data\\localization\\common_loc_en_0.db"}
 # (nao ha como detectar isso estaticamente - ver PAUSA.md).
 CUTSCENE_BYTE_LOCK: dict[str, int] = {
     "data\\localization\\q1_loc_en_0.db": 1483,
+    # 2a instancia confirmada em jogo 2026-08-18: cena com um criado/porteiro
+    # ("Do not hesitate to ask a servant to show you back", indice 1358)
+    # mostrando a legenda de outra fala completamente diferente ("Good
+    # evening, Sir... My instructions are to let no one pass", indice
+    # ~1270) - mesma assinatura do bug de q1 (indice mostrado < indice
+    # certo). Split inferido por contexto/padrao, nao confirmado por
+    # forense de memoria como o de q1 - se aparecer errado de novo por
+    # aqui, pode precisar de um indice mais baixo.
+    "data\\localization\\q2_loc_en_0.db": 1358,
 }
 
 
